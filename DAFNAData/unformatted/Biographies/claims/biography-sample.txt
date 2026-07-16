@@ -1,0 +1,1 @@
+John Doe	Born	InfoboxPerson	R	Contributor#S1	RevBio	[1/1/1980 12:00:00 AM to 1/1/1980 11:59:59 PM]

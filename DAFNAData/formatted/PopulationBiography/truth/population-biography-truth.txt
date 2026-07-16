@@ -1,0 +1,2 @@
+citya, st, 2006, 100000
+John Doe	Born	1/1/1980	truth	S1	null

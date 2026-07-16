@@ -5,6 +5,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
 public class Globals {
+	private static final String workspaceRoot = System.getProperty("user.dir");
+	private static final String dataRoot = workspaceRoot + "/DAFNAData";
+	private static final String chartsRoot = dataRoot + "/experiments/charts/chartsCollection";
 	static public HashMap<Integer, String> sourceTruthMethod = new HashMap<Integer, String>();
 	static {
 		sourceTruthMethod.put(-1, "No Control");
@@ -23,8 +26,8 @@ public class Globals {
 	public static final int valueSimilarity_similar = -1;
 	public static final int valueSimilarity_dissSimilar = 1;
 
-	public static final String chartsFoleder = "/home/dalia/DAFNAData/experiments/charts/chartsCollection/all/";
-	public static final String finalChartsFolder = "/home/dalia/DAFNAData/experiments/charts/chartsCollection/final";
+	public static final String chartsFoleder = chartsRoot + "/all/";
+	public static final String finalChartsFolder = chartsRoot + "/final";
 
 	public static final String voterVoting = "Voting";
 	public static final String voterTruthFinder = "Truth Finder";
@@ -56,14 +59,13 @@ public class Globals {
 	public static final String weatherDataSet_Pressure = "Pressure";
 	public static final String weatherDataSet_Visibility = "Visibility";
 
-	private static final String name = "/home/dalia";
-	private static final String directory_Log = name + "/DAFNAData/experiments";
+	private static final String directory_Log = dataRoot + "/experiments";
 	public static final String directory_datasetLog = directory_Log + "/datasetLog";
 	public static final String directory_voterLog = directory_Log + "/voterLog";
 	public static final String directory_dependencyReport = directory_Log + "/dependencyReport";
 
-	private static final String directory_formattedDAFNADataset = name + "/DAFNAData/formatted";//"/home/dalia/DAFNAData/formatted";
-	private static final String directory_UN_formattedDAFNADataset = name + "/DAFNAData/unformatted";
+	private static final String directory_formattedDAFNADataset = dataRoot + "/formatted";
+	private static final String directory_UN_formattedDAFNADataset = dataRoot + "/unformatted";
 	public static final String directory_formattedDAFNADataset_SourcesTrueClaims = directory_formattedDAFNADataset + "/logs/sourcesTrueClaims";
 
 	// Flight dataSet

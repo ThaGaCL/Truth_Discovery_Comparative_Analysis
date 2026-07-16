@@ -1,0 +1,5 @@
+13847310|	|	citya2026-07-02t10|	Temperature|	72|	accuweather|	2026-07-02t10:00|	
+13847311|	|	citya2026-07-02t10|	RealFeel|	70|	accuweather|	2026-07-02t10:00|	
+13847312|	|	citya2026-07-02t10|	Humidity|	55|	accuweather|	2026-07-02t10:00|	
+13847313|	|	citya2026-07-02t10|	Pressure|	30.01|	accuweather|	2026-07-02t10:00|	
+13847314|	|	citya2026-07-02t10|	Visibility|	10|	accuweather|	2026-07-02t10:00|	

@@ -2,13 +2,10 @@ package main;
 
 import qcri.dafna.dataModel.data.Globals;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.BiographyDataSetReadOldWriteNew;
-import qcri.dafna.dataModel.dataSet.dataSetFormatter.OldBooksDataSetFormatter;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.OldFlightDataSetReader;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.PopulationBiographyDataSetGenerator;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.PopulationDatasetReadOldWriteNew;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.WeatherReadOldWriteNew;
-import qcri.dafna.dataModel.dataSetReader.BiographyTruthReader;
-import qcri.dafna.dataModel.quality.dataQuality.DataItemMeasures;
 
 public class MainClass {
 	
@@ -27,8 +24,20 @@ public class MainClass {
 //			System.out.println(cov);
 //		}
 
-		readOldWeatherFilesWriteNewFiles();
-
+		String mode = args.length == 0 ? "weather" : args[0].trim().toLowerCase();
+		if (mode.equals("weather")) {
+			readOldWeatherFilesWriteNewFiles();
+		} else if (mode.equals("population")) {
+			readOldPopulationFilesWriteNewFiles();
+		} else if (mode.equals("population-biography")) {
+			readOldPopulationAndBiographyFilesWriteNewFiles();
+		} else if (mode.equals("biography")) {
+			readOldBiographyFilesWriteNewFiles();
+		} else if (mode.equals("flight")) {
+			readOldFlightFilesWriteNewFiles();
+		} else {
+			System.out.println("Usage: java -cp build/classes main.MainClass [weather|population|population-biography|biography|flight]");
+		}
 //		readOldPopulationAndBiographyFilesWriteNewFiles();
 
 		//		readOldPopulationFilesWriteNewFiles();
@@ -64,18 +73,6 @@ public class MainClass {
 		OldFlightDataSetReader dsw = new OldFlightDataSetReader();
 		System.out.println("Started");
 		dsw.readOldFlightFileAndWriteNewFiles(Globals.delimiterText);
-		System.out.println("Done");
-	}
-	static private void readOldBookFilesWriteNewFiles() {
-		OldBooksDataSetFormatter bookFormatter = new OldBooksDataSetFormatter();
-		System.out.println("Started");
-		bookFormatter.readOldBooksWriteFormattedBooks(Globals.delimiterText, false);
-		System.out.println("Done");
-	}
-	static private void readOldBookFilesWriteNewFilesSingleClaimValue() {
-		OldBooksDataSetFormatter bookFormatter = new OldBooksDataSetFormatter();
-		System.out.println("Started");
-		bookFormatter.readOldBooksWriteFormattedBooks(Globals.delimiterText, true);
 		System.out.println("Done");
 	}
 	static private void readOldBiographyFilesWriteNewFiles() {
