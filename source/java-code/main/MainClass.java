@@ -6,6 +6,7 @@ import qcri.dafna.dataModel.dataSet.dataSetFormatter.OldFlightDataSetReader;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.PopulationBiographyDataSetGenerator;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.PopulationDatasetReadOldWriteNew;
 import qcri.dafna.dataModel.dataSet.dataSetFormatter.WeatherReadOldWriteNew;
+import qcri.dafna.dataModel.dataSet.dataSetFormatter.MovieDataSetReadOldWriteNew;
 
 public class MainClass {
 	
@@ -35,8 +36,10 @@ public class MainClass {
 			readOldBiographyFilesWriteNewFiles();
 		} else if (mode.equals("flight")) {
 			readOldFlightFilesWriteNewFiles();
+		} else if (mode.equals("movies")) {
+			readMoviesFilesWriteNewFiles();
 		} else {
-			System.out.println("Usage: java -cp build/classes main.MainClass [weather|population|population-biography|biography|flight]");
+			System.out.println("Usage: java -cp build/classes main.MainClass [weather|population|population-biography|biography|flight|movies]");
 		}
 //		readOldPopulationAndBiographyFilesWriteNewFiles();
 
@@ -79,6 +82,12 @@ public class MainClass {
 		BiographyDataSetReadOldWriteNew bio = new BiographyDataSetReadOldWriteNew();
 		System.out.println("Started");
 		bio.readOldBiographyFileAndWriteNewFiles(Globals.delimiterText);
+		System.out.println("Done");
+	}
+	static private void readMoviesFilesWriteNewFiles() {
+		MovieDataSetReadOldWriteNew movies = new MovieDataSetReadOldWriteNew();
+		System.out.println("Started processing movies dataset");
+		movies.readMoviesClaimsAndWriteTruthFiles(Globals.delimiterText);
 		System.out.println("Done");
 	}
 }

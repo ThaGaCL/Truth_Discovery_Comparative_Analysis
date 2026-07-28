@@ -1,0 +1,1143 @@
+50003	tt0003442	title	Tess of the d'Urbervilles	wikidata	2026-07-28	
+50004	tt0003442	directors	J. Searle Dawley	wikidata	2026-07-28	
+50005	tt0003442	writers	Thomas Hardy	wikidata	2026-07-28	
+50011	tt0005626	title	The Little Dutch Girl	wikidata	2026-07-28	
+50012	tt0005626	directors	Émile Chautard	wikidata	2026-07-28	
+50016	tt0005921	title	Pretty Mrs. Smith	wikidata	2026-07-28	
+50017	tt0005921	directors	Hobart Bosworth	wikidata	2026-07-28	
+50018	tt0005921	writers	Elmer Blaney Harris	wikidata	2026-07-28	
+50028	tt0008502	title	The Red Ace	wikidata	2026-07-28	
+50029	tt0008502	directors	Jacques Jaccard	wikidata	2026-07-28	
+50030	tt0008502	writers	Jacques Jaccard	wikidata	2026-07-28	
+50043	tt0011436	title	Q38047964	wikidata	2026-07-28	
+50044	tt0011436	directors	Georg Jacoby	wikidata	2026-07-28	
+50045	tt0011436	writers	Robert Liebmann	wikidata	2026-07-28	
+50055	tt0013030	title	The Cowboy and the Lady	wikidata	2026-07-28	
+50056	tt0013030	directors	Charles Maigne	wikidata	2026-07-28	
+50057	tt0013030	writers	Julien Josephson	wikidata	2026-07-28	
+50061	tt0014059	title	Frauenmoral	wikidata	2026-07-28	
+50062	tt0014059	directors	Theo Frenkel	wikidata	2026-07-28	
+50066	tt0014852	title	Don't Call It Love	wikidata	2026-07-28	
+50067	tt0014852	directors	William Churchill deMille	wikidata	2026-07-28	
+50068	tt0014852	writers	Clara Beranger	wikidata	2026-07-28	
+50072	tt0015647	title	Broadway Lady	wikidata	2026-07-28	
+50073	tt0015647	directors	Wesley Ruggles	wikidata	2026-07-28	
+50074	tt0015647	writers	Q5495982	wikidata	2026-07-28	
+50080	tt0016551	title	Women and Gold	wikidata	2026-07-28	
+50084	tt0017500	title	The Unknown Cavalier	wikidata	2026-07-28	
+50085	tt0017500	directors	Albert S. Rogell	wikidata	2026-07-28	
+50089	tt0017743	title	Chang	wikidata	2026-07-28	
+50090	tt0017743	directors	Ernest B. Schoedsack; Merian C. Cooper	wikidata	2026-07-28	
+50091	tt0017743	writers	Achmed Abdullah; Merian C. Cooper; Ernest B. Schoedsack	wikidata	2026-07-28	
+50095	tt0017829	title	Dress Parade	wikidata	2026-07-28	
+50096	tt0017829	directors	Donald Crisp	wikidata	2026-07-28	
+50100	tt0018336	title	The Romantic Age	wikidata	2026-07-28	
+50101	tt0018336	directors	Robert Florey	wikidata	2026-07-28	
+50105	tt0018953	title	The Grain of Dust	wikidata	2026-07-28	
+50106	tt0018953	directors	George Archainbaud	wikidata	2026-07-28	
+50107	tt0018953	writers	Gordon Rigby	wikidata	2026-07-28	
+50111	tt0020514	title	The Trespasser	wikidata	2026-07-28	
+50112	tt0020514	directors	Edmund Goulding	wikidata	2026-07-28	
+50113	tt0020514	writers	Edmund Goulding	wikidata	2026-07-28	
+50117	tt0020803	title	Q16989055	wikidata	2026-07-28	
+50118	tt0020803	directors	William James Craft	wikidata	2026-07-28	
+50119	tt0020803	writers	Sherman L. Lowe	wikidata	2026-07-28	
+50123	tt0021404	title	Song of the Flame	wikidata	2026-07-28	
+50124	tt0021404	directors	Alan Crosland	wikidata	2026-07-28	
+50125	tt0021404	writers	Gordon Rigby	wikidata	2026-07-28	
+50129	tt0021483	title	Tom Sawyer	wikidata	2026-07-28	
+50130	tt0021483	directors	John Cromwell	wikidata	2026-07-28	
+50131	tt0021483	writers	Grover Jones	wikidata	2026-07-28	
+50138	tt0024950	title	The Three-Cornered Hat	wikidata	2026-07-28	
+50139	tt0024950	directors	Mario Camerini	wikidata	2026-07-28	
+50140	tt0024950	writers	Ercole Patti; Mario Soldati; Ivo Perilli	wikidata	2026-07-28	
+50144	tt0024952	title	Caravan	wikidata	2026-07-28	
+50145	tt0024952	directors	Erik Charell	wikidata	2026-07-28	
+50146	tt0024952	writers	Samson Raphaelson	wikidata	2026-07-28	
+50150	tt0025512	title	Mon cœur t'appelle	wikidata	2026-07-28	
+50151	tt0025512	directors	Carmine Gallone	wikidata	2026-07-28	
+50152	tt0025512	writers	Ernst Marischka	wikidata	2026-07-28	
+50156	tt0026542	title	Jalna	wikidata	2026-07-28	
+50157	tt0026542	directors	John Cromwell	wikidata	2026-07-28	
+50158	tt0026542	writers	Anthony Veiller	wikidata	2026-07-28	
+50162	tt0026546	title	Jérôme Perreau héros des barricades	wikidata	2026-07-28	
+50163	tt0026546	directors	Abel Gance	wikidata	2026-07-28	
+50164	tt0026546	writers	Abel Gance	wikidata	2026-07-28	
+50168	tt0027060	title	Super Speed	wikidata	2026-07-28	
+50172	tt0027535	title	Don't Get Personal	wikidata	2026-07-28	
+50173	tt0027535	directors	William Nigh	wikidata	2026-07-28	
+50174	tt0027535	writers	George Waggner	wikidata	2026-07-28	
+50178	tt0028220	title	Savoy Hotel 217	wikidata	2026-07-28	
+50179	tt0028220	directors	Gustav Ucicky; Eduard von Borsody	wikidata	2026-07-28	
+50180	tt0028220	writers	Gerhard Menzel	wikidata	2026-07-28	
+50187	tt0029141	title	Love Can Lie	wikidata	2026-07-28	
+50188	tt0029141	directors	Heinz Helbig	wikidata	2026-07-28	
+50192	tt0029328	title	O.H.M.S.	wikidata	2026-07-28	
+50193	tt0029328	directors	Raoul Walsh	wikidata	2026-07-28	
+50197	tt0030981	title	Wives Under Suspicion	wikidata	2026-07-28	
+50198	tt0030981	directors	James Whale	wikidata	2026-07-28	
+50199	tt0030981	writers	Myles Connolly	wikidata	2026-07-28	
+50203	tt0031655	title	The Minister's Friend	wikidata	2026-07-28	
+50204	tt0031655	directors	Viktor Bánky	wikidata	2026-07-28	
+50208	tt0031703	title	Mystery Plane	wikidata	2026-07-28	
+50209	tt0031703	directors	George Waggner	wikidata	2026-07-28	
+50213	tt0032793	title	Military Academy	wikidata	2026-07-28	
+50214	tt0032793	directors	D. Ross Lederman	wikidata	2026-07-28	
+50215	tt0032793	writers	Karl Brown	wikidata	2026-07-28	
+50222	tt0033880	title	Q3846997	wikidata	2026-07-28	
+50223	tt0033880	directors	Ivo Perilli	wikidata	2026-07-28	
+50224	tt0033880	writers	Nicola Manzari	wikidata	2026-07-28	
+50228	tt0034417	title	¡Ay, qué tiempos, señor Don Simón!	wikidata	2026-07-28	
+50229	tt0034417	directors	Julio Bracho	wikidata	2026-07-28	
+50233	tt0034497	title	Raigekitai Shutsudo	wikidata	2026-07-28	
+50234	tt0034497	directors	Kajirō Yamamoto	wikidata	2026-07-28	
+50238	tt0034876	title	Huella de luz	wikidata	2026-07-28	
+50239	tt0034876	directors	Rafael Gil	wikidata	2026-07-28	
+50240	tt0034876	writers	Wenceslao Fernández Flórez; Rafael Gil	wikidata	2026-07-28	
+50247	tt0035028	title	Man from Headquarters	wikidata	2026-07-28	
+50248	tt0035028	directors	Jean Yarbrough	wikidata	2026-07-28	
+50252	tt0035220	title	Private Snuffy Smith	wikidata	2026-07-28	
+50253	tt0035220	directors	Edward F. Cline	wikidata	2026-07-28	
+50254	tt0035220	writers	Billy DeBeck	wikidata	2026-07-28	
+50258	tt0037856	title	Q18693357	wikidata	2026-07-28	
+50259	tt0037856	directors	Jorma Nortimo	wikidata	2026-07-28	
+50263	tt0038428	title	Cowboy Blues	wikidata	2026-07-28	
+50264	tt0038428	directors	Ray Nazarro	wikidata	2026-07-28	
+50268	tt0038504	title	Earl Carroll Sketchbook	wikidata	2026-07-28	
+50269	tt0038504	directors	Albert S. Rogell	wikidata	2026-07-28	
+50273	tt0038582	title	A Guy Could Change	wikidata	2026-07-28	
+50274	tt0038582	directors	William K. Howard	wikidata	2026-07-28	
+50278	tt0038878	title	Renegades	wikidata	2026-07-28	
+50279	tt0038878	directors	George Sherman	wikidata	2026-07-28	
+50283	tt0039068	title	One Between the Crowd	wikidata	2026-07-28	
+50284	tt0039068	directors	Ennio Cerlesi	wikidata	2026-07-28	
+50288	tt0040489	title	Jinx Money	wikidata	2026-07-28	
+50289	tt0040489	directors	William Beaudine	wikidata	2026-07-28	
+50293	tt0041332	title	El Paso	wikidata	2026-07-28	
+50294	tt0041332	directors	Lewis R. Foster	wikidata	2026-07-28	
+50295	tt0041332	writers	J. Robert Bren	wikidata	2026-07-28	
+50299	tt0042566	title	Q12208515	wikidata	2026-07-28	
+50300	tt0042566	directors	Hassan el-Imam	wikidata	2026-07-28	
+50304	tt0044122	title	This is Korea	wikidata	2026-07-28	
+50305	tt0044122	directors	John Ford	wikidata	2026-07-28	
+50309	tt0045619	title	Champ for a Day	wikidata	2026-07-28	
+50310	tt0045619	directors	William A. Seiter	wikidata	2026-07-28	
+50311	tt0045619	writers	Irving Shulman	wikidata	2026-07-28	
+50316	tt0046237	title	Resan till dej	wikidata	2026-07-28	
+50317	tt0046237	directors	Stig Olin	wikidata	2026-07-28	
+50320	tt0046718	title	Anupama	wikidata	2026-07-28	
+50321	tt0046718	directors	Agradoot	wikidata	2026-07-28	
+50328	tt0048283	title	Land of the Pharaohs	wikidata	2026-07-28	
+50329	tt0048283	directors	Howard Hawks; Paul Helmick	wikidata	2026-07-28	
+50330	tt0048283	writers	Harold Jack Bloom; Harry Kurnitz; William Faulkner	wikidata	2026-07-28	
+50337	tt0049784	title	Early Spring	wikidata	2026-07-28	
+50338	tt0049784	directors	Yasujirō Ozu	wikidata	2026-07-28	
+50339	tt0049784	writers	Yasujirō Ozu; Kōgo Noda	wikidata	2026-07-28	
+50343	tt0050910	title	Rockets Galore!	wikidata	2026-07-28	
+50344	tt0050910	directors	Michael Relph	wikidata	2026-07-28	
+50345	tt0050910	writers	Monja Danischewsky	wikidata	2026-07-28	
+50349	tt0053337	title	Teenagers from Outer Space	wikidata	2026-07-28	
+50350	tt0053337	directors	Tom Graeff	wikidata	2026-07-28	
+50351	tt0053337	writers	Tom Graeff	wikidata	2026-07-28	
+50355	tt0054285	title	Atom Age Vampire	wikidata	2026-07-28	
+50356	tt0054285	directors	Anton Giulio Majano	wikidata	2026-07-28	
+50357	tt0054285	writers	Alberto Bevilacqua	wikidata	2026-07-28	
+50361	tt0055613	title	Watch it, Sailor!	wikidata	2026-07-28	
+50362	tt0055613	directors	Wolf Rilla	wikidata	2026-07-28	
+50363	tt0055613	writers	Falkland Cary	wikidata	2026-07-28	
+50367	tt0056289	title	The Notorious Landlady	wikidata	2026-07-28	
+50368	tt0056289	directors	Richard Quine	wikidata	2026-07-28	
+50369	tt0056289	writers	Larry Gelbart; Blake Edwards; Margery Sharp	wikidata	2026-07-28	
+50373	tt0056468	title	The Condemned of Altona	wikidata	2026-07-28	
+50374	tt0056468	directors	Vittorio De Sica	wikidata	2026-07-28	
+50375	tt0056468	writers	Cesare Zavattini; Abby Mann; Jean-Paul Sartre	wikidata	2026-07-28	
+50381	tt0057076	title	From Russia with Love	wikidata	2026-07-28	
+50382	tt0057076	directors	Terence Young	wikidata	2026-07-28	
+50383	tt0057076	writers	Johanna Harwood; Richard Maibaum	wikidata	2026-07-28	
+50387	tt0057189	title	Island of Love	wikidata	2026-07-28	
+50388	tt0057189	directors	Morton DaCosta	wikidata	2026-07-28	
+50392	tt0059036	title	100 Horsemen	wikidata	2026-07-28	
+50393	tt0059036	directors	Vittorio Cottafavi	wikidata	2026-07-28	
+50394	tt0059036	writers	Giorgio Prosperi; Vittorio Cottafavi; Antonio Eceiza	wikidata	2026-07-28	
+50398	tt0059043	title	The Collector	wikidata	2026-07-28	
+50399	tt0059043	directors	William Wyler	wikidata	2026-07-28	
+50400	tt0059043	writers	Stanley Mann; John Kohn; Terry Southern	wikidata	2026-07-28	
+50404	tt0059482	title	Las Mujeres los prefieren tontos	wikidata	2026-07-28	
+50405	tt0059482	directors	Luis Saslavsky	wikidata	2026-07-28	
+50409	tt0059551	title	L'Or du duc	wikidata	2026-07-28	
+50410	tt0059551	directors	Jacques Baratier	wikidata	2026-07-28	
+50411	tt0059551	writers	Jacques Baratier	wikidata	2026-07-28	
+50415	tt0061180	title	The Whisperers	wikidata	2026-07-28	
+50416	tt0061180	directors	Bryan Forbes	wikidata	2026-07-28	
+50417	tt0061180	writers	Bryan Forbes	wikidata	2026-07-28	
+50421	tt0061437	title	Calamity the Cow	wikidata	2026-07-28	
+50422	tt0061437	directors	David Eastman	wikidata	2026-07-28	
+50429	tt0061828	title	An Italian in America	wikidata	2026-07-28	
+50430	tt0061828	directors	Alberto Sordi	wikidata	2026-07-28	
+50431	tt0061828	writers	Rodolfo Sonego; Alberto Sordi	wikidata	2026-07-28	
+50435	tt0061877	title	Kommissar X - Drei blaue Panther	wikidata	2026-07-28	
+50436	tt0061877	directors	Gianfranco Parolini	wikidata	2026-07-28	
+50437	tt0061877	writers	Giovanni Simonelli	wikidata	2026-07-28	
+50441	tt0062231	title	Blood of the Virgins	wikidata	2026-07-28	
+50442	tt0062231	directors	Emilio Vieyra	wikidata	2026-07-28	
+50443	tt0062231	writers	Emilio Vieyra	wikidata	2026-07-28	
+50447	tt0062863	title	Dark of the Sun	wikidata	2026-07-28	
+50448	tt0062863	directors	Jack Cardiff	wikidata	2026-07-28	
+50449	tt0062863	writers	Ranald MacDougall	wikidata	2026-07-28	
+50453	tt0063142	title	Isle of the Snake People	wikidata	2026-07-28	
+50454	tt0063142	directors	Juan Ibáñez Díez-Gutiérrez; Jack Hill	wikidata	2026-07-28	
+50455	tt0063142	writers	Jack Hill; Luis Enrique Vergara	wikidata	2026-07-28	
+50459	tt0063190	title	Q10547303	wikidata	2026-07-28	
+50460	tt0063190	directors	Torgny Anderberg	wikidata	2026-07-28	
+50461	tt0063190	writers	Torgny Anderberg	wikidata	2026-07-28	
+50465	tt0063556	title	It's Your Move	wikidata	2026-07-28	
+50466	tt0063556	directors	Roberto Fizz	wikidata	2026-07-28	
+50467	tt0063556	writers	José Gutiérrez Maesso; Luciano Martino; Tito Carpi; Ennio de Concini	wikidata	2026-07-28	
+50471	tt0063760	title	Q4009212	wikidata	2026-07-28	
+50472	tt0063760	directors	Bruno Gaburro	wikidata	2026-07-28	
+50473	tt0063760	writers	Bruno Gaburro	wikidata	2026-07-28	
+50477	tt0064119	title	Poppea's Hot Nights	wikidata	2026-07-28	
+50478	tt0064119	directors	Guido Malatesta	wikidata	2026-07-28	
+50479	tt0064119	writers	Gianfranco Clerici; Guido Malatesta	wikidata	2026-07-28	
+50483	tt0064208	title	Death Rides a Horse	wikidata	2026-07-28	
+50484	tt0064208	directors	Giulio Petroni	wikidata	2026-07-28	
+50485	tt0064208	writers	Luciano Vincenzoni	wikidata	2026-07-28	
+50489	tt0064243	title	The Sweet Body of Deborah	wikidata	2026-07-28	
+50490	tt0064243	directors	Romolo Guerrieri	wikidata	2026-07-28	
+50491	tt0064243	writers	Luciano Martino; Ernesto Gastaldi	wikidata	2026-07-28	
+50495	tt0064667	title	The Mighty Gorga	wikidata	2026-07-28	
+50496	tt0064667	directors	David L. Hewitt	wikidata	2026-07-28	
+50500	tt0066470	title	The Complete Idiot	wikidata	2026-07-28	
+50501	tt0066470	directors	Juan de Orduña	wikidata	2026-07-28	
+50502	tt0066470	writers	Rafael J. Salvia; Margarita Robles	wikidata	2026-07-28	
+50509	tt0067695	title	Russian field	wikidata	2026-07-28	
+50510	tt0067695	directors	Nikolay Moskalenko	wikidata	2026-07-28	
+50511	tt0067695	writers	Mikhail Alekseyev	wikidata	2026-07-28	
+50515	tt0069147	title	Q118646693	wikidata	2026-07-28	
+50516	tt0069147	directors	Nelson Pereira dos Santos	wikidata	2026-07-28	
+50520	tt0069224	title	Sattar Khan	wikidata	2026-07-28	
+50521	tt0069224	directors	Ali Hatami	wikidata	2026-07-28	
+50522	tt0069224	writers	Ali Hatami	wikidata	2026-07-28	
+50526	tt0069702	title	Ambush	wikidata	2026-07-28	
+50527	tt0069702	directors	Ho Meng Hua	wikidata	2026-07-28	
+50531	tt0070049	title	Facets of Love	wikidata	2026-07-28	
+50532	tt0070049	directors	Li Han-hsiang	wikidata	2026-07-28	
+50533	tt0070049	writers	Li Han-hsiang	wikidata	2026-07-28	
+50537	tt0070124	title	Gordon's War	wikidata	2026-07-28	
+50538	tt0070124	directors	Ossie Davis	wikidata	2026-07-28	
+50539	tt0070124	writers	Ed Spielman; Howard Friedlander	wikidata	2026-07-28	
+50543	tt0071273	title	Can You Keep It Up for a Week?	wikidata	2026-07-28	
+50547	tt0071974	title	The Wonderful Crook	wikidata	2026-07-28	
+50548	tt0071974	directors	Claude Goretta	wikidata	2026-07-28	
+50555	tt0072284	title	Three the Hard Way	wikidata	2026-07-28	
+50556	tt0072284	directors	Gordon Parks, Jr.	wikidata	2026-07-28	
+50557	tt0072284	writers	Eric Bercovici	wikidata	2026-07-28	
+50561	tt0072640	title	Strip First, Then We Talk	wikidata	2026-07-28	
+50562	tt0072640	directors	Renzo Ragazzi; Fabio Pittorru	wikidata	2026-07-28	
+50563	tt0072640	writers	Fabio Pittorru	wikidata	2026-07-28	
+50567	tt0072978	title	Five Days at Falkoebing	wikidata	2026-07-28	
+50568	tt0072978	directors	Marianne Ahrne	wikidata	2026-07-28	
+50569	tt0072978	writers	Marianne Ahrne	wikidata	2026-07-28	
+50576	tt0075707	title	Aurel Vlaicu	wikidata	2026-07-28	
+50577	tt0075707	directors	Mircea Drăgan	wikidata	2026-07-28	
+50581	tt0075773	title	Bluff Stop	wikidata	2026-07-28	
+50582	tt0075773	directors	Jonas Cornell	wikidata	2026-07-28	
+50583	tt0075773	writers	Jonas Cornell	wikidata	2026-07-28	
+50587	tt0075985	title	Emily	wikidata	2026-07-28	
+50588	tt0075985	directors	Henry Herbert, 17th Earl of Pembroke	wikidata	2026-07-28	
+50592	tt0077373	title	Stay As You Are	wikidata	2026-07-28	
+50593	tt0077373	directors	Alberto Lattuada	wikidata	2026-07-28	
+50594	tt0077373	writers	Enrico Oldoini; Alberto Lattuada	wikidata	2026-07-28	
+50598	tt0079712	title	Perro callejero II	wikidata	2026-07-28	
+50599	tt0079712	directors	Gilberto Gazcón	wikidata	2026-07-28	
+50606	tt0082530	title	The Hot Touch	wikidata	2026-07-28	
+50607	tt0082530	directors	Roger Vadim	wikidata	2026-07-28	
+50608	tt0082530	writers	Lionel Chetwynd	wikidata	2026-07-28	
+50612	tt0083001	title	Roar	wikidata	2026-07-28	
+50613	tt0083001	directors	Noel Marshall	wikidata	2026-07-28	
+50614	tt0083001	writers	Noel Marshall	wikidata	2026-07-28	
+50618	tt0083853	title	Dreams Come True	wikidata	2026-07-28	
+50619	tt0083853	directors	Max Kalmanowicz	wikidata	2026-07-28	
+50623	tt0084547	title	Q11828759	wikidata	2026-07-28	
+50624	tt0084547	directors	Ryszard Czekała	wikidata	2026-07-28	
+50625	tt0084547	writers	Ryszard Czekała	wikidata	2026-07-28	
+50629	tt0084857	title	Q2801635	wikidata	2026-07-28	
+50630	tt0084857	directors	Bram van Erkel	wikidata	2026-07-28	
+50631	tt0084857	writers	Judith Herzberg	wikidata	2026-07-28	
+50635	tt0085234	title	Betrayal	wikidata	2026-07-28	
+50636	tt0085234	directors	David Hugh Jones	wikidata	2026-07-28	
+50637	tt0085234	writers	Harold Pinter	wikidata	2026-07-28	
+50641	tt0085527	title	The Very Late Afternoon of a Faun	wikidata	2026-07-28	
+50642	tt0085527	directors	Věra Chytilová	wikidata	2026-07-28	
+50643	tt0085527	writers	Ester Krumbachová; Věra Chytilová	wikidata	2026-07-28	
+50647	tt0085922	title	Medeni mjesec	wikidata	2026-07-28	
+50648	tt0085922	directors	Nikola Babic	wikidata	2026-07-28	
+50649	tt0085922	writers	Željko Senečić	wikidata	2026-07-28	
+50653	tt0086218	title	Run Rebecca, Run	wikidata	2026-07-28	
+50654	tt0086218	directors	Peter Maxwell	wikidata	2026-07-28	
+50658	tt0086550	title	Vive la sociale!	wikidata	2026-07-28	
+50659	tt0086550	directors	Gérard Mordillat	wikidata	2026-07-28	
+50660	tt0086550	writers	Gérard Mordillat; Jacques Audiard; Louis-Charles Sirjacq	wikidata	2026-07-28	
+50667	tt0088344	title	La vengeance du serpent à plumes	wikidata	2026-07-28	
+50668	tt0088344	directors	Gérard Oury	wikidata	2026-07-28	
+50669	tt0088344	writers	Gérard Oury	wikidata	2026-07-28	
+50673	tt0089103	title	Escalier C	wikidata	2026-07-28	
+50674	tt0089103	directors	Jean-Charles Tacchella	wikidata	2026-07-28	
+50675	tt0089103	writers	Elvire Murail; Jean-Charles Tacchella	wikidata	2026-07-28	
+50679	tt0089467	title	Leave All Fair	wikidata	2026-07-28	
+50680	tt0089467	directors	John Reid	wikidata	2026-07-28	
+50684	tt0089945	title	Rustlers' Rhapsody	wikidata	2026-07-28	
+50685	tt0089945	directors	Hugh Wilson	wikidata	2026-07-28	
+50686	tt0089945	writers	Hugh Wilson	wikidata	2026-07-28	
+50690	tt0090022	title	Silverado	wikidata	2026-07-28	
+50691	tt0090022	directors	Lawrence Kasdan	wikidata	2026-07-28	
+50692	tt0090022	writers	Lawrence Kasdan	wikidata	2026-07-28	
+50696	tt0090832	title	The Tribulations of a Chinese Gentleman	wikidata	2026-07-28	
+50697	tt0090832	directors	Wu Yigong	wikidata	2026-07-28	
+50701	tt0091545	title	The Monster	wikidata	2026-07-28	
+50702	tt0091545	directors	Kyanoush Ayari	wikidata	2026-07-28	
+50703	tt0091545	writers	Kyanoush Ayari	wikidata	2026-07-28	
+50707	tt0091707	title	The Outing	wikidata	2026-07-28	
+50708	tt0091707	directors	Warren Chaney	wikidata	2026-07-28	
+50714	tt0093714	title	Penitentiary III	wikidata	2026-07-28	
+50715	tt0093714	directors	Jamaa Fanaka	wikidata	2026-07-28	
+50719	tt0094121	title	Teresa	wikidata	2026-07-28	
+50720	tt0094121	directors	Dino Risi	wikidata	2026-07-28	
+50721	tt0094121	writers	Bernardino Zapponi; Graziano Diana; Dino Risi	wikidata	2026-07-28	
+50725	tt0094379	title	A Worker's Life	wikidata	2026-07-28	
+50726	tt0094379	directors	Miroslav Mandić	wikidata	2026-07-28	
+50738	tt0096951	title	Blood Red	wikidata	2026-07-28	
+50739	tt0096951	directors	Peter Masterson	wikidata	2026-07-28	
+50743	tt0097135	title	Curfew	wikidata	2026-07-28	
+50744	tt0097135	directors	Gary Winick	wikidata	2026-07-28	
+50748	tt0097395	title	Lost Souls	wikidata	2026-07-28	
+50749	tt0097395	directors	David Lai	wikidata	2026-07-28	
+50753	tt0099098	title	Le bal du gouverneur	wikidata	2026-07-28	
+50754	tt0099098	directors	Marie-France Pisier	wikidata	2026-07-28	
+50755	tt0099098	writers	Marie-France Pisier	wikidata	2026-07-28	
+50759	tt0100198	title	My Seawoman	wikidata	2026-07-28	
+50760	tt0100198	directors	Anatoly Eiramdzhan	wikidata	2026-07-28	
+50761	tt0100198	writers	Anatoly Eiramdzhan	wikidata	2026-07-28	
+50765	tt0100705	title	Street Asylum	wikidata	2026-07-28	
+50766	tt0100705	directors	Gregory Dark	wikidata	2026-07-28	
+50770	tt0100922	title	Where Eagles Fly	wikidata	2026-07-28	
+50771	tt0100922	directors	Uri Barbash	wikidata	2026-07-28	
+50772	tt0100922	writers	Assi Dayan	wikidata	2026-07-28	
+50776	tt0101295	title	Alice in Wondertown	wikidata	2026-07-28	
+50777	tt0101295	directors	Daniel Díaz Torres	wikidata	2026-07-28	
+50781	tt0102790	title	Nothing But Lies	wikidata	2026-07-28	
+50782	tt0102790	directors	Paule Muret	wikidata	2026-07-28	
+50783	tt0102790	writers	Paule Muret; Jean-François Goyet	wikidata	2026-07-28	
+50787	tt0103800	title	Betty	wikidata	2026-07-28	
+50788	tt0103800	directors	Claude Chabrol	wikidata	2026-07-28	
+50789	tt0103800	writers	Claude Chabrol	wikidata	2026-07-28	
+50796	tt0106204	title	Aankhen	wikidata	2026-07-28	
+50797	tt0106204	directors	David Dhawan	wikidata	2026-07-28	
+50798	tt0106204	writers	Anees Bazmee	wikidata	2026-07-28	
+50802	tt0107214	title	Indien	wikidata	2026-07-28	
+50803	tt0107214	directors	Paul Harather	wikidata	2026-07-28	
+50804	tt0107214	writers	Josef Hader; Paul Harather; Alfred Dorfer	wikidata	2026-07-28	
+50813	tt0108113	title	Shadow Cop	wikidata	2026-07-28	
+50819	tt0109734	title	Enter Achilles	wikidata	2026-07-28	
+50825	tt0110839	title	Father, Son, and Holy War	wikidata	2026-07-28	
+50826	tt0110839	directors	Anand Patwardhan	wikidata	2026-07-28	
+50830	tt0111580	title	The Broken Journey	wikidata	2026-07-28	
+50831	tt0111580	directors	Sandip Ray	wikidata	2026-07-28	
+50832	tt0111580	writers	Satyajit Ray	wikidata	2026-07-28	
+50841	tt0114618	title	Target	wikidata	2026-07-28	
+50842	tt0114618	directors	Sandip Ray	wikidata	2026-07-28	
+50846	tt0118756	title	On Guard	wikidata	2026-07-28	
+50847	tt0118756	directors	Philippe de Broca	wikidata	2026-07-28	
+50848	tt0118756	writers	Jérôme Tonnerre; Philippe de Broca; Jean Cosmos	wikidata	2026-07-28	
+50855	tt0120537	title	XXL	wikidata	2026-07-28	
+50856	tt0120537	directors	Ariel Zeitoun	wikidata	2026-07-28	
+50857	tt0120537	writers	Florence Quentin	wikidata	2026-07-28	
+50861	tt0124294	title	It Rains in My Village	wikidata	2026-07-28	
+50862	tt0124294	directors	Aleksandar Petrović	wikidata	2026-07-28	
+50863	tt0124294	writers	Aleksandar Petrović	wikidata	2026-07-28	
+50870	tt0127586	title	Het snö	wikidata	2026-07-28	
+50871	tt0127586	directors	Torbjörn Axelman	wikidata	2026-07-28	
+50872	tt0127586	writers	Sandro Key-Åberg	wikidata	2026-07-28	
+50880	tt0131588	title	Q4425258	wikidata	2026-07-28	
+50881	tt0131588	directors	Vladimir Martynov; Eldor Urazbayev	wikidata	2026-07-28	
+50882	tt0131588	writers	Alexander Borodyansky	wikidata	2026-07-28	
+50886	tt0132351	title	According to Law	wikidata	2026-07-28	
+50887	tt0132351	directors	Willy Grunwald	wikidata	2026-07-28	
+50891	tt0138835	title	Halt, or I'll Miss!	wikidata	2026-07-28	
+50892	tt0138835	directors	Jiří Chlumský	wikidata	2026-07-28	
+50893	tt0138835	writers	Jiří Šebánek; Miloň Čepelka	wikidata	2026-07-28	
+50899	tt0141656	title	À propos de Nice	wikidata	2026-07-28	
+50900	tt0141656	directors	Manoel de Oliveira	wikidata	2026-07-28	
+50903	tt0143234	title	Emil Habibi: I Stayed in Haifa	wikidata	2026-07-28	
+50910	tt0151119	title	Jealousy	wikidata	2026-07-28	
+50911	tt0151119	directors	G. B. Samuelson	wikidata	2026-07-28	
+50917	tt0154529	title	Q19195138	wikidata	2026-07-28	
+50918	tt0154529	directors	Claude Autant-Lara	wikidata	2026-07-28	
+50921	tt0155221	title	Sundari	wikidata	2026-07-28	
+50922	tt0155221	directors	Aspi Irani	wikidata	2026-07-28	
+50926	tt0155608	title	The Porter from Maxim's	wikidata	2026-07-28	
+50927	tt0155608	directors	Henri Diamant-Berger	wikidata	2026-07-28	
+50931	tt0155986	title	Q3412731	wikidata	2026-07-28	
+50932	tt0155986	directors	Jean Faurez	wikidata	2026-07-28	
+50936	tt0156481	title	Domenica	wikidata	2026-07-28	
+50937	tt0156481	directors	Maurice Cloche	wikidata	2026-07-28	
+50938	tt0156481	writers	Jacques Deval	wikidata	2026-07-28	
+50946	tt0158671	title	In Her Defense	wikidata	2026-07-28	
+50947	tt0158671	directors	Sidney J. Furie	wikidata	2026-07-28	
+50951	tt0158786	title	Q24940272	wikidata	2026-07-28	
+50952	tt0158786	directors	Roger Blanc	wikidata	2026-07-28	
+50956	tt0160683	title	Q21009289	wikidata	2026-07-28	
+50957	tt0160683	directors	Jean Dréville	wikidata	2026-07-28	
+50961	tt0160698	title	Princess, At Your Orders!	wikidata	2026-07-28	
+50962	tt0160698	directors	Hanns Schwarz; Max de Vaucorbeil	wikidata	2026-07-28	
+50963	tt0160698	writers	Jean Boyer; Robert Liebmann; Billy Wilder	wikidata	2026-07-28	
+50983	tt0170372	title	Pesnya zovet	wikidata	2026-07-28	
+50984	tt0170372	directors	Shaken Ajmanov	wikidata	2026-07-28	
+50985	tt0170372	writers	Maro Erznkyan; Shaken Ajmanov	wikidata	2026-07-28	
+50994	tt0173027	title	Q112065933	wikidata	2026-07-28	
+50995	tt0173027	directors	Lev Kulidzhanov	wikidata	2026-07-28	
+50996	tt0173027	writers	Sergey Mikhalkov; Anatoly Aleksin	wikidata	2026-07-28	
+51000	tt0173676	title	Q131302311	wikidata	2026-07-28	
+51001	tt0173676	directors	Houchang Allahyari	wikidata	2026-07-28	
+51008	tt0175149	title	Q4416677	wikidata	2026-07-28	
+51009	tt0175149	directors	Yakov Segel	wikidata	2026-07-28	
+51010	tt0175149	writers	Yakov Segel; Andrey Veytsler; Aleksandr Misharin	wikidata	2026-07-28	
+51014	tt0175890	title	Margarita, Armando y su padre	wikidata	2026-07-28	
+51015	tt0175890	directors	Francisco Múgica	wikidata	2026-07-28	
+51019	tt0177152	title	Quelque chose d'organique	wikidata	2026-07-28	
+51020	tt0177152	directors	Bertrand Bonello	wikidata	2026-07-28	
+51021	tt0177152	writers	Bertrand Bonello	wikidata	2026-07-28	
+51025	tt0178867	title	Riachuelo	wikidata	2026-07-28	
+51026	tt0178867	directors	Luis Moglia Barth	wikidata	2026-07-28	
+51030	tt0180047	title	Perjura	wikidata	2026-07-28	
+51031	tt0180047	directors	Raphael J. Sevilla	wikidata	2026-07-28	
+51035	tt0180316	title	Women Talking Dirty	wikidata	2026-07-28	
+51036	tt0180316	directors	Coky Giedroyc	wikidata	2026-07-28	
+51040	tt0180748	title	In China They Eat Dogs	wikidata	2026-07-28	
+51041	tt0180748	directors	Lasse Spang Olsen	wikidata	2026-07-28	
+51042	tt0180748	writers	Anders Thomas Jensen	wikidata	2026-07-28	
+51046	tt0181641	title	Köyde Bir Kız Sevdim	wikidata	2026-07-28	
+51047	tt0181641	directors	Türker İnanoğlu	wikidata	2026-07-28	
+51054	tt0182793	title	Birakin Yasasinlar	wikidata	2026-07-28	
+51058	tt0183306	title	Jinnah	wikidata	2026-07-28	
+51059	tt0183306	directors	Jamil Dehlavi	wikidata	2026-07-28	
+51060	tt0183306	writers	Akbar S. Ahmed	wikidata	2026-07-28	
+51064	tt0184537	title	The Goddess of Mercy	wikidata	2026-07-28	
+51065	tt0184537	directors	Shin Sang-ok; Lim Won-sick	wikidata	2026-07-28	
+51066	tt0184537	writers	Wong Lau-Chiu	wikidata	2026-07-28	
+51073	tt0185852	title	Q97210864	wikidata	2026-07-28	
+51074	tt0185852	directors	Natuk Baytan	wikidata	2026-07-28	
+51078	tt0187583	title	Vidas Solidárias	wikidata	2026-07-28	
+51079	tt0187583	directors	Moacir Fenelon	wikidata	2026-07-28	
+51087	tt0187712	title	Beefcake	wikidata	2026-07-28	
+51088	tt0187712	directors	Thom Fitzgerald	wikidata	2026-07-28	
+51089	tt0187712	writers	Thom Fitzgerald	wikidata	2026-07-28	
+51093	tt0189091	title	Q18590676	wikidata	2026-07-28	
+51094	tt0189091	directors	Leo Fleider	wikidata	2026-07-28	
+51105	tt0192086	title	Q63271213	wikidata	2026-07-28	
+51106	tt0192086	directors	Maurice Mariaud; Jean Epstein	wikidata	2026-07-28	
+51110	tt0192612	title	Simão, o Fantasma Trapalhão	wikidata	2026-07-28	
+51119	tt0196220	title	Fuchsjagd auf Skiern durchs Engadien	wikidata	2026-07-28	
+51120	tt0196220	directors	Arnold Fanck	wikidata	2026-07-28	
+51121	tt0196220	writers	Arnold Fanck	wikidata	2026-07-28	
+51129	tt0197121	title	Q3576851	wikidata	2026-07-28	
+51130	tt0197121	directors	Yves Mirande; René Guissart	wikidata	2026-07-28	
+51131	tt0197121	writers	Yves Mirande	wikidata	2026-07-28	
+51138	tt0197811	title	The Rebel	wikidata	2026-07-28	
+51139	tt0197811	directors	Adelqui Migliar Icardi	wikidata	2026-07-28	
+51142	tt0199517	title	Feldzug in Polen	wikidata	2026-07-28	
+51143	tt0199517	directors	Fritz Hippler	wikidata	2026-07-28	
+51150	tt0202101	title	What Price Honesty?	wikidata	2026-07-28	
+51154	tt0202130	title	Yepeto	wikidata	2026-07-28	
+51155	tt0202130	directors	Eduardo Calcagno	wikidata	2026-07-28	
+51156	tt0202130	writers	Roberto Cossa; Eduardo Calcagno	wikidata	2026-07-28	
+51160	tt0202670	title	Q4129270	wikidata	2026-07-28	
+51161	tt0202670	directors	Zygmunt Malanowicz; Viktor Turov	wikidata	2026-07-28	
+51162	tt0202670	writers	Zygmunt Malanowicz; İlyä Käşafetdinef	wikidata	2026-07-28	
+51165	tt0203677	title	Sex and Life	wikidata	2026-07-28	
+51166	tt0203677	directors	Ryūichi Takamori	wikidata	2026-07-28	
+51167	tt0203677	writers	Keiichirō Ryū	wikidata	2026-07-28	
+51175	tt0206380	title	A Woman of No Importance	wikidata	2026-07-28	
+51176	tt0206380	directors	Jean Choux	wikidata	2026-07-28	
+51177	tt0206380	writers	Charles Spaak	wikidata	2026-07-28	
+51188	tt0210259	title	King of the Camargue	wikidata	2026-07-28	
+51189	tt0210259	directors	Jacques de Baroncelli	wikidata	2026-07-28	
+51190	tt0210259	writers	Henri Decoin	wikidata	2026-07-28	
+51195	tt0214984	title	Neeya	wikidata	2026-07-28	
+51196	tt0214984	directors	Durai	wikidata	2026-07-28	
+51197	tt0214984	writers	P. Kalaimani	wikidata	2026-07-28	
+51206	tt0215987	title	Mera Karam Mera Dharam	wikidata	2026-07-28	
+51207	tt0215987	directors	Dulal Guha	wikidata	2026-07-28	
+51224	tt0224426	title	Yes or No, Jean-Guy Moreau	wikidata	2026-07-28	
+51225	tt0224426	directors	Michael Rubbo	wikidata	2026-07-28	
+51229	tt0225915	title	Q20495381	wikidata	2026-07-28	
+51230	tt0225915	directors	Claus Klok; Karsten Baagø	wikidata	2026-07-28	
+51231	tt0225915	writers	Claus Klok; Karsten Baagø	wikidata	2026-07-28	
+51238	tt0226993	title	Il lungo inverno	wikidata	2026-07-28	
+51239	tt0226993	directors	Ivo Barnabò Micheli	wikidata	2026-07-28	
+51240	tt0226993	writers	Ivo Barnabò Micheli	wikidata	2026-07-28	
+51244	tt0230174	title	You are in The EEC, Go for The EEC	wikidata	2026-07-28	
+51245	tt0230174	directors	Dimis Dadiras	wikidata	2026-07-28	
+51251	tt0230788	title	Siraj	wikidata	2026-07-28	
+51252	tt0230788	directors	Bhupen Hazarika	wikidata	2026-07-28	
+51255	tt0234669	title	Q140607455	wikidata	2026-07-28	
+51256	tt0234669	directors	Kazuo Hara	wikidata	2026-07-28	
+51275	tt0239501	title	Janjirne Jankare	wikidata	2026-07-28	
+51276	tt0239501	directors	Harshadrai Sakerlal Mehta	wikidata	2026-07-28	
+51280	tt0239963	title	Q108047649	wikidata	2026-07-28	
+51281	tt0239963	directors	Anne Lapied	wikidata	2026-07-28	
+51285	tt0240464	title	Dracula's Death	wikidata	2026-07-28	
+51286	tt0240464	directors	Károly Lajthay	wikidata	2026-07-28	
+51287	tt0240464	writers	Károly Lajthay; Michael Curtiz	wikidata	2026-07-28	
+51295	tt0244147	title	Interrupted Song	wikidata	2026-07-28	
+51296	tt0244147	directors	Nikoloz Sanishvili; Frantisek Zácek	wikidata	2026-07-28	
+51297	tt0244147	writers	Albert Marenčin; Nikoloz Sanishvili; Konstantine Lortkipanidze	wikidata	2026-07-28	
+51303	tt0245027	title	The Bench	wikidata	2026-07-28	
+51304	tt0245027	directors	Per Fly	wikidata	2026-07-28	
+51305	tt0245027	writers	Per Fly; Kim Leona	wikidata	2026-07-28	
+51309	tt0245852	title	Dakshayagnam	wikidata	2026-07-28	
+51310	tt0245852	directors	Kadaru Nagabhushanam	wikidata	2026-07-28	
+51311	tt0245852	writers	Aarudhra	wikidata	2026-07-28	
+51314	tt0247495	title	Mahatma Kabirdas	wikidata	2026-07-28	
+51315	tt0247495	directors	A. Narayanan	wikidata	2026-07-28	
+51321	tt0249420	title	La Buscona	wikidata	2026-07-28	
+51322	tt0249420	directors	Emilio Gómez Muriel	wikidata	2026-07-28	
+51325	tt0249845	title	I Will Never Leave You	wikidata	2026-07-28	
+51326	tt0249845	directors	Francisco Elías Riquelme	wikidata	2026-07-28	
+51331	tt0252202	title	Narration/Aventure/Langage/Silence	wikidata	2026-07-28	
+51332	tt0252202	directors	María Gavalá	wikidata	2026-07-28	
+51335	tt0252882	title	L'anello di Siva	wikidata	2026-07-28	
+51336	tt0252882	directors	Augusto Genina	wikidata	2026-07-28	
+51337	tt0252882	writers	Augusto Genina	wikidata	2026-07-28	
+51341	tt0253143	title	İnek Şaban	wikidata	2026-07-28	
+51342	tt0253143	directors	Osman F. Seden	wikidata	2026-07-28	
+51346	tt0253873	title	Utharam	wikidata	2026-07-28	
+51347	tt0253873	directors	V. K. Pavithran	wikidata	2026-07-28	
+51348	tt0253873	writers	M. T. Vasudevan Nair	wikidata	2026-07-28	
+51352	tt0254099	title	The Anniversary Party	wikidata	2026-07-28	
+51353	tt0254099	directors	Jennifer Jason Leigh; Alan Cumming	wikidata	2026-07-28	
+51354	tt0254099	writers	Jennifer Jason Leigh; Alan Cumming	wikidata	2026-07-28	
+51363	tt0255641	title	Thalavattam	wikidata	2026-07-28	
+51364	tt0255641	directors	Priyadarshan	wikidata	2026-07-28	
+51365	tt0255641	writers	Nedumudi Venu	wikidata	2026-07-28	
+51368	tt0256164	title	Macha Rekai	wikidata	2026-07-28	
+51369	tt0256164	directors	P. Pullaiah	wikidata	2026-07-28	
+51373	tt0257459	title	Bruma Seca	wikidata	2026-07-28	
+51374	tt0257459	directors	Mario Civelli	wikidata	2026-07-28	
+51378	tt0258227	title	Sundarakanda	wikidata	2026-07-28	
+51379	tt0258227	directors	K. Raghavendra Rao	wikidata	2026-07-28	
+51380	tt0258227	writers	K. Raghavendra Rao	wikidata	2026-07-28	
+51386	tt0259496	title	Pelli Kanuka	wikidata	2026-07-28	
+51387	tt0259496	directors	Kodi Ramakrishna	wikidata	2026-07-28	
+51388	tt0259496	writers	Posani Krishna Murali	wikidata	2026-07-28	
+51392	tt0261552	title	The Foul King	wikidata	2026-07-28	
+51393	tt0261552	directors	Kim Ji-woon	wikidata	2026-07-28	
+51394	tt0261552	writers	Kim Ji-woon	wikidata	2026-07-28	
+51398	tt0263099	title	Bangaru Babu	wikidata	2026-07-28	
+51399	tt0263099	directors	V. B. Rajendra Prasad	wikidata	2026-07-28	
+51400	tt0263099	writers	Aathreya	wikidata	2026-07-28	
+51404	tt0265542	title	Q131553147	wikidata	2026-07-28	
+51405	tt0265542	directors	Boris Tokarev	wikidata	2026-07-28	
+51406	tt0265542	writers	Boris Tokarev; Yuri Yakovlev	wikidata	2026-07-28	
+51410	tt0265586	title	Q85999221	wikidata	2026-07-28	
+51411	tt0265586	directors	Mykola Maletsky	wikidata	2026-07-28	
+51412	tt0265586	writers	Yuri Vizbor	wikidata	2026-07-28	
+51423	tt0269883	title	Q47211535	wikidata	2026-07-28	
+51424	tt0269883	directors	Carlos Lozano Dana	wikidata	2026-07-28	
+51427	tt0269986	title	The Devil's Hole	wikidata	2026-07-28	
+51431	tt0271597	title	Kobbari Bondam	wikidata	2026-07-28	
+51432	tt0271597	directors	S. V. Krishna Reddy	wikidata	2026-07-28	
+51433	tt0271597	writers	S. V. Krishna Reddy	wikidata	2026-07-28	
+51437	tt0272321	title	Thirrja	wikidata	2026-07-28	
+51438	tt0272321	directors	Fehmi Hoshafi	wikidata	2026-07-28	
+51443	tt0279866	title	History of a Scoundrel	wikidata	2026-07-28	
+51444	tt0279866	directors	Julio Bracho	wikidata	2026-07-28	
+51445	tt0279866	writers	José María Fernández Unsáin; Federico Sodi Romero; Julio Bracho	wikidata	2026-07-28	
+51449	tt0279903	title	Kinali Yapincak	wikidata	2026-07-28	
+51450	tt0279903	directors	Orhan Aksoy	wikidata	2026-07-28	
+51451	tt0279903	writers	Bülent Oran	wikidata	2026-07-28	
+51460	tt0283027	title	Swimming Pool	wikidata	2026-07-28	
+51461	tt0283027	directors	Boris von Sychowski	wikidata	2026-07-28	
+51462	tt0283027	writers	Lorenz Stassen	wikidata	2026-07-28	
+51466	tt0287449	title	Q3232816	wikidata	2026-07-28	
+51467	tt0287449	directors	René Féret	wikidata	2026-07-28	
+51470	tt0287540	title	Q10467387	wikidata	2026-07-28	
+51471	tt0287540	directors	Pauline Brunius	wikidata	2026-07-28	
+51472	tt0287540	writers	Lars Tessing	wikidata	2026-07-28	
+51479	tt0291888	title	Enikkum Oru Divasam	wikidata	2026-07-28	
+51480	tt0291888	directors	Sreekumaran Thampi	wikidata	2026-07-28	
+51481	tt0291888	writers	Sreekumaran Thampi	wikidata	2026-07-28	
+51493	tt0302801	title	Q33550357	wikidata	2026-07-28	
+51494	tt0302801	directors	Carl Weismann; Jørgen Roos	wikidata	2026-07-28	
+51495	tt0302801	writers	Carl Weismann; Jørgen Roos	wikidata	2026-07-28	
+51503	tt0306079	title	Minor Mishaps	wikidata	2026-07-28	
+51504	tt0306079	directors	Annette K. Olesen	wikidata	2026-07-28	
+51505	tt0306079	writers	Kim Fupz Aakeson	wikidata	2026-07-28	
+51510	tt0308503	title	La ley del monte	wikidata	2026-07-28	
+51511	tt0308503	directors	Alberto Mariscal	wikidata	2026-07-28	
+51518	tt0312957	title	Q18244308	wikidata	2026-07-28	
+51519	tt0312957	directors	Prince Wilhelm, Duke of Södermanland	wikidata	2026-07-28	
+51523	tt0313962	title	Derzost	wikidata	2026-07-28	
+51524	tt0313962	directors	Georgi Yungvald-Khilkevich	wikidata	2026-07-28	
+51525	tt0313962	writers	Vasyl Zemlyak	wikidata	2026-07-28	
+51532	tt0316158	title	Let the Little Ones Come to Me	wikidata	2026-07-28	
+51533	tt0316158	directors	Max Neufeld	wikidata	2026-07-28	
+51540	tt0322098	title	Two Husbands	wikidata	2026-07-28	
+51541	tt0322098	directors	Yu Hyun-mok	wikidata	2026-07-28	
+51545	tt0322922	title	The Bloody Money	wikidata	2026-07-28	
+51546	tt0322922	directors	Orhon Murat Arıburnu	wikidata	2026-07-28	
+51550	tt0323153	title	Guests Who Arrived on the Last Train	wikidata	2026-07-28	
+51551	tt0323153	directors	Yu Hyun-mok	wikidata	2026-07-28	
+51555	tt0323998	title	Slim Susie	wikidata	2026-07-28	
+51556	tt0323998	directors	Ulf Malmros	wikidata	2026-07-28	
+51557	tt0323998	writers	Ulf Malmros	wikidata	2026-07-28	
+51561	tt0325852	title	La Mujer y el jockey	wikidata	2026-07-28	
+51562	tt0325852	directors	José Suárez	wikidata	2026-07-28	
+51563	tt0325852	writers	Antonio Botta	wikidata	2026-07-28	
+51567	tt0330028	title	Red Cherry 2	wikidata	2026-07-28	
+51568	tt0330028	directors	Park Ho-tae	wikidata	2026-07-28	
+51575	tt0338312	title	Orient	wikidata	2026-07-28	
+51576	tt0338312	directors	Gennaro Righelli	wikidata	2026-07-28	
+51577	tt0338312	writers	Gennaro Righelli; Nunzio Malasomma	wikidata	2026-07-28	
+51585	tt0347083	title	Q4003877	wikidata	2026-07-28	
+51586	tt0347083	directors	Bruno Mattei	wikidata	2026-07-28	
+51587	tt0347083	writers	Bruno Mattei	wikidata	2026-07-28	
+51591	tt0348476	title	Love Correction	wikidata	2026-07-28	
+51592	tt0348476	directors	Marco Mak	wikidata	2026-07-28	
+51596	tt0349890	title	Një jetë më shumë	wikidata	2026-07-28	
+51597	tt0349890	directors	Gëzim Erebara	wikidata	2026-07-28	
+51601	tt0350671	title	The Eccentric General and His Men	wikidata	2026-07-28	
+51608	tt0353010	title	Witness	wikidata	2026-07-28	
+51609	tt0353010	directors	Viji Thampi	wikidata	2026-07-28	
+51610	tt0353010	writers	Ranjith	wikidata	2026-07-28	
+51617	tt0353922	title	Puthran	wikidata	2026-07-28	
+51618	tt0353922	directors	Jude Attipetty	wikidata	2026-07-28	
+51619	tt0353922	writers	P. F. Mathews	wikidata	2026-07-28	
+51626	tt0355586	title	Q12182266	wikidata	2026-07-28	
+51627	tt0355586	directors	Hosameldin Mostafa	wikidata	2026-07-28	
+51640	tt0365907	title	A Walk Among the Tombstones	wikidata	2026-07-28	
+51641	tt0365907	directors	Scott Frank	wikidata	2026-07-28	
+51642	tt0365907	writers	Lawrence Block; Scott Frank	wikidata	2026-07-28	
+51645	tt0366295	title	Chatpati	wikidata	2026-07-28	
+51646	tt0366295	directors	V. Ravindra	wikidata	2026-07-28	
+51649	tt0367450	title	...Y pasa la comparsa	wikidata	2026-07-28	
+51650	tt0367450	directors	Albert Arliss	wikidata	2026-07-28	
+51658	tt0371950	title	Q20756112	wikidata	2026-07-28	
+51659	tt0371950	directors	Michael Heimark	wikidata	2026-07-28	
+51660	tt0371950	writers	Michael Heimark	wikidata	2026-07-28	
+51669	tt0378993	title	Q60218878	wikidata	2026-07-28	
+51670	tt0378993	directors	Jean-Michel Carré	wikidata	2026-07-28	
+51672	tt0379168	title	Bhaktha Kabiru	wikidata	2026-07-28	
+51675	tt0379272	title	Ek Jaan Hain Hum	wikidata	2026-07-28	
+51679	tt0380697	title	Q56760302	wikidata	2026-07-28	
+51680	tt0380697	directors	Hubert Moest	wikidata	2026-07-28	
+51681	tt0380697	writers	Bobby E. Lüthge	wikidata	2026-07-28	
+51685	tt0384369	title	Before the Fall	wikidata	2026-07-28	
+51686	tt0384369	directors	Dennis Gansel	wikidata	2026-07-28	
+51687	tt0384369	writers	Maggie Peren; Dennis Gansel	wikidata	2026-07-28	
+51694	tt0387666	title	Q139950790	wikidata	2026-07-28	
+51695	tt0387666	directors	Curt A. Engel	wikidata	2026-07-28	
+51696	tt0387666	writers	Curt A. Engel	wikidata	2026-07-28	
+51703	tt0392493	title	Naseeb Ni Nauka	wikidata	2026-07-28	
+51711	tt0393790	title	Sneh Samadhi	wikidata	2026-07-28	
+51712	tt0393790	directors	Ramakant Gharekhan	wikidata	2026-07-28	
+51718	tt0398721	title	Q29414100	wikidata	2026-07-28	
+51719	tt0398721	directors	Stéphane Aucante	wikidata	2026-07-28	
+51723	tt0398727	title	The March of Fools	wikidata	2026-07-28	
+51724	tt0398727	directors	Ha Gil-jong	wikidata	2026-07-28	
+51728	tt0402763	title	Americanese	wikidata	2026-07-28	
+51729	tt0402763	directors	Eric Byler	wikidata	2026-07-28	
+51730	tt0402763	writers	Eric Byler	wikidata	2026-07-28	
+51742	tt0412863	title	Q57517272	wikidata	2026-07-28	
+51743	tt0412863	directors	Heinz Brinkmann	wikidata	2026-07-28	
+51744	tt0412863	writers	Heinz Brinkmann	wikidata	2026-07-28	
+51751	tt0418018	title	It's Not Me	wikidata	2026-07-28	
+51755	tt0418342	title	Q20509487	wikidata	2026-07-28	
+51756	tt0418342	directors	Arnold Agababov	wikidata	2026-07-28	
+51760	tt0418686	title	Q3745749	wikidata	2026-07-28	
+51761	tt0418686	directors	Alessandro Colizzi	wikidata	2026-07-28	
+51762	tt0418686	writers	Alessandro Colizzi	wikidata	2026-07-28	
+51770	tt0422313	title	When Black Flowers Fade	wikidata	2026-07-28	
+51786	tt0428304	title	C'est pas tout à fait la vie dont j'avais rêvé	wikidata	2026-07-28	
+51787	tt0428304	directors	Michel Piccoli	wikidata	2026-07-28	
+51791	tt0431645	title	Midtown Girls	wikidata	2026-07-28	
+51792	tt0431645	directors	Mohamed Khan	wikidata	2026-07-28	
+51793	tt0431645	writers	Mohamed Khan	wikidata	2026-07-28	
+51800	tt0434164	title	Q135223136	wikidata	2026-07-28	
+51801	tt0434164	directors	Mira Hamermesh	wikidata	2026-07-28	
+51805	tt0434997	title	Q6047294	wikidata	2026-07-28	
+51806	tt0434997	directors	Mehmet Bozkuş	wikidata	2026-07-28	
+51807	tt0434997	writers	Bülent Oran	wikidata	2026-07-28	
+51811	tt0436689	title	The Puffy Chair	wikidata	2026-07-28	
+51812	tt0436689	directors	Mark Duplass; Jay Duplass	wikidata	2026-07-28	
+51815	tt0437876	title	Q3231070	wikidata	2026-07-28	
+51816	tt0437876	directors	Léonce Perret	wikidata	2026-07-28	
+51824	tt0451741	title	The Yellow Death	wikidata	2026-07-28	
+51825	tt0451741	directors	Carl Wilhelm	wikidata	2026-07-28	
+51826	tt0451741	writers	Hans Gaus	wikidata	2026-07-28	
+51830	tt0452319	title	Manatsu no Chikyū	wikidata	2026-07-28	
+51834	tt0453040	title	Dubai	wikidata	2026-07-28	
+51835	tt0453040	directors	Rory Quintos	wikidata	2026-07-28	
+51836	tt0453040	writers	Ricky Lee	wikidata	2026-07-28	
+51845	tt0459880	title	Lady Chatterley	wikidata	2026-07-28	
+51846	tt0459880	directors	Pascale Ferran	wikidata	2026-07-28	
+51847	tt0459880	writers	Roger Bohbot; Pierre Trividic; Pascale Ferran	wikidata	2026-07-28	
+51851	tt0471251	title	Mama Jack	wikidata	2026-07-28	
+51852	tt0471251	directors	Gray Hofmeyr	wikidata	2026-07-28	
+51859	tt0473647	title	Hedy Lamarr - Secrets of a Hollywood Star	wikidata	2026-07-28	
+51860	tt0473647	directors	Fosco Dubini; Donatello Dubini; Barbara Obermaier	wikidata	2026-07-28	
+51864	tt0478370	title	Kerem İle Aslı	wikidata	2026-07-28	
+51865	tt0478370	directors	Orhan Elmas	wikidata	2026-07-28	
+51872	tt0480163	title	The Collector	wikidata	2026-07-28	
+51873	tt0480163	directors	Feliks Falk	wikidata	2026-07-28	
+51874	tt0480163	writers	Grzegorz Łoszewski	wikidata	2026-07-28	
+51886	tt0488762	title	Mr. Socrates	wikidata	2026-07-28	
+51887	tt0488762	directors	Choi Jin Won	wikidata	2026-07-28	
+51891	tt0491534	title	Cañitas. Presencia	wikidata	2026-07-28	
+51892	tt0491534	directors	Julio Cesar Estrada	wikidata	2026-07-28	
+51899	tt0495031	title	Q11699027	wikidata	2026-07-28	
+51900	tt0495031	directors	Filip Bajon	wikidata	2026-07-28	
+51901	tt0495031	writers	Q21839509	wikidata	2026-07-28	
+51905	tt0762091	title	Domestic Import	wikidata	2026-07-28	
+51906	tt0762091	directors	Kevin Connor	wikidata	2026-07-28	
+51915	tt0779739	title	Maa Pallelo Gopaludu	wikidata	2026-07-28	
+51916	tt0779739	directors	Kodi Ramakrishna	wikidata	2026-07-28	
+51922	tt0780130	title	Sa Kabila ng Bukas	wikidata	2026-07-28	
+51923	tt0780130	directors	Consuelo Padilla Osorio	wikidata	2026-07-28	
+51931	tt0791202	title	Victim & Victor	wikidata	2026-07-28	
+51944	tt0831341	title	Sinner	wikidata	2026-07-28	
+51945	tt0831341	directors	Marc Benardout	wikidata	2026-07-28	
+51946	tt0831341	writers	Steven Sills	wikidata	2026-07-28	
+51958	tt0873600	title	Das Erbe der Bergler	wikidata	2026-07-28	
+51959	tt0873600	directors	Erich Langjahr	wikidata	2026-07-28	
+51960	tt0873600	writers	Erich Langjahr	wikidata	2026-07-28	
+51968	tt0912592	title	My Kid Could Paint That	wikidata	2026-07-28	
+51969	tt0912592	directors	Amir Bar-Lev	wikidata	2026-07-28	
+51970	tt0912592	writers	Amir Bar-Lev	wikidata	2026-07-28	
+51979	tt0934442	title	Wandering Ginza Butterfly	wikidata	2026-07-28	
+51980	tt0934442	directors	Kazuhiko Yamaguchi	wikidata	2026-07-28	
+51990	tt0961109	title	Bloody Mondays & Strawberry Pies	wikidata	2026-07-28	
+51991	tt0961109	directors	Coco Schrijber	wikidata	2026-07-28	
+51992	tt0961109	writers	Coco Schrijber	wikidata	2026-07-28	
+52010	tt1019940	title	Nodir Naam Modhumoti	wikidata	2026-07-28	
+52011	tt1019940	directors	Tanvir Mokammel	wikidata	2026-07-28	
+52030	tt10356580	title	Rusi	wikidata	2026-07-28	
+52046	tt1049413	title	Up	wikidata	2026-07-28	
+52047	tt1049413	directors	Bob Peterson; Pete Docter	wikidata	2026-07-28	
+52048	tt1049413	writers	Bob Peterson; Pete Docter	wikidata	2026-07-28	
+52056	tt1053226	title	Brownies	wikidata	2026-07-28	
+52057	tt1053226	directors	Hanung Bramantyo	wikidata	2026-07-28	
+52058	tt1053226	writers	Salman Aristo; Hanung Bramantyo	wikidata	2026-07-28	
+52067	tt1062939	title	Ma-Mha	wikidata	2026-07-28	
+52068	tt1062939	directors	Pantham Thongsangl	wikidata	2026-07-28	
+52080	tt1072754	title	Messages Deleted	wikidata	2026-07-28	
+52081	tt1072754	directors	Rob Cowan	wikidata	2026-07-28	
+52082	tt1072754	writers	Larry Cohen	wikidata	2026-07-28	
+52115	tt11055048	title	Hellarious	wikidata	2026-07-28	
+52126	tt1110636	title	Q2463956	wikidata	2026-07-28	
+52127	tt1110636	directors	Markus Kleinhans; Edgar Kraus	wikidata	2026-07-28	
+52128	tt1110636	writers	Markus Kleinhans; Edgar Kraus	wikidata	2026-07-28	
+52133	tt1117380	title	Breathe	wikidata	2026-07-28	
+52134	tt1117380	directors	Nicholas Winter	wikidata	2026-07-28	
+52140	tt11178402	title	Mickey: The Story of a Mouse	wikidata	2026-07-28	
+52141	tt11178402	directors	Jeff Malmberg	wikidata	2026-07-28	
+52148	tt11287096	title	Splinters	wikidata	2026-07-28	
+52155	tt11394308	title	Saudi Runaway	wikidata	2026-07-28	
+52156	tt11394308	directors	Susanne Regina Meures	wikidata	2026-07-28	
+52157	tt11394308	writers	Susanne Regina Meures	wikidata	2026-07-28	
+52161	tt11394650	title	On the Record	wikidata	2026-07-28	
+52162	tt11394650	directors	Kirby Dick	wikidata	2026-07-28	
+52191	tt1161058	title	Q3955510	wikidata	2026-07-28	
+52192	tt1161058	directors	Felice Farina	wikidata	2026-07-28	
+52199	tt11638970	title	The Last City	wikidata	2026-07-28	
+52200	tt11638970	directors	Heinz Emigholz	wikidata	2026-07-28	
+52201	tt11638970	writers	Heinz Emigholz	wikidata	2026-07-28	
+52205	tt11655972	title	Taman Lawang	wikidata	2026-07-28	
+52206	tt11655972	directors	Keenen Ivory Wayans	wikidata	2026-07-28	
+52226	tt11779626	title	Zombie Fighter	wikidata	2026-07-28	
+52227	tt11779626	directors	Lim Jihwan	wikidata	2026-07-28	
+52237	tt11845074	title	Here Be Dragons	wikidata	2026-07-28	
+52241	tt1185262	title	Pourudu	wikidata	2026-07-28	
+52242	tt1185262	directors	Raj Aditya	wikidata	2026-07-28	
+52255	tt1206906	title	California Scrap Book	wikidata	2026-07-28	
+52262	tt12109706	title	Q134497105	wikidata	2026-07-28	
+52263	tt12109706	directors	Cheslav Sabinsky	wikidata	2026-07-28	
+52283	tt1239321	title	Um Craque Chamado Divino	wikidata	2026-07-28	
+52293	tt1242527	title	At World's End	wikidata	2026-07-28	
+52294	tt1242527	directors	Q952621	wikidata	2026-07-28	
+52295	tt1242527	writers	Anders Thomas Jensen	wikidata	2026-07-28	
+52299	tt1242544	title	Last Day of Summer	wikidata	2026-07-28	
+52300	tt1242544	directors	Vlad Yudin	wikidata	2026-07-28	
+52301	tt1242544	writers	Vlad Yudin	wikidata	2026-07-28	
+52305	tt1249368	title	Flores negras	wikidata	2026-07-28	
+52306	tt1249368	directors	David Carreras	wikidata	2026-07-28	
+52307	tt1249368	writers	Luis Marías; David Carreras; Wolfgang Kirchner; Juan María Ruiz Córdoba	wikidata	2026-07-28	
+52335	tt12783454	title	The Kissing Booth 3	wikidata	2026-07-28	
+52336	tt12783454	directors	Vince Marcello	wikidata	2026-07-28	
+52337	tt12783454	writers	Vince Marcello	wikidata	2026-07-28	
+52341	tt12802672	title	1521	wikidata	2026-07-28	
+52349	tt12868184	title	Benyamin Biang Kerok 2	wikidata	2026-07-28	
+52350	tt12868184	directors	Hanung Bramantyo	wikidata	2026-07-28	
+52370	tt1308729	title	Bullet to the Head	wikidata	2026-07-28	
+52371	tt1308729	directors	Walter Hill	wikidata	2026-07-28	
+52372	tt1308729	writers	Walter Hill; Alessandro Camon	wikidata	2026-07-28	
+52388	tt13333998	title	Dente por Dente	wikidata	2026-07-28	
+52417	tt1359029	title	Skiing Everest	wikidata	2026-07-28	
+52418	tt1359029	directors	Les Guthman	wikidata	2026-07-28	
+52419	tt1359029	writers	Les Guthman	wikidata	2026-07-28	
+52448	tt1398949	title	Blank City	wikidata	2026-07-28	
+52449	tt1398949	directors	Celine Danhier	wikidata	2026-07-28	
+52452	tt14041918	title	Le prix de la trahison	wikidata	2026-07-28	
+52453	tt14041918	directors	Melchy Obiang	wikidata	2026-07-28	
+52459	tt14088496	title	Ulta Palta	wikidata	2026-07-28	
+52463	tt14097180	title	Somewhere in Queens	wikidata	2026-07-28	
+52464	tt14097180	directors	Ray Romano	wikidata	2026-07-28	
+52465	tt14097180	writers	Ray Romano	wikidata	2026-07-28	
+52486	tt1447499	title	Matching Jack	wikidata	2026-07-28	
+52487	tt1447499	directors	Nadia Tass	wikidata	2026-07-28	
+52500	tt1459234	title	Q20005970	wikidata	2026-07-28	
+52501	tt1459234	directors	Renato Giordano	wikidata	2026-07-28	
+52507	tt1460643	title	Pimp	wikidata	2026-07-28	
+52508	tt1460643	directors	Robert Cavanah	wikidata	2026-07-28	
+52515	tt14687306	title	María Luisa Bemberg: El eco de mi voz	wikidata	2026-07-28	
+52516	tt14687306	directors	Alejandro Maci	wikidata	2026-07-28	
+52517	tt14687306	writers	Alejandro Maci	wikidata	2026-07-28	
+52523	tt1473001	title	Anupama	wikidata	2026-07-28	
+52533	tt14803538	title	La extorsión	wikidata	2026-07-28	
+52534	tt14803538	directors	Martino Zaidelis	wikidata	2026-07-28	
+52535	tt14803538	writers	Emanuel Diez	wikidata	2026-07-28	
+52544	tt15048024	title	Land Shark	wikidata	2026-07-28	
+52551	tt1506965	title	Smoorverliefd	wikidata	2026-07-28	
+52552	tt1506965	directors	Hilde van Mieghem	wikidata	2026-07-28	
+52553	tt1506965	writers	Hilde van Mieghem; Bert Scholiers	wikidata	2026-07-28	
+52560	tt15121860	title	Forensic	wikidata	2026-07-28	
+52564	tt15131266	title	As Good as Dead	wikidata	2026-07-28	
+52578	tt1530545	title	Szinglik éjszakája	wikidata	2026-07-28	
+52579	tt1530545	directors	Tamás Sas	wikidata	2026-07-28	
+52580	tt1530545	writers	Sándor Szélesi	wikidata	2026-07-28	
+52602	tt15723074	title	10th Class Diaries	wikidata	2026-07-28	
+52603	tt15723074	directors	Anji	wikidata	2026-07-28	
+52609	tt15743130	title	May You Stay Forever Young	wikidata	2026-07-28	
+52610	tt15743130	directors	Ren Xia	wikidata	2026-07-28	
+52614	tt15761332	title	Hádkovi	wikidata	2026-07-28	
+52615	tt15761332	directors	Vojtěch Moravec	wikidata	2026-07-28	
+52616	tt15761332	writers	Sandra Nováková; Vojtěch Moravec	wikidata	2026-07-28	
+52620	tt15777864	title	Hilda and the Mountain King	wikidata	2026-07-28	
+52621	tt15777864	directors	Andy Coyle	wikidata	2026-07-28	
+52640	tt1601453	title	Bolo natumi aamar	wikidata	2026-07-28	
+52641	tt1601453	directors	Sujit Mondal	wikidata	2026-07-28	
+52642	tt1601453	writers	N.K. Salil	wikidata	2026-07-28	
+52649	tt1606761	title	Sword of Desperation	wikidata	2026-07-28	
+52650	tt1606761	directors	Hideyuki Hirayama	wikidata	2026-07-28	
+52663	tt16162032	title	Otchayannye dolshchiki	wikidata	2026-07-28	
+52667	tt1623777	title	Honest Man: The Life of R. Budd Dwyer	wikidata	2026-07-28	
+52668	tt1623777	directors	Jim Dirschberger	wikidata	2026-07-28	
+52675	tt1625155	title	Blood of My Blood	wikidata	2026-07-28	
+52676	tt1625155	directors	Q658661	wikidata	2026-07-28	
+52677	tt1625155	writers	Q658661	wikidata	2026-07-28	
+52684	tt16280912	title	Humane	wikidata	2026-07-28	
+52685	tt16280912	directors	Caitlin Cronenberg	wikidata	2026-07-28	
+52692	tt1632544	title	Kimi ni Todoke	wikidata	2026-07-28	
+52693	tt1632544	directors	Naoto Kumazawa	wikidata	2026-07-28	
+52697	tt1637688	title	In Time	wikidata	2026-07-28	
+52698	tt1637688	directors	Andrew Niccol	wikidata	2026-07-28	
+52699	tt1637688	writers	Andrew Niccol	wikidata	2026-07-28	
+52719	tt17077058	title	Homestay	wikidata	2026-07-28	
+52720	tt17077058	directors	Natsuki Seta	wikidata	2026-07-28	
+52724	tt17081166	title	One of the People	wikidata	2026-07-28	
+52725	tt17081166	directors	Dejidiin Jigjid	wikidata	2026-07-28	
+52726	tt17081166	writers	Lamzhavyn Vangan	wikidata	2026-07-28	
+52736	tt1737256	title	The Island	wikidata	2026-07-28	
+52737	tt1737256	directors	Kamen Kalev	wikidata	2026-07-28	
+52738	tt1737256	writers	Kamen Kalev	wikidata	2026-07-28	
+52750	tt1796657	title	How Not to Rescue a Princess	wikidata	2026-07-28	
+52751	tt1796657	directors	Sergey Glezin	wikidata	2026-07-28	
+52752	tt1796657	writers	Aleksandr Boyarskiy	wikidata	2026-07-28	
+52758	tt1815673	title	The Fatherless	wikidata	2026-07-28	
+52759	tt1815673	directors	Marie Kreutzer	wikidata	2026-07-28	
+52760	tt1815673	writers	Marie Kreutzer	wikidata	2026-07-28	
+52776	tt18570468	title	Celeb Five: Behind the Curtain	wikidata	2026-07-28	
+52780	tt1866285	title	Um Homem de Moral	wikidata	2026-07-28	
+52784	tt1880984	title	George the Hedgehog	wikidata	2026-07-28	
+52785	tt1880984	directors	Wojtek Wawszczyk; Tomasz Lew Leśniak	wikidata	2026-07-28	
+52786	tt1880984	writers	Rafał Skarżycki	wikidata	2026-07-28	
+52816	tt1981703	title	The Harvest	wikidata	2026-07-28	
+52817	tt1981703	directors	Robin Romano	wikidata	2026-07-28	
+52821	tt1982838	title	Slam, ce qui nous brûle	wikidata	2026-07-28	
+52822	tt1982838	directors	Pascal Tessaud	wikidata	2026-07-28	
+52826	tt1984241	title	Schellebelle 1919	wikidata	2026-07-28	
+52827	tt1984241	directors	Johan Heldenbergh; Kenneth Taylor	wikidata	2026-07-28	
+52828	tt1984241	writers	Johan Heldenbergh	wikidata	2026-07-28	
+52838	tt1985981	title	Desi Boyz	wikidata	2026-07-28	
+52839	tt1985981	directors	Rohit Dhawan	wikidata	2026-07-28	
+52840	tt1985981	writers	David Dhawan	wikidata	2026-07-28	
+52854	tt2008498	title	Do Numbri	wikidata	2026-07-28	
+52855	tt2008498	directors	T. L. V. Prasad	wikidata	2026-07-28	
+52859	tt20112746	title	Sting	wikidata	2026-07-28	
+52860	tt20112746	directors	Kiah Roache-Turner	wikidata	2026-07-28	
+52861	tt20112746	writers	Kiah Roache-Turner	wikidata	2026-07-28	
+52870	tt2042608	title	Nee	wikidata	2026-07-28	
+52871	tt2042608	directors	T. R. Ramanna	wikidata	2026-07-28	
+52874	tt2042712	title	Where is Robert Fisher?	wikidata	2026-07-28	
+52884	tt20724406	title	Morrison	wikidata	2026-07-28	
+52904	tt21071746	title	Q117824903	wikidata	2026-07-28	
+52905	tt21071746	directors	Isabelle Mergault	wikidata	2026-07-28	
+52906	tt21071746	writers	Isabelle Mergault	wikidata	2026-07-28	
+52919	tt2120157	title	The Suckers	wikidata	2026-07-28	
+52920	tt2120157	directors	Stu Segall	wikidata	2026-07-28	
+52940	tt2169316	title	Once Around the Sun	wikidata	2026-07-28	
+52944	tt21816244	title	Q120868326	wikidata	2026-07-28	
+52948	tt21825708	title	Exitus	wikidata	2026-07-28	
+52949	tt21825708	directors	Alessandro Bencivenga	wikidata	2026-07-28	
+52950	tt21825708	writers	Anna Pavignano	wikidata	2026-07-28	
+52954	tt2184335	title	Urban Hymn	wikidata	2026-07-28	
+52955	tt2184335	directors	Michael Caton-Jones	wikidata	2026-07-28	
+52956	tt2184335	writers	Nick Moorcroft	wikidata	2026-07-28	
+52987	tt2254068	title	Q12474217	wikidata	2026-07-28	
+52988	tt2254068	directors	Nayato Fio Nuala	wikidata	2026-07-28	
+52996	tt22697096	title	Welcome to Paradise	wikidata	2026-07-28	
+52997	tt22697096	directors	Ani Alva Helfer	wikidata	2026-07-28	
+52998	tt22697096	writers	Q131565479	wikidata	2026-07-28	
+53005	tt2292607	title	A Girl Named Mahmoud	wikidata	2026-07-28	
+53006	tt2292607	directors	Niazi Mostafa	wikidata	2026-07-28	
+53015	tt23214780	title	Stay Online	wikidata	2026-07-28	
+53016	tt23214780	directors	Yeva Strielnikova	wikidata	2026-07-28	
+53017	tt23214780	writers	Yeva Strielnikova; Anton Skrypets	wikidata	2026-07-28	
+53023	tt2345561	title	Grandmaster	wikidata	2026-07-28	
+53024	tt2345561	directors	B. Unnikrishnan	wikidata	2026-07-28	
+53025	tt2345561	writers	B. Unnikrishnan	wikidata	2026-07-28	
+53041	tt2378830	title	Sommeren '92	wikidata	2026-07-28	
+53042	tt2378830	directors	Kasper Barfoed	wikidata	2026-07-28	
+53043	tt2378830	writers	Kasper Barfoed; Anders August	wikidata	2026-07-28	
+53046	tt2379772	title	Afacan	wikidata	2026-07-28	
+53047	tt2379772	directors	Yılmaz Atadeniz	wikidata	2026-07-28	
+53059	tt2398340	title	Thadaka	wikidata	2026-07-28	
+53060	tt2398340	directors	Kishore Kumar Pardasani	wikidata	2026-07-28	
+53061	tt2398340	writers	N. Lingusamy	wikidata	2026-07-28	
+53065	tt2402163	title	Paris Countdown	wikidata	2026-07-28	
+53066	tt2402163	directors	Edgar Marie	wikidata	2026-07-28	
+53067	tt2402163	writers	Edgar Marie	wikidata	2026-07-28	
+53081	tt2447822	title	Momok: Jangan Cari Pasal	wikidata	2026-07-28	
+53088	tt2474932	title	Despite the Falling Snow	wikidata	2026-07-28	
+53089	tt2474932	directors	Shamim Sarif	wikidata	2026-07-28	
+53090	tt2474932	writers	Shamim Sarif	wikidata	2026-07-28	
+53117	tt2577862	title	Déjà vu	wikidata	2026-07-28	
+53118	tt2577862	directors	Dan Chișu	wikidata	2026-07-28	
+53131	tt25965930	title	Romina, VTM	wikidata	2026-07-28	
+53140	tt2639336	title	Greta	wikidata	2026-07-28	
+53141	tt2639336	directors	Neil Jordan	wikidata	2026-07-28	
+53142	tt2639336	writers	Neil Jordan; Ray Wright	wikidata	2026-07-28	
+53161	tt26745680	title	Motherland	wikidata	2026-07-28	
+53162	tt26745680	directors	Hanna Badziaka; Alexander Mihalkovich	wikidata	2026-07-28	
+53181	tt27170131	title	Ambiguous Man	wikidata	2026-07-28	
+53188	tt27205884	title	Q3936410	wikidata	2026-07-28	
+53189	tt27205884	directors	Camillo Mastrocinque	wikidata	2026-07-28	
+53193	tt2723240	title	Age of Cannibals	wikidata	2026-07-28	
+53194	tt2723240	directors	Johannes Naber	wikidata	2026-07-28	
+53195	tt2723240	writers	Stefan Weigl	wikidata	2026-07-28	
+53204	tt27436539	title	Mother Saigon	wikidata	2026-07-28	
+53205	tt27436539	directors	Khoa Lê	wikidata	2026-07-28	
+53209	tt27494630	title	Kotee	wikidata	2026-07-28	
+53260	tt28258332	title	Article 20	wikidata	2026-07-28	
+53261	tt28258332	directors	Zhang Yimou	wikidata	2026-07-28	
+53295	tt28750562	title	Ziddi Mama	wikidata	2026-07-28	
+53323	tt2960600	title	Like A Country Song	wikidata	2026-07-28	
+53324	tt2960600	directors	Johnny Remo	wikidata	2026-07-28	
+53326	tt29668971	title	Ithiri Neram	wikidata	2026-07-28	
+53330	tt29728906	title	Q136375188	wikidata	2026-07-28	
+53347	tt30235974	title	Still Fabulous	wikidata	2026-07-28	
+53348	tt30235974	directors	Michela Andreozzi	wikidata	2026-07-28	
+53349	tt30235974	writers	Michela Andreozzi; Daniela Delle Foglie	wikidata	2026-07-28	
+53381	tt3118628	title	Bastardo	wikidata	2026-07-28	
+53382	tt3118628	directors	Nejib Belkadhi	wikidata	2026-07-28	
+53383	tt3118628	writers	Nejib Belkadhi	wikidata	2026-07-28	
+53390	tt31250833	title	Lafran	wikidata	2026-07-28	
+53403	tt3146264	title	Agent 2000	wikidata	2026-07-28	
+53404	tt3146264	directors	Stefan Nieuwoudt	wikidata	2026-07-28	
+53408	tt31530596	title	Q134882432	wikidata	2026-07-28	
+53446	tt32306046	title	Q127424542	wikidata	2026-07-28	
+53447	tt32306046	directors	Bachir Bensaddek	wikidata	2026-07-28	
+53464	tt32525026	title	Naale Rajaa Koli Majaa	wikidata	2026-07-28	
+53465	tt32525026	directors	Abhilash Shetty	wikidata	2026-07-28	
+53475	tt3257072	title	Fish & Cat	wikidata	2026-07-28	
+53476	tt3257072	directors	Shahram Mokri	wikidata	2026-07-28	
+53477	tt3257072	writers	Shahram Mokri	wikidata	2026-07-28	
+53485	tt32657611	title	Anaïs, 2 chapitres	wikidata	2026-07-28	
+53488	tt32857098	title	Karki	wikidata	2026-07-28	
+53489	tt32857098	directors	Pavithran	wikidata	2026-07-28	
+53493	tt32897959	title	Wuthering Heights	wikidata	2026-07-28	
+53494	tt32897959	directors	Emerald Fennell	wikidata	2026-07-28	
+53495	tt32897959	writers	Emerald Fennell	wikidata	2026-07-28	
+53504	tt33268513	title	Cracked	wikidata	2026-07-28	
+53505	tt33268513	directors	Q136396723	wikidata	2026-07-28	
+53506	tt33268513	writers	Q136396723	wikidata	2026-07-28	
+53515	tt33384837	title	Therku Theru Machan	wikidata	2026-07-28	
+53516	tt33384837	directors	Manivannan	wikidata	2026-07-28	
+53517	tt33384837	writers	Manivannan	wikidata	2026-07-28	
+53526	tt33484595	title	Alberta Number One	wikidata	2026-07-28	
+53543	tt3410834	title	The Divergent Series: Allegiant	wikidata	2026-07-28	
+53544	tt3410834	directors	Robert Schwentke	wikidata	2026-07-28	
+53545	tt3410834	writers	Veronica Roth	wikidata	2026-07-28	
+53560	tt34388850	title	Vanchana	wikidata	2026-07-28	
+53564	tt34490115	title	Hidden Face	wikidata	2026-07-28	
+53565	tt34490115	directors	Kim Dae-woo	wikidata	2026-07-28	
+53609	tt3524638	title	Focus on Infinity	wikidata	2026-07-28	
+53610	tt3524638	directors	Joerg Burger	wikidata	2026-07-28	
+53616	tt3527502	title	She's The Best Thing In It	wikidata	2026-07-28	
+53617	tt3527502	directors	Ron Nyswaner	wikidata	2026-07-28	
+53633	tt35518410	title	Dridam	wikidata	2026-07-28	
+53644	tt35705588	title	Q132203032	wikidata	2026-07-28	
+53645	tt35705588	directors	Bruno Boulianne	wikidata	2026-07-28	
+53659	tt3589352	title	Q132732747	wikidata	2026-07-28	
+53669	tt3596302	title	300 hommes	wikidata	2026-07-28	
+53670	tt3596302	directors	Emmanuel Gras; Aline Dalbis	wikidata	2026-07-28	
+53683	tt3607360	title	The Competition	wikidata	2026-07-28	
+53731	tt3739558	title	The Price	wikidata	2026-07-28	
+53737	tt3743974	title	Dot 2 Dot	wikidata	2026-07-28	
+53738	tt3743974	directors	Amos Wong	wikidata	2026-07-28	
+53742	tt3744098	title	Naku Penda Naku Taka	wikidata	2026-07-28	
+53743	tt3744098	directors	Vayalar Madhavan	wikidata	2026-07-28	
+53744	tt3744098	writers	Jeyamohan	wikidata	2026-07-28	
+53773	tt3793788	title	The Escort	wikidata	2026-07-28	
+53774	tt3793788	directors	Will Slocombe	wikidata	2026-07-28	
+53778	tt37962136	title	The People Upstairs	wikidata	2026-07-28	
+53779	tt37962136	directors	Ha Jung-woo	wikidata	2026-07-28	
+53780	tt37962136	writers	Ha Jung-woo	wikidata	2026-07-28	
+53786	tt3815424	title	3000 Nights	wikidata	2026-07-28	
+53787	tt3815424	directors	Mai Almasri	wikidata	2026-07-28	
+53788	tt3815424	writers	Mai Almasri	wikidata	2026-07-28	
+53794	tt38518474	title	When will you get divorced?	wikidata	2026-07-28	
+53795	tt38518474	directors	Oleksii Komarovskyi	wikidata	2026-07-28	
+53804	tt38641692	title	2034	wikidata	2026-07-28	
+53805	tt38641692	directors	Joseph Gordon-Levitt	wikidata	2026-07-28	
+53806	tt38641692	writers	Joseph Gordon-Levitt; Kieran Fitzgerald	wikidata	2026-07-28	
+53810	tt38716253	title	E Re'ah Fahu	wikidata	2026-07-28	
+53811	tt38716253	directors	Ahmed Nimal	wikidata	2026-07-28	
+53822	tt3892880	title	Police in Pollywood	wikidata	2026-07-28	
+53828	tt39092575	title	Muhurtha Naal	wikidata	2026-07-28	
+53829	tt39092575	directors	P. Madhavan	wikidata	2026-07-28	
+53834	tt39130951	title	Yaarra Andha Paiyan Naan Dhan Andha Paiyan	wikidata	2026-07-28	
+53856	tt3952246	title	Eiga ST Aka to Shirō no Sōsa File	wikidata	2026-07-28	
+53857	tt3952246	directors	Toya Sato	wikidata	2026-07-28	
+53869	tt3982854	title	Song of My Mother	wikidata	2026-07-28	
+53870	tt3982854	directors	Erol Mintaş	wikidata	2026-07-28	
+53873	tt39830442	title	Q114755596	wikidata	2026-07-28	
+53874	tt39830442	directors	Youssef Sharaf El Din	wikidata	2026-07-28	
+53893	tt4046392	title	Last Stop	wikidata	2026-07-28	
+53894	tt4046392	directors	Julie Shles	wikidata	2026-07-28	
+53910	tt4104022	title	People Places Things	wikidata	2026-07-28	
+53911	tt4104022	directors	James C. Strouse	wikidata	2026-07-28	
+53912	tt4104022	writers	James C. Strouse	wikidata	2026-07-28	
+53916	tt4118740	title	9 KK Road	wikidata	2026-07-28	
+53922	tt42421202	title	Kundan Satti	wikidata	2026-07-28	
+53931	tt4292420	title	Ville-Marie	wikidata	2026-07-28	
+53932	tt4292420	directors	Guy Édoin	wikidata	2026-07-28	
+53933	tt4292420	writers	Jean-Simon DesRochers	wikidata	2026-07-28	
+53965	tt4466494	title	Everyday Heroes	wikidata	2026-07-28	
+53966	tt4466494	directors	Anne-Dauphine Julliand	wikidata	2026-07-28	
+54015	tt4788320	title	Original Copy	wikidata	2026-07-28	
+54016	tt4788320	directors	Georg Heinzen; Florian Heinzen-Ziob	wikidata	2026-07-28	
+54026	tt4830834	title	The Duchess of Doubt	wikidata	2026-07-28	
+54027	tt4830834	directors	George D. Baker	wikidata	2026-07-28	
+54031	tt4837126	title	Love Everlasting	wikidata	2026-07-28	
+54035	tt4847546	title	Blood Feast	wikidata	2026-07-28	
+54036	tt4847546	directors	Marcel Walz	wikidata	2026-07-28	
+54042	tt4862468	title	A Chinese Odyssey Part Three	wikidata	2026-07-28	
+54043	tt4862468	directors	Jeffrey Lau	wikidata	2026-07-28	
+54055	tt4958742	title	Behind the Curtain of Night	wikidata	2026-07-28	
+54056	tt4958742	directors	Dalibor Stach	wikidata	2026-07-28	
+54057	tt4958742	writers	Dalibor Stach	wikidata	2026-07-28	
+54069	tt5029776	title	Rabbit School	wikidata	2026-07-28	
+54070	tt5029776	directors	Ute von Münchow-Pohl	wikidata	2026-07-28	
+54074	tt5069058	title	CandyFlip	wikidata	2026-07-28	
+54078	tt5072466	title	Naked Beauty	wikidata	2026-07-28	
+54079	tt5072466	directors	Mario Schneider	wikidata	2026-07-28	
+54080	tt5072466	writers	Mario Schneider	wikidata	2026-07-28	
+54088	tt5146068	title	All These Sleepless Nights	wikidata	2026-07-28	
+54089	tt5146068	directors	Michał Marczak	wikidata	2026-07-28	
+54090	tt5146068	writers	Michał Marczak	wikidata	2026-07-28	
+54108	tt5287920	title	Q20110829	wikidata	2026-07-28	
+54109	tt5287920	directors	Nemat Haghighi	wikidata	2026-07-28	
+54113	tt5352034	title	Callings	wikidata	2026-07-28	
+54126	tt5547576	title	Av	wikidata	2026-07-28	
+54127	tt5547576	directors	Melih Gülgen	wikidata	2026-07-28	
+54135	tt5609524	title	Signs of Humanity	wikidata	2026-07-28	
+54136	tt5609524	directors	Tim Chumley; Willie Baronet	wikidata	2026-07-28	
+54149	tt5701120	title	Q30737672	wikidata	2026-07-28	
+54150	tt5701120	directors	Dominic Bachy	wikidata	2026-07-28	
+54159	tt5783112	title	The Hunt	wikidata	2026-07-28	
+54163	tt5799362	title	Chouquette	wikidata	2026-07-28	
+54167	tt5812528	title	Hidden Admiration	wikidata	2026-07-28	
+54168	tt5812528	directors	Rod Putnam; Brian Wellman	wikidata	2026-07-28	
+54172	tt5861520	title	Narcissus: An Ancient Roman Pantomime	wikidata	2026-07-28	
+54173	tt5861520	directors	Austin Tooley	wikidata	2026-07-28	
+54179	tt5903082	title	Urban Rez	wikidata	2026-07-28	
+54185	tt5910248	title	Mistaken	wikidata	2026-07-28	
+54189	tt5955162	title	Secrets from the Past	wikidata	2026-07-28	
+54190	tt5955162	directors	Raşit Görgülü	wikidata	2026-07-28	
+54201	tt6006666	title	My Suburban Stories	wikidata	2026-07-28	
+54229	tt6259946	title	2 Cool 2 Be 4gotten	wikidata	2026-07-28	
+54230	tt6259946	directors	Petersen Vargas	wikidata	2026-07-28	
+54231	tt6259946	writers	Petersen Vargas; Jason Paul Laxamana	wikidata	2026-07-28	
+54241	tt6284474	title	Chowka	wikidata	2026-07-28	
+54242	tt6284474	directors	Tharun Sudhir	wikidata	2026-07-28	
+54243	tt6284474	writers	Tharun Sudhir	wikidata	2026-07-28	
+54249	tt6387506	title	The Violin Player	wikidata	2026-07-28	
+54250	tt6387506	directors	Paavo Westerberg	wikidata	2026-07-28	
+54254	tt6430360	title	The Table	wikidata	2026-07-28	
+54255	tt6430360	directors	Kim Jong-kwan	wikidata	2026-07-28	
+54267	tt6551244	title	Suryavamsham	wikidata	2026-07-28	
+54268	tt6551244	directors	Vikraman	wikidata	2026-07-28	
+54269	tt6551244	writers	Vikraman	wikidata	2026-07-28	
+54273	tt6567380	title	Pagadi Aattam	wikidata	2026-07-28	
+54274	tt6567380	directors	Ram K. Chandran	wikidata	2026-07-28	
+54278	tt6593532	title	Q57279844	wikidata	2026-07-28	
+54282	tt6602928	title	Únos	wikidata	2026-07-28	
+54283	tt6602928	directors	Mariana Čengel Solčanská	wikidata	2026-07-28	
+54284	tt6602928	writers	Mariana Čengel Solčanská	wikidata	2026-07-28	
+54291	tt6750446	title	Pullakuttikaran	wikidata	2026-07-28	
+54292	tt6750446	directors	R. Parthiepan	wikidata	2026-07-28	
+54302	tt6857956	title	Kensatsu gawa no zainin	wikidata	2026-07-28	
+54303	tt6857956	directors	Masato Harada	wikidata	2026-07-28	
+54304	tt6857956	writers	Masato Harada	wikidata	2026-07-28	
+54308	tt6885296	title	Chastnoe pionerskoe 3	wikidata	2026-07-28	
+54309	tt6885296	directors	Aleksandr Karpilovsky	wikidata	2026-07-28	
+54318	tt6953792	title	So Long	wikidata	2026-07-28	
+54322	tt6967702	title	What a Lie	wikidata	2026-07-28	
+54323	tt6967702	directors	Mohammed El Naggar	wikidata	2026-07-28	
+54338	tt7135000	title	Ah Nerede Vah Nerede	wikidata	2026-07-28	
+54339	tt7135000	directors	Sırrı Gültekin	wikidata	2026-07-28	
+54366	tt7504214	title	Aa Bb Kk	wikidata	2026-07-28	
+54367	tt7504214	directors	Ramkumar Shedge	wikidata	2026-07-28	
+54380	tt7601594	title	Iblis	wikidata	2026-07-28	
+54400	tt7759626	title	Agent Mr Chan	wikidata	2026-07-28	
+54401	tt7759626	directors	Jeff Cheung Ka-Kit	wikidata	2026-07-28	
+54402	tt7759626	writers	Dayo Wong	wikidata	2026-07-28	
+54418	tt7858228	title	Bir xalanin sirri	wikidata	2026-07-28	
+54419	tt7858228	directors	Emil Quliyev	wikidata	2026-07-28	
+54437	tt8193790	title	Deerskin	wikidata	2026-07-28	
+54438	tt8193790	directors	Quentin Dupieux	wikidata	2026-07-28	
+54439	tt8193790	writers	Quentin Dupieux	wikidata	2026-07-28	
+54445	tt8228538	title	Papi Chulo	wikidata	2026-07-28	
+54446	tt8228538	directors	John Butler	wikidata	2026-07-28	
+54447	tt8228538	writers	John Butler	wikidata	2026-07-28	
+54453	tt8302626	title	Pyaar Kaa Fundaa	wikidata	2026-07-28	
+54491	tt8806770	title	Mystery of Burma: Beyond the Dotehtawady	wikidata	2026-07-28	
+54492	tt8806770	directors	Arkar	wikidata	2026-07-28	
+54496	tt8815382	title	The Obituary of Tunde Johnson	wikidata	2026-07-28	
+54497	tt8815382	directors	Ali LeRoi	wikidata	2026-07-28	
+54498	tt8815382	writers	Stanley Kalu	wikidata	2026-07-28	
+54531	tt9213874	title	Breeder	wikidata	2026-07-28	
+54542	tt9319884	title	Lakshmi's NTR	wikidata	2026-07-28	
+54543	tt9319884	directors	Ram Gopal Varma	wikidata	2026-07-28	
+54549	tt9365800	title	Slayers	wikidata	2026-07-28	
+54550	tt9365800	directors	K. Asher Levin	wikidata	2026-07-28	
+54554	tt9385434	title	Rice And Boobs	wikidata	2026-07-28	
+54555	tt9385434	directors	Shinichiro Ueda	wikidata	2026-07-28	
+54556	tt9385434	writers	Shinichiro Ueda	wikidata	2026-07-28	
+54559	tt9403508	title	5B	wikidata	2026-07-28	
+54560	tt9403508	directors	Paul Haggis; Dan Krauss	wikidata	2026-07-28	
+54563	tt9415848	title	Q76731892	wikidata	2026-07-28	
+54564	tt9415848	directors	Mo Ali	wikidata	2026-07-28	
+54576	tt9569006	title	Breaking Point	wikidata	2026-07-28	
+54596	tt9878242	title	Subharathri	wikidata	2026-07-28	

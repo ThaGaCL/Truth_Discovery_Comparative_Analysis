@@ -6,3 +6,4 @@ source/java-code/qcri/dafna/dataModel/dataSet/dataSetFormatter/OldFlightDataSetR
 source/java-code/qcri/dafna/dataModel/dataSet/dataSetFormatter/PopulationBiographyDataSetGenerator.java
 source/java-code/qcri/dafna/dataModel/dataSet/dataSetFormatter/PopulationDatasetReadOldWriteNew.java
 source/java-code/qcri/dafna/dataModel/dataSet/dataSetFormatter/WeatherReadOldWriteNew.java
+source/java-code/qcri/dafna/dataModel/dataSet/dataSetFormatter/MovieDataSetReadOldWriteNew.java

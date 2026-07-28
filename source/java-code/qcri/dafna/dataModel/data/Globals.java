@@ -140,6 +140,16 @@ public class Globals {
 	public static final String directory_formattedDAFNADataset_IMDBactors = directory_formattedDAFNADataset +  "/IMDBactors/claims";
 	public static final String directory_UnformattedIMDBactorsDump = directory_UN_formattedDAFNADataset + "/imdbactors/claims";
 
+	// Movies dataSet
+	public static final String directory_UnformattedMoviesFiles = directory_UN_formattedDAFNADataset + "/movies";
+	public static final String directory_formattedDAFNADataset_MoviesFolder = directory_formattedDAFNADataset +  "/movies";
+	public static final String directory_formattedDAFNADataset_MoviesClaimsFolder = directory_formattedDAFNADataset +  "/movies/claims";
+	public static final String directory_formattedDAFNADataset_MoviesTruthFolder = directory_formattedDAFNADataset + "/movies/truth";
+	public static final String movieDataSet_Title = "title";
+	public static final String movieDataSet_Directors = "directors";
+	public static final String movieDataSet_Writers = "writers";
+	public static final Charset Movies_DataSet_FILE_ENCODING = StandardCharsets.UTF_8;
+
 	public static double starting_Confidence = 0.5;
 	public static double starting_trustworthiness = 0.9;
 	public static double tolerance_Factor = 0.01;

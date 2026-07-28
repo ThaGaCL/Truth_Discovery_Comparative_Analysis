@@ -1,0 +1,3456 @@
+tt0003442	title	Tess of the D'Urbervilles
+tt0003442	directors	J. Searle Dawley
+tt0003442	writers	Thomas Hardy
+tt0003749	title	The Captain Besley Expedition
+tt0003749	directors	Franklin B. Coates
+tt0005626	title	The Little Dutch Girl
+tt0005626	directors	Emile Chautard
+tt0005626	writers	E. Magnus Ingleton; Ouida
+tt0005921	title	Pretty Mrs. Smith
+tt0005921	directors	Hobart Bosworth
+tt0005921	writers	Elmer Harris; Oliver Morosco
+tt0007102	title	Muñecos
+tt0007102	directors	Benito Perojo
+tt0007102	writers	Benito Perojo
+tt0007430	title	The Target
+tt0007430	directors	Norval MacGregor
+tt0007430	writers	Robert N. Bradbury
+tt0008502	title	The Red Ace
+tt0008502	directors	Jacques Jaccard
+tt0008502	writers	Jacques Jaccard
+tt0008855	title	El aventurero misterioso
+tt0008855	directors	Eusebio Fernández Ardavín
+tt0008855	writers	Eusebio Fernández Ardavín; Eusebio Fernández Ardavín
+tt0009540	title	The Red, Red Heart
+tt0009540	directors	Wilfred Lucas
+tt0009540	writers	Bess Meredyth; Honore Morrow
+tt0010317	title	Die Jugendsünde
+tt0010317	directors	Georg Alexander
+tt0010317	writers	Ludwig Anzengruber (play)
+tt0011436	title	Der Mann ohne Namen - 1. Der Millionendieb
+tt0011436	directors	Georg Jacoby
+tt0011436	writers	Georg Jacoby; Robert Liebmann; Ewald Gerhard Seeliger
+tt0012177	title	Spanish Flower or the Bullfighter's Story
+tt0012177	directors	Helena Cortesina; José María Granada
+tt0012177	writers	José María Granada
+tt0012403	title	Lonely Heart
+tt0012403	directors	John B. O'Brien
+tt0012403	writers	H.H. Caldwell; Anthony Paul Kelly; Edgar Selwyn
+tt0013030	title	The Cowboy and the Lady
+tt0013030	directors	Charles Maigne
+tt0013030	writers	Clyde Fitch; Julien Josephson
+tt0014059	title	Frauenmoral
+tt0014059	directors	Theo Frenkel
+tt0014059	writers	Paul Beyer; Theo Frenkel
+tt0014852	title	Don't Call It Love
+tt0014852	directors	William C. de Mille
+tt0014852	writers	Clara Beranger; Hubert Osborne; Julian Street
+tt0015647	title	Broadway Lady
+tt0015647	directors	Wesley Ruggles
+tt0015647	writers	Fred Myton
+tt0015793	title	Fangs of Wolfheart
+tt0015793	directors	Charles R. Seeling
+tt0016551	title	Women and Gold
+tt0016551	directors	James P. Hogan
+tt0016551	writers	Betty Grace Hartford; James P. Hogan
+tt0017500	title	The Unknown Cavalier
+tt0017500	directors	Albert S. Rogell
+tt0017500	writers	Kenneth Perkins; Marion Jackson; Don Ryan
+tt0017743	title	Chang: A Drama of the Wilderness
+tt0017743	directors	Merian C. Cooper; Ernest B. Schoedsack
+tt0017743	writers	Achmed Abdullah; Merian C. Cooper; Ernest B. Schoedsack
+tt0017829	title	Dress Parade
+tt0017829	directors	Donald Crisp
+tt0017829	writers	Alexander Chilton; Douglas Z. Doty; Robert Glassburn
+tt0018336	title	The Romantic Age
+tt0018336	directors	Robert Florey
+tt0018336	writers	Dorothy Howell
+tt0018953	title	The Grain of Dust
+tt0018953	directors	George Archainbaud
+tt0018953	writers	Frances Hyland; Paul Perez; David Graham Phillips
+tt0020514	title	The Trespasser
+tt0020514	directors	Edmund Goulding
+tt0020514	writers	Edmund Goulding
+tt0020803	title	Dames Ahoy
+tt0020803	directors	William James Craft
+tt0020803	writers	Sherman L. Lowe; Albert DeMond; Matt Taylor
+tt0021404	title	The Song of the Flame
+tt0021404	directors	Alan Crosland
+tt0021404	writers	Oscar Hammerstein II; Otto A. Harbach; Gordon Rigby
+tt0021483	title	Tom Sawyer
+tt0021483	directors	John Cromwell
+tt0021483	writers	Mark Twain; Grover Jones; William Slavens McNutt
+tt0022101	title	M'Blimey
+tt0022101	directors	J. Elder Wills
+tt0022101	writers	C.H. Dand; Hans Nieter
+tt0024950	title	Il cappello a tre punte
+tt0024950	directors	Mario Camerini
+tt0024950	writers	Ercole Patti; Ivo Perilli; Mario Soldati
+tt0024952	title	Caravan
+tt0024952	directors	Erik Charell
+tt0024952	writers	Erik Charell; Hanns Kräly; Melchior Lengyel
+tt0025512	title	Mon coeur t'appelle
+tt0025512	directors	Carmine Gallone; Serge Veber
+tt0025512	writers	Ernst Marischka; Emeric Pressburger
+tt0026542	title	Jalna
+tt0026542	directors	John Cromwell
+tt0026542	writers	Mazo de la Roche; Garrett Fort; Lawrence P. Bachmann
+tt0026546	title	Jérôme Perreau héros des barricades
+tt0026546	directors	Abel Gance
+tt0026546	writers	Henry Dupuis-Mazuel; Paul Fékété; Abel Gance
+tt0027060	title	Super-Speed
+tt0027060	directors	Lambert Hillyer
+tt0027060	writers	Harold Shumate
+tt0027535	title	Don't Get Personal
+tt0027535	directors	Charles Lamont; William Nigh
+tt0027535	writers	Wilhelm Thiele (story "Tomorrow is a Better Day"); Edmund L. Hartmann (story "Tomorrow is a Better Day"); George Waggner (screenplay); Clarence Marks (screenplay); Houston Branch (screenplay)
+tt0028220	title	Savoy-Hotel 217
+tt0028220	directors	Gustav Ucicky
+tt0028220	writers	Gerhard Menzel
+tt0029085	title	Bubi
+tt0029085	directors	Béla Gaál
+tt0029085	writers	Felix Jackson; Max Kolpé
+tt0029141	title	Liebe kann lügen
+tt0029141	directors	Heinz Helbig
+tt0029141	writers	Fred Andreas; Erich Ebermayer; Franz Wallner-Basté
+tt0029328	title	You're in the Army Now
+tt0029328	directors	Raoul Walsh
+tt0029328	writers	Lesser Samuels; Ralph Gilbert Bettison; Austin Melford
+tt0030981	title	Wives Under Suspicion
+tt0030981	directors	James Whale
+tt0030981	writers	Myles Connolly; Ladislas Fodor
+tt0031655	title	The Minister's Friend
+tt0031655	directors	Viktor Bánky
+tt0031655	writers	Viktor Bánky; István Békeffy
+tt0031703	title	Mystery Plane
+tt0031703	directors	George Waggner
+tt0031703	writers	Paul Schofield; George Waggner; Hal Forrest
+tt0032793	title	Military Academy
+tt0032793	directors	D. Ross Lederman
+tt0032793	writers	Karl Brown; David Silverstein; Richard English
+tt0033156	title	Thou Shalt Not Kill
+tt0033156	directors	John H. Auer
+tt0033156	writers	Robert Presnell Sr.; George Carleton Brown
+tt0033880	title	Margherita fra i tre
+tt0033880	directors	Ivo Perilli
+tt0033880	writers	Nicola Manzari; Renato May; Fritz Schwiefert
+tt0034417	title	Those Were The Days, Senor Don Simon!
+tt0034417	directors	Julio Bracho
+tt0034417	writers	Neftali Beltrán; Julio Bracho
+tt0034497	title	Raigekitai Shutsudô
+tt0034497	directors	Kajirô Yamamoto
+tt0034497	writers	Kajirô Yamamoto
+tt0034876	title	Huella de luz
+tt0034876	directors	Rafael Gil
+tt0034876	writers	Wenceslao Fernández Flórez; Rafael Gil
+tt0034887	title	Idyll in Mallorca
+tt0034887	directors	Max Neufeld
+tt0034887	writers	Félix Aguilera; Max Neufeld (screenplay); Max Neufeld (story)
+tt0035028	title	Man from Headquarters
+tt0035028	directors	Jean Yarbrough
+tt0035028	writers	John W. Krafft; Edmond Kelso; Rollo Lloyd
+tt0035220	title	Private Snuffy Smith
+tt0035220	directors	Edward F. Cline
+tt0035220	writers	Billy DeBeck; John Grey; Jack Henley
+tt0037856	title	Kyläraittien kuningas
+tt0037856	directors	Jorma Nortimo
+tt0037856	writers	Kaarle Halme; Kalle Kaarna
+tt0038428	title	Cowboy Blues
+tt0038428	directors	Ray Nazarro
+tt0038428	writers	J. Benton Cheney
+tt0038504	title	Earl Carroll Sketchbook
+tt0038504	directors	Albert S. Rogell
+tt0038504	writers	Frank Gill Jr.; Parke Levy
+tt0038582	title	A Guy Could Change
+tt0038582	directors	William K. Howard
+tt0038582	writers	F. Hugh Herbert; Al Martin
+tt0038878	title	Renegades
+tt0038878	directors	George Sherman
+tt0038878	writers	Harold Shumate; Melvin Levy; Francis Edward Faragoh
+tt0039068	title	Uno tra la folla
+tt0039068	directors	Ennio Cerlesi
+tt0039068	writers	Ennio Cerlesi; Massimo Rendina; Piero Tellini
+tt0040489	title	Jinx Money
+tt0040489	directors	William Beaudine
+tt0040489	writers	Edmond Seward; Tim Ryan; Gerald Schnitzer
+tt0041332	title	El Paso
+tt0041332	directors	Lewis R. Foster
+tt0041332	writers	Lewis R. Foster; J. Robert Bren; Gladys Atwater
+tt0042566	title	Hokm al kawi
+tt0042566	directors	Hasan El-Emam
+tt0042566	writers	Hasan El-Emam
+tt0044122	title	This Is Korea!
+tt0044122	directors	John Ford
+tt0044122	writers	James Warner Bellah
+tt0045619	title	Champ for a Day
+tt0045619	directors	William A. Seiter
+tt0045619	writers	Irving Shulman; W.G. Fay
+tt0045809	title	Genkai no wani
+tt0046237	title	Resan till dej
+tt0046237	directors	Stig Olin
+tt0046237	writers	Stig Olin; Hasse Ekman
+tt0046718	title	Anupama
+tt0046718	directors	Agradoot
+tt0047027	title	La gitana y el charro
+tt0047027	directors	Gilberto Martínez Solares
+tt0047027	writers	Jesús María de Arozamena; José María Fernández; Blanca Estela Limón
+tt0048283	title	Land of the Pharaohs
+tt0048283	directors	Howard Hawks
+tt0048283	writers	William Faulkner; Harry Kurnitz; Harold Jack Bloom
+tt0049108	title	Crowded Paradise
+tt0049108	directors	Fred Pressburger; Ben Gradus
+tt0049108	writers	Marc Connelly; Arthur Forrest
+tt0049784	title	Early Spring
+tt0049784	directors	Yasujirô Ozu
+tt0049784	writers	Kôgo Noda; Yasujirô Ozu
+tt0050910	title	Mad Little Island
+tt0050910	directors	Michael Relph
+tt0050910	writers	Compton MacKenzie; Monja Danischewsky
+tt0053337	title	Teenagers from Outer Space
+tt0053337	directors	Tom Graeff
+tt0053337	writers	Tom Graeff
+tt0054285	title	Atom Age Vampire
+tt0054285	directors	Anton Giulio Majano
+tt0054285	writers	Piero Monviso; Gino De Santis; Alberto Bevilacqua
+tt0055613	title	Watch It, Sailor!
+tt0055613	directors	Wolf Rilla
+tt0055613	writers	Falkland L. Cary; Philip King
+tt0056289	title	The Notorious Landlady
+tt0056289	directors	Richard Quine
+tt0056289	writers	Larry Gelbart; Blake Edwards; Margery Sharp
+tt0056468	title	The Condemned of Altona
+tt0056468	directors	Vittorio De Sica
+tt0056468	writers	Jean-Paul Sartre; Cesare Zavattini; Abby Mann
+tt0056935	title	Cinderella
+tt0056935	writers	Charles Perrault
+tt0057076	title	From Russia with Love
+tt0057076	directors	Terence Young
+tt0057076	writers	Richard Maibaum; Johanna Harwood; Ian Fleming
+tt0057189	title	Island of Love
+tt0057189	directors	Morton DaCosta
+tt0057189	writers	David R. Schwartz; Leo Katcher
+tt0059036	title	I cento cavalieri
+tt0059036	directors	Vittorio Cottafavi
+tt0059036	writers	Vittorio Cottafavi; Giorgio Prosperi; José María Otero
+tt0059043	title	The Collector
+tt0059043	directors	William Wyler
+tt0059043	writers	John Fowles; John Kohn; Stanley Mann
+tt0059482	title	Las mujeres los prefieren tontos
+tt0059482	directors	Luis Saslavsky
+tt0059482	writers	Carlos Llopis; Abel Santa Cruz; Luis Saslavsky
+tt0059551	title	L'or du duc
+tt0059551	directors	Jacques Baratier
+tt0059551	writers	Jacques Baratier; Eric Ollivier
+tt0061180	title	The Whisperers
+tt0061180	directors	Bryan Forbes
+tt0061180	writers	Robert Nicolson; Bryan Forbes
+tt0061437	title	Calamity the Cow
+tt0061437	directors	David Eastman
+tt0061437	writers	David Eastman; Kerry Eastman
+tt0061441	title	Um Campista em Apuros
+tt0061441	directors	Herlander Peyroteo
+tt0061441	writers	Herlander Peyroteo; Jorge Walger; César de Oliveira
+tt0061828	title	An Italian in America
+tt0061828	directors	Alberto Sordi
+tt0061828	writers	Alberto Sordi; Rodolfo Sonego
+tt0061877	title	Kommissar X - Drei blaue Panther
+tt0061877	directors	Gianfranco Parolini
+tt0061877	writers	Gianfranco Parolini; Günter Rudorf; Giovanni Simonelli
+tt0062231	title	Blood of the Virgins
+tt0062231	directors	Emilio Vieyra
+tt0062231	writers	Emilio Vieyra
+tt0062863	title	Dark of the Sun
+tt0062863	directors	Jack Cardiff
+tt0062863	writers	Ranald MacDougall; Adrian Spies; Wilbur Smith
+tt0063142	title	Isle of the Snake People
+tt0063142	directors	Juan Ibáñez; Jack Hill
+tt0063142	writers	Jack Hill; Juan Ibáñez; Luis Enrique Vergara
+tt0063190	title	Komedi i Hägerskog
+tt0063190	directors	Torgny Anderberg
+tt0063190	writers	Torgny Anderberg; Artur Lundkvist
+tt0063556	title	It's Your Move
+tt0063556	directors	Roberto Fizz
+tt0063556	writers	Massimiliano Capriccioli; Tito Carpi; Juan Cesarabea
+tt0063760	title	Vedove inconsolabili in cerca di... distrazioni
+tt0063760	directors	Bruno Gaburro
+tt0063760	writers	Gianluigi Anelli; Bruno Gaburro; Giacomo Gramegna
+tt0064119	title	Le calde notti di Poppea
+tt0064119	directors	Guido Malatesta
+tt0064119	writers	Gianfranco Clerici; Guido Malatesta
+tt0064208	title	Death Rides a Horse
+tt0064208	directors	Giulio Petroni
+tt0064208	writers	Luciano Vincenzoni
+tt0064243	title	The Sweet Body of Deborah
+tt0064243	directors	Romolo Guerrieri
+tt0064243	writers	Ernesto Gastaldi; Luciano Martino
+tt0064667	title	The Mighty Gorga
+tt0064667	directors	David L. Hewitt
+tt0064667	writers	David L. Hewitt; Jean Hewitt; Robert Vincent O'Neil
+tt0066470	title	La tonta del bote
+tt0066470	directors	Juan de Orduña
+tt0066470	writers	Rafael J. Salvia; Eloy Herrera Santos; Pilar Millán Astray
+tt0067493	title	Nihon jokyo-den: ketto midare-bana
+tt0067493	directors	Kôsaku Yamashita
+tt0067493	writers	Tatsuo Nogami
+tt0067695	title	Russkoye pole
+tt0067695	directors	Nikolay Moskalenko
+tt0067695	writers	Mikhail Alekseyev
+tt0069147	title	Quem é Beta?
+tt0069147	directors	Nelson Pereira dos Santos
+tt0069147	writers	Gerard Leclery; Levi Menezes; Nelson Pereira dos Santos
+tt0069224	title	Sattar khan
+tt0069224	directors	Ali Hatami
+tt0069224	writers	Ali Hatami
+tt0069702	title	Mai fu
+tt0069702	directors	Meng-Hua Ho
+tt0069702	writers	Yang Chiang
+tt0070049	title	Facets of Love
+tt0070049	directors	Han Hsiang Li
+tt0070049	writers	Han Hsiang Li
+tt0070124	title	Gordon's War
+tt0070124	directors	Ossie Davis
+tt0070124	writers	Howard Friedlander; Ed Spielman
+tt0071273	title	Can You Keep It Up for a Week?
+tt0071273	directors	Jim Atkinson
+tt0071273	writers	Hazel Adair
+tt0071974	title	The Wonderful Crook
+tt0071974	directors	Claude Goretta
+tt0071974	writers	Charlotte Dubreuil; Claude Goretta
+tt0072087	title	Rivals of Kung Fu
+tt0072087	directors	Fung Wong
+tt0072087	writers	Fung Wong
+tt0072284	title	Three the Hard Way
+tt0072284	directors	Gordon Parks Jr.
+tt0072284	writers	Eric Bercovici; Jerry Ludwig
+tt0072640	title	Amore mio spogliati... che poi ti spiego!
+tt0072640	directors	Fabio Pittorru; Renzo Ragazzi
+tt0072640	writers	Fabio Pittorru
+tt0072978	title	Fem dagar i Falköping
+tt0072978	directors	Marianne Ahrne
+tt0072978	writers	Marianne Ahrne; Bertrand Hurault
+tt0074389	title	The Demon Lover
+tt0074389	directors	Donald G. Jackson; Jerry Younkins
+tt0074389	writers	Donald G. Jackson; Jerry Younkins
+tt0075707	title	Aurel Vlaicu
+tt0075707	directors	Mircea Dragan
+tt0075707	writers	Eugenia Busuioceanu
+tt0075773	title	Bluff Stop
+tt0075773	directors	Jonas Cornell
+tt0075773	writers	Jonas Cornell
+tt0075985	title	Emily
+tt0075985	directors	Henry Herbert
+tt0075985	writers	Christopher Neame
+tt0077373	title	Stay as You Are
+tt0077373	directors	Alberto Lattuada
+tt0077373	writers	Paolo Cavara; Enrico Oldoini; Alberto Lattuada
+tt0079712	title	Perro callejero II
+tt0079712	directors	Gilberto Gazcón
+tt0079712	writers	Gilberto Gazcón
+tt0080609	title	Denver
+tt0080609	directors	Carles Balagué
+tt0080609	writers	Carles Balagué; José María Latorre
+tt0082530	title	The Hot Touch
+tt0082530	directors	Roger Vadim
+tt0082530	writers	Peter Dion; Jean-Yves Pitoun; Lionel Chetwynd
+tt0083001	title	Roar
+tt0083001	directors	Noel Marshall
+tt0083001	writers	Noel Marshall; Ted Cassidy
+tt0083853	title	Dreams Come True
+tt0083853	directors	Max Kalmanowicz
+tt0083853	writers	Steve Kinjerski
+tt0084547	title	Przekleta ziemia
+tt0084547	directors	Ryszard Czekala
+tt0084547	writers	Ryszard Czekala; Stanislaw Srokowski
+tt0084857	title	Het verleden
+tt0084857	directors	Bram van Erkel; Roy Logger; Bas van der Lecq
+tt0084857	writers	Judith Herzberg; Roy Logger; R.J. Peskens
+tt0085234	title	Betrayal
+tt0085234	directors	David Hugh Jones
+tt0085234	writers	Harold Pinter
+tt0085527	title	Faunovo velmi pozdní odpoledne
+tt0085527	directors	Vera Chytilová
+tt0085527	writers	Jirí Brdecka; Vera Chytilová; Ester Krumbachová
+tt0085922	title	Medeni mjesec
+tt0085922	directors	Nikola Babic
+tt0085922	writers	Nikola Babic; Zvonimir Majdak
+tt0086218	title	Run Rebecca, Run!
+tt0086218	directors	Peter Maxwell
+tt0086218	writers	Charles Stamp; Gary Deacon
+tt0086550	title	Vive la sociale!
+tt0086550	directors	Gérard Mordillat
+tt0086550	writers	Gérard Mordillat; Louis-Charles Sirjacq
+tt0086962	title	Biberspur
+tt0086962	directors	Walter Beck
+tt0086962	writers	Walter Beck; Gudrun Deubener
+tt0088344	title	La vengeance du serpent à plumes
+tt0088344	directors	Gérard Oury
+tt0088344	writers	Gérard Oury; Danièle Thompson
+tt0089103	title	Escalier C
+tt0089103	directors	Jean-Charles Tacchella
+tt0089103	writers	Elvire Murail; Jean-Charles Tacchella
+tt0089467	title	Leave All Fair
+tt0089467	directors	John Reid
+tt0089467	writers	Jean Betts; Stanley Harper; Maurice Pons
+tt0089945	title	Rustlers' Rhapsody
+tt0089945	directors	Hugh Wilson
+tt0089945	writers	Hugh Wilson
+tt0090022	title	Silverado
+tt0090022	directors	Lawrence Kasdan
+tt0090022	writers	Lawrence Kasdan; Mark Kasdan
+tt0090832	title	Shao ye de mo nan
+tt0090832	directors	Yigong Wu; Jianya Zhang
+tt0090832	writers	Mingzhi Ai; Minsan Si; Hans Borgelt
+tt0091545	title	Tanoure-ye Deev
+tt0091545	directors	Kianoush Ayari
+tt0091545	writers	Kianoush Ayari
+tt0091707	title	The Outing
+tt0091707	directors	Tom Daley
+tt0091707	writers	Warren Chaney
+tt0093018	title	Fermín Salvoechea: visto para sentencia
+tt0093018	directors	M. Carlos Fernández
+tt0093714	title	Penitentiary III
+tt0093714	directors	Jamaa Fanaka
+tt0093714	writers	Jamaa Fanaka
+tt0094121	title	Teresa
+tt0094121	directors	Dino Risi
+tt0094121	writers	Graziano Diana; Dino Risi; Bernardino Zapponi
+tt0094379	title	Zivot radnika
+tt0094379	directors	Miroslav Mandic
+tt0094379	writers	Haris Kulenovic; Emir Kusturica; Miroslav Mandic
+tt0096132	title	Soltana
+tt0096132	directors	Paul Harather
+tt0096224	title	A Taste of Hemlock
+tt0096224	directors	Geoffrey Darwin
+tt0096224	writers	Pauline Macaulay; Eric Tynan Young
+tt0096346	title	Der Untergang des goldenen Webstuhls
+tt0096346	directors	Franz Winzentsen
+tt0096346	writers	Hermann Kasack; Franz Winzentsen
+tt0096951	title	Blood Red
+tt0096951	directors	Peter Masterson
+tt0096951	writers	Ron Cutler
+tt0097135	title	Curfew
+tt0097135	directors	Gary Winick
+tt0097135	writers	Kevin Kennedy
+tt0097395	title	Lost Souls
+tt0097395	directors	David Lai
+tt0097395	writers	Barry Wong
+tt0099098	title	Le bal du gouverneur
+tt0099098	directors	Marie-France Pisier
+tt0099098	writers	Marie-France Pisier
+tt0100198	title	Moya moryachka
+tt0100198	directors	Anatoly Eyramdzhan
+tt0100198	writers	Anatoly Eyramdzhan
+tt0100705	title	Street Asylum
+tt0100705	directors	Gregory Dark
+tt0100705	writers	Gregory Dark; John Powers
+tt0100922	title	Derech Ha'nesher
+tt0100922	directors	Uri Barbash
+tt0100922	writers	Benny Barbash; Assi Dayan
+tt0101295	title	Alice in Wondertown
+tt0101295	directors	Daniel Díaz Torres
+tt0101295	writers	Aldo Busto Hernández; Luis Felipe Calvo Bolaños; Daniel Díaz Torres
+tt0102790	title	Nothing But Lies
+tt0102790	directors	Paule Muret
+tt0102790	writers	Paule Muret; Jean-François Goyet
+tt0103800	title	Betty
+tt0103800	directors	Claude Chabrol
+tt0103800	writers	Claude Chabrol; Georges Simenon
+tt0105393	title	The Silent Thrush
+tt0105393	directors	Sheng-Fu Cheng
+tt0105393	writers	Sheng-Fu Cheng; Kang-Nien Li; Yan Ling
+tt0106204	title	Aankhen
+tt0106204	directors	David Dhawan
+tt0106204	writers	Anees Bazmee
+tt0107214	title	India
+tt0107214	directors	Paul Harather
+tt0107214	writers	Josef Hader; Alfred Dorfer; Paul Harather
+tt0107374	title	The Last Wargame
+tt0107374	directors	David Spell
+tt0107398	title	The Incorruptible
+tt0107398	directors	Ying-Lok Lee
+tt0107398	writers	Man Fai Ng
+tt0108113	title	Shen tan gan shi lu
+tt0108113	directors	Kin-Kwok Lai
+tt0108113	writers	Ella Bo-wah Chan
+tt0108304	title	Taxi Dancers
+tt0108304	directors	Norman Thaddeus Vane
+tt0108304	writers	Norman Thaddeus Vane
+tt0109734	title	Enter Achilles
+tt0109734	directors	Clara van Gool
+tt0110773	title	Paradjanov: A Requiem
+tt0110773	directors	Ron Holloway
+tt0110839	title	Pitra, Putra Aur Dharamyuddha
+tt0110839	directors	Anand Patwardhan
+tt0110839	writers	Anand Patwardhan
+tt0111580	title	Uttoran
+tt0111580	directors	Sandip Ray
+tt0111580	writers	Satyajit Ray
+tt0113471	title	Jian dong shuang hu
+tt0113471	directors	Gwing-Gai Lee
+tt0113471	writers	Gwing-Gai Lee
+tt0113701	title	Love Is Blind
+tt0113701	directors	Denis Piel
+tt0114618	title	Target
+tt0114618	directors	Sandip Ray
+tt0114618	writers	Sandip Ray; Satyajit Ray; Prafulla Roy
+tt0118756	title	On Guard
+tt0118756	directors	Philippe de Broca
+tt0118756	writers	Philippe de Broca; Jean Cosmos; Paul Féval
+tt0119422	title	The Journey
+tt0119422	directors	Harish Saluja
+tt0119422	writers	Lisa Kirk Colburn; Renee De Palma; Diana Osberg
+tt0120537	title	XXL
+tt0120537	directors	Ariel Zeitoun
+tt0120537	writers	Florence Quentin
+tt0124294	title	It Rains in My Village
+tt0124294	directors	Aleksandar Petrovic
+tt0124294	writers	Aleksandar Petrovic
+tt0125373	title	Lip Service
+tt0125373	directors	Shaun Costello
+tt0125373	writers	Shaun Costello
+tt0127586	title	Het snö
+tt0127586	directors	Torbjörn Axelman
+tt0127586	writers	Sandro Key-Åberg; Torbjörn Axelman; Henry Sidoli
+tt0128355	title	La mondana nuda
+tt0128355	directors	Sergio Bergonzelli
+tt0129192	title	The Last Insult
+tt0129192	directors	Mikhail Doronin
+tt0131588	title	Smotri v oba!
+tt0131588	directors	Eldor Urazbaev
+tt0131588	writers	Aleksandr Borodyanskiy
+tt0132351	title	Nach dem Gesetz
+tt0132351	directors	Willy Grunwald
+tt0132351	writers	Louis Levy
+tt0138835	title	Stuj, nebo se netrefím
+tt0138835	directors	Jirí Chlumský
+tt0138835	writers	Milon Cepelka; Jirí Sebánek
+tt0140275	title	The Promise
+tt0140275	directors	Vasilis Georgiadis
+tt0140275	writers	Nikos Foskolos
+tt0141656	title	Nice - À propos de Jean Vigo
+tt0141656	directors	Manoel de Oliveira
+tt0143234	title	Emil Habibi: I Stayed in Haifa
+tt0143234	directors	Dalia Karpel
+tt0146020	title	Port Holes
+tt0146020	directors	Buck Adams
+tt0146020	writers	Mark Weiss
+tt0151119	title	Jealousy
+tt0151119	directors	G.B. Samuelson
+tt0151119	writers	John McNally; G.B. Samuelson
+tt0153074	title	Tied, Trained and Transformed
+tt0153074	directors	Richard Rank
+tt0153074	writers	Larry M. Burton; Kurt Clemmens
+tt0154529	title	Le gendarme est sans pitié
+tt0154529	directors	Claude Autant-Lara
+tt0155221	title	Sundari
+tt0155221	directors	Aspi Irani
+tt0155608	title	Le chasseur de chez Maxim's
+tt0155608	directors	Henri Diamant-Berger
+tt0155608	writers	Henri Diamant-Berger; François Jérôme; Yves Mirande
+tt0155986	title	Quai du Point-du-Jour
+tt0155986	directors	Jean Faurez
+tt0155986	writers	Raymond Bussières; Jacques Celhay; Jean Faurez
+tt0156481	title	Domenica
+tt0156481	directors	Maurice Cloche
+tt0156481	writers	Maurice Cloche; Jacques Deval
+tt0156541	title	Folk Dances of India
+tt0156541	directors	Mohan Dayaram Bhavnani
+tt0158605	title	An Environment
+tt0158605	directors	Santi P. Choudhury
+tt0158671	title	In Her Defense
+tt0158671	directors	Sidney J. Furie
+tt0158671	writers	Marc Lynn; Jeffrey M. Rosenbaum
+tt0158786	title	Minuit... Champs-Elysées
+tt0158786	directors	Roger Blanc
+tt0158786	writers	Roger Blanc; Jacques Celhay; Pierre Gaurier
+tt0160683	title	Pomme d'amour
+tt0160683	directors	Jean Dréville
+tt0160683	writers	Robert Paul; Raoul Ploquin; Charles d'Abadie
+tt0160698	title	Princesse, à vos ordres!
+tt0160698	directors	Hanns Schwarz; Max de Vaucorbeil
+tt0160698	writers	Jean Boyer; Paul Frank; Robert Liebmann
+tt0163541	title	Barriotonia
+tt0163541	directors	Kikol Grau
+tt0164555	title	Early Bird Special
+tt0164555	directors	Mark Jean
+tt0164555	writers	Hillary Seitz
+tt0165817	title	Horse Play
+tt0165817	directors	Mario Falcon
+tt0168146	title	Republikaner
+tt0168146	directors	Petra Schmidt; Peter Würth
+tt0168146	writers	Petra Schmidt; Peter Würth
+tt0168922	title	The Killings at Outpost Zeta
+tt0168922	directors	Robert Emenegger; Allan Sandler
+tt0168922	writers	Peter Dawson; Allan Sandler; Robert Emenegger
+tt0170277	title	Místo v houfu
+tt0170277	directors	Zbynek Brynych; Václav Gajer; Václav Krska
+tt0170277	writers	Antonín Mása
+tt0170372	title	Pesnya zovet
+tt0170372	directors	Shaken Ajmanov
+tt0170372	writers	Shaken Ajmanov; Kapan Satybaldin; Maro Yerzinkyan
+tt0172524	title	Gwiazdy musza plonac
+tt0172524	directors	Witold Lesiewicz; Andrzej Munk
+tt0172524	writers	Witold Lesiewicz; Karol Malcuzynski; Andrzej Munk
+tt0172850	title	Nad námi svítá
+tt0172850	directors	Jirí Krejcík
+tt0172850	writers	Jirí Krejcík; Jirí Marek
+tt0173027	title	Poteryannaya fotografiya
+tt0173027	directors	Lev Kulidzhanov
+tt0173676	title	Black Flamingos - Sie lieben euch zu Tode
+tt0173676	directors	Houchang Allahyari
+tt0173676	writers	Harald Posch
+tt0173966	title	Korenite na izgryavashtoto slantze
+tt0173966	directors	Vulo Radev
+tt0173966	writers	Vulo Radev
+tt0175149	title	Seraya bolezn
+tt0175149	directors	Yakov Segel
+tt0175149	writers	Aleksandr Misharin; Yakov Segel; Andrey Veytsler
+tt0175890	title	Margarita, Armando y su padre
+tt0175890	directors	Francisco Múgica
+tt0175890	writers	Enrique Jardiel Poncela; Francisco Múgica
+tt0177152	title	Something Organic
+tt0177152	directors	Bertrand Bonello
+tt0177152	writers	Bertrand Bonello
+tt0178867	title	Brook
+tt0178867	directors	Luis Moglia Barth
+tt0178867	writers	José Bustamante Balliban; Luis Moglia Barth
+tt0180047	title	Perjurer
+tt0180047	directors	Raphael J. Sevilla
+tt0180047	writers	Marco Aurelio Galindo; Antonio Guzmán Aguilera
+tt0180316	title	Women Talking Dirty
+tt0180316	directors	Coky Giedroyc
+tt0180316	writers	Isla Dewar
+tt0180748	title	In China They Eat Dogs
+tt0180748	directors	Lasse Spang Olsen
+tt0180748	writers	Anders Thomas Jensen
+tt0181641	title	Köyde Bir Kiz Sevdim
+tt0181641	directors	Türker Inanoglu
+tt0181641	writers	M. Cetinkaya
+tt0182358	title	La parte più appetitosa del maschio
+tt0182358	directors	Lorenzo Magnolia
+tt0182358	writers	Giovanni Simonelli
+tt0182793	title	Birakin Yasasinlar
+tt0182793	directors	Melih Gülgen
+tt0182793	writers	Melih Gülgen
+tt0183306	title	Jinnah
+tt0183306	directors	Jamil Dehlavi
+tt0183306	writers	Akbar Ahmed; Jamil Dehlavi; Farrukh Dhondy
+tt0184537	title	The Goddess of Mercy
+tt0184537	directors	Won-shik Lim; Shin Sang-ok
+tt0184537	writers	Liuzhao Wang
+tt0185439	title	Love Is Thicker Than Wine
+tt0185439	directors	Joseph Kuo
+tt0185439	writers	Yao Chiung; Chang-Po Liu
+tt0185852	title	Aladdin's Lamp
+tt0185852	directors	Natuk Baytan
+tt0185852	writers	Natuk Baytan (scenario)
+tt0187583	title	Vidas Solidárias
+tt0187583	directors	Moacyr Fenelon
+tt0187583	writers	Moacyr Fenelon; Paulo Machado; Arnaldo de Farias
+tt0187591	title	Wayfarer
+tt0187591	directors	Torben Skjødt Jensen
+tt0187708	title	Bai mu mi zong zhang
+tt0187708	directors	Zhigang Feng
+tt0187712	title	Beefcake
+tt0187712	directors	Thom Fitzgerald
+tt0187712	writers	Thom Fitzgerald; Valentine Hooven
+tt0189091	title	Siempre te amaré
+tt0189091	directors	Leo Fleider
+tt0189091	writers	Jorge Falcón; Leo Fleider
+tt0189429	title	Clarice
+tt0189429	directors	Sean Kirby
+tt0189896	title	Partners in Crime
+tt0189896	directors	Jim Travis
+tt0191437	title	She's So Fine!
+tt0191437	directors	Henri Pachard
+tt0191437	writers	Dick Thomas
+tt0192086	title	La goutte de sang
+tt0192086	directors	Jean Epstein; Maurice Mariaud
+tt0192086	writers	Jules Mary
+tt0192612	title	Simão, o Fantasma Trapalhão
+tt0192612	directors	Paulo Aragão
+tt0192612	writers	Renato Aragão
+tt0194557	title	Xia shi zhui ming ke
+tt0194557	directors	Tseng-Chai Chang
+tt0196155	title	Thousands of Miles
+tt0196155	directors	Derek Lebrero
+tt0196155	writers	Derek Lebrero
+tt0196220	title	Das Wunder des Schneeschuhs, 2. Teil - Eine Fuchsjagd auf Skiern durchs Engadin
+tt0196220	directors	Arnold Fanck
+tt0196220	writers	Arnold Fanck
+tt0196793	title	Night Wings
+tt0196793	directors	Demetrios Tsoulos
+tt0196793	writers	Demetrios Tsoulos
+tt0197047	title	Tonight
+tt0197121	title	À nous deux, madame la vie
+tt0197121	directors	René Guissart; Yves Mirande
+tt0197121	writers	Yves Mirande
+tt0197661	title	The Man Who Fell in Love with a Traffic Cone!
+tt0197661	directors	Andrew Hindle
+tt0197661	writers	Andrew Hindle
+tt0197811	title	Le rebelle
+tt0197811	directors	Adelqui Migliar
+tt0197811	writers	Martin Brown; Louise Long; Benno Vigny
+tt0199517	title	Campaign in Poland
+tt0199517	directors	Fritz Hippler; Leni Riefenstahl
+tt0201600	title	Esta É a Minha Casa
+tt0201600	directors	João Pedro Rodrigues
+tt0201600	writers	Amândio Coroado; João Pedro Rodrigues
+tt0202101	title	What Price Honesty?
+tt0202101	directors	Hao-Chuan Yuan
+tt0202101	writers	Kuang Ni; Hao-Chuan Yuan
+tt0202130	title	Yepeto
+tt0202130	directors	Eduardo Calcagno
+tt0202130	writers	Eduardo Calcagno; Roberto Cossa
+tt0202670	title	Vysokaya krov
+tt0202670	directors	Zygmunt Malanowicz; Viktor Turov
+tt0202670	writers	Ilya Kashafutdinov; Zygmunt Malanowicz; Viktor Turov
+tt0203677	title	Maruhi sei to seikatsu
+tt0203677	directors	Karl-Heinz Frank; Ryûichi Takamori
+tt0205061	title	Feng qiu feng
+tt0205061	directors	Pingqian Li
+tt0205593	title	Zhi ai qin peng
+tt0205593	directors	Sun-Fung Lee
+tt0206380	title	A Woman of No Importance
+tt0206380	directors	Jean Choux
+tt0206380	writers	Charles Spaak; Oscar Wilde
+tt0206755	title	Folies anales
+tt0206755	directors	Jean Rollin
+tt0207495	title	Gold, Glory and Custer
+tt0207495	directors	George Waggner
+tt0207495	writers	Gerald Drayson Adams
+tt0208879	title	Cuba baila
+tt0208879	directors	Julio García Espinosa
+tt0210259	title	Roi de Camargue
+tt0210259	directors	Jacques de Baroncelli
+tt0210259	writers	Jean Aicard; Henri Decoin
+tt0212014	title	Bunny and Clod
+tt0212014	directors	Robert A. Poore
+tt0214984	title	Neeya
+tt0214984	directors	Durai
+tt0215039	title	Past in Perspective
+tt0215039	directors	Adoor Gopalakrishnan
+tt0215719	title	Dinner and a Movie
+tt0215719	directors	Lisa Kors
+tt0215719	writers	Lisa Kors
+tt0215987	title	Mera Karam Mera Dharam
+tt0215987	directors	Dulal Guha
+tt0215987	writers	Shafiq Ansari; Nabendu Ghosh; Raj Kumar Moitra
+tt0217460	title	Everything for Everybody
+tt0217460	directors	John Amero
+tt0219038	title	A Ghost of a Chance
+tt0219038	directors	Gorton Hall
+tt0219038	writers	Gorton Hall
+tt0219646	title	Disco 9000
+tt0219646	directors	D'Urville Martin
+tt0219646	writers	Demetrius Johnson; John Poole; Roland S. Jefferson
+tt0219785	title	The History of Pornography
+tt0219785	directors	Bob Chinn
+tt0219785	writers	Bob Chinn
+tt0219856	title	Kinderen met een schisis
+tt0219856	directors	Hans Quatfass
+tt0224426	title	Yes or No, Jean-Guy Moreau
+tt0224426	directors	Michael Rubbo
+tt0224426	writers	Michael Rubbo; Jean-Guy Moreau; Jacqueline Barrette
+tt0225915	title	Guds børn
+tt0225915	directors	Karsten Baagø; Claus Klok
+tt0225915	writers	Claus Klok
+tt0226752	title	Secret Book: Peeled Egg
+tt0226752	directors	Shôgorô Nishimura
+tt0226752	writers	Akane Shiratori
+tt0226993	title	Il lungo inverno
+tt0226993	directors	Ivo Barnabò Micheli
+tt0226993	writers	Ivo Barnabò Micheli
+tt0230174	title	Eisai stin EOK, pathe gia tin EOK
+tt0230174	directors	Dimis Dadiras
+tt0230174	writers	Giorgos Mylonas
+tt0230406	title	Kaule
+tt0230406	directors	Rainer Bär
+tt0230406	writers	Rainer Bär; Alfred Wellm
+tt0230788	title	Siraj
+tt0230788	directors	Bhupen Hazarika
+tt0234669	title	Goodbye CP
+tt0234669	directors	Kazuo Hara
+tt0234732	title	Le silence des organes
+tt0234732	directors	Jean-Noël Christiani
+tt0234772	title	Sonba Ane Roopba
+tt0234772	directors	Krishnakant
+tt0236952	title	Adhipathi
+tt0236952	directors	Sibi Malayil
+tt0237463	title	Mischa
+tt0237463	directors	David Vaisbord
+tt0237463	writers	Andrew Gardner; David Vaisbord
+tt0237475	title	Munda Bigra Jaye
+tt0237475	directors	Shamim Ara
+tt0237475	writers	Dabirul Hassan (dialogue)
+tt0237923	title	Wild Sex of the Children of the Night
+tt0237923	directors	Levi Salgado
+tt0237923	writers	Levi Salgado
+tt0239501	title	Janjirne Jankare
+tt0239501	directors	Harshadrai Sakerlal Mehta
+tt0239501	writers	Chimanlal Luhar; Champsi Udeshi
+tt0239963	title	Les sentiers du petit bonheur
+tt0239963	directors	Anne Lapied; Erik Lapied
+tt0239963	writers	Anne Lapied; Erik Lapied
+tt0240464	title	Dracula's Death
+tt0240464	directors	Károly Lajthay
+tt0240464	writers	Michael Curtiz; Károly Lajthay; Bram Stoker
+tt0242503	title	Har Har Gange
+tt0242503	directors	Babubhai Mistry
+tt0242893	title	The Smut Peddler
+tt0242893	directors	William Rose
+tt0244147	title	Shetskvetili simgera
+tt0244147	directors	Nikoloz Sanishvili; Frantisek Zácek; Frantisek Sádek
+tt0244147	writers	Konstantine Lortkipanidze; Albert Marencin; Nikoloz Sanishvili
+tt0244416	title	Babel 78
+tt0244416	directors	Plume Latraverse
+tt0245027	title	Bænken
+tt0245027	directors	Per Fly
+tt0245027	writers	Kim Leona; Per Fly
+tt0245852	title	Dakshayagnam
+tt0245852	directors	Kadaru Nagabhushanam
+tt0245852	writers	Arudra
+tt0247495	title	Mahatma Kabirdas
+tt0247495	directors	A. Narayanan
+tt0249108	title	The Recruit
+tt0249108	directors	Graham Baker
+tt0249420	title	La buscona
+tt0249420	directors	Emilio Gómez Muriel
+tt0249420	writers	Alfredo Ruanova
+tt0249845	title	No te dejaré nunca
+tt0249845	directors	Francisco Elías
+tt0251649	title	The Cuban Missile Crisis: 1962
+tt0252202	title	Afigisi/Peripeteia/Glossa/Siopi
+tt0252202	directors	Maria Gavala
+tt0252202	writers	Maria Gavala; Theodoros Soumas
+tt0252882	title	L'anello di Siva
+tt0252882	directors	Augusto Genina
+tt0253143	title	Inek Saban
+tt0253143	directors	Osman F. Seden
+tt0253143	writers	Berrin Giz; Osman F. Seden
+tt0253873	title	Utharam
+tt0253873	directors	V.K. Pavithran
+tt0253873	writers	M.T. Vasudevan Nair; Daphne Du Maurier
+tt0254099	title	The Anniversary Party
+tt0254099	directors	Alan Cumming; Jennifer Jason Leigh
+tt0254099	writers	Jennifer Jason Leigh; Alan Cumming
+tt0255204	title	Grihapravesham
+tt0255204	directors	L.V. Prasad
+tt0255204	writers	Tripuraneni Gopichand
+tt0255583	title	Secret Network
+tt0255583	directors	Jean-Claude Roy
+tt0255641	title	Thalavattam
+tt0255641	directors	Priyadarshan
+tt0255641	writers	Priyadarshan
+tt0256164	title	Macha Rekai
+tt0256164	directors	P. Pullaiah
+tt0257459	title	Bruma Seca
+tt0257459	directors	Mário Civelli
+tt0257459	writers	Mário Brasini; Pola Civelli
+tt0258227	title	Sundara Kanda
+tt0258227	directors	K. Raghavendra Rao
+tt0258227	writers	Bhagyaraj; Paruchuri Venkateswara Rao; Gopalakrishna Paruchuri
+tt0258251	title	Tierra sangrienta
+tt0258251	directors	Rafael Portillo
+tt0258251	writers	José Castro; Fernando Osés
+tt0259496	title	Pelli Kanuka
+tt0259496	directors	Kodi Ramakrishna
+tt0261552	title	The Foul King
+tt0261552	directors	Kim Jee-woon
+tt0261552	writers	Kim Dae-woo; Kim Jee-woon
+tt0263099	title	Bangaru Babu
+tt0263099	directors	Rajendra Prasad V.B.
+tt0263099	writers	Acharya Athreya; Rajendra Prasad V.B.
+tt0265542	title	Ploshchad Vosstaniya
+tt0265542	directors	Boris Tokarev
+tt0265542	writers	Boris Tokarev; Yuriy Yakovlev
+tt0265586	title	Pryzhok
+tt0265586	directors	Nikolai Maletsky
+tt0265586	writers	Yuriy Vizbor
+tt0266711	title	Wild Criminal
+tt0266711	directors	Hide
+tt0266711	writers	Christopher Sippel
+tt0267274	title	Architektuur, kunst der ruimte
+tt0267274	directors	Paul Haesaerts
+tt0267951	title	Sringara Masa
+tt0267951	directors	Pattabhi Rama Reddy
+tt0269883	title	Solo y conmigo
+tt0269883	directors	Carlos Lozano Dana
+tt0269883	writers	Carlos Lozano Dana
+tt0269986	title	Le trou du diable
+tt0269986	directors	Richard Lavoie
+tt0271597	title	Kobbari Bondam
+tt0271597	directors	Raviteja K.
+tt0271597	writers	Diwakar Babu; S.V. Krishna Reddy
+tt0272321	title	Thirrja
+tt0272321	directors	Fehmi Hoshafi
+tt0272321	writers	Kujtim Gjonaj
+tt0276295	title	Love After School
+tt0279866	title	Historia de un canalla
+tt0279866	directors	Julio Bracho
+tt0279866	writers	Julio Bracho; José María Fernández Unsáin; Federico Sodi
+tt0279903	title	Kinali Yapincak
+tt0279903	directors	Orhan Aksoy
+tt0279903	writers	Bülent Oran
+tt0281160	title	Salaheddine el Ayubbi
+tt0281160	directors	Ibrahim Lama
+tt0281200	title	Situation du théâtre au Québec
+tt0281200	directors	Jacques Gagné
+tt0281200	writers	Jacques Gagné
+tt0283027	title	The Pool
+tt0283027	directors	Boris von Sychowski
+tt0283027	writers	Lorenz Stassen; Boris von Sychowski; Andreas Bütow
+tt0287449	title	Les frères Gravet
+tt0287449	directors	René Féret
+tt0287449	writers	René Féret
+tt0287540	title	De läckra skaldjuren
+tt0287540	directors	Pauline Brunius
+tt0288863	title	Veinticuatro horas de vida
+tt0288863	directors	Arturo Martínez
+tt0288863	writers	Manuel Canseco Noriega; Raúl de Anda
+tt0291888	title	Enikkum Oru Divosam
+tt0291888	directors	Shrikumaran Thampi
+tt0291888	writers	Sreekumaran Thampi
+tt0295428	title	Mataron a Venancio Flores
+tt0295428	directors	Juan Carlos Rodríguez Castro
+tt0295428	writers	Rolando Speranza
+tt0298210	title	Virgins
+tt0298210	directors	Glenn Mobley
+tt0298210	writers	Glenn Mobley; Tom Rule
+tt0301348	title	Der Glanz von Berlin
+tt0301348	directors	Judith Keil; Antje Kruska
+tt0302801	title	Mikkel
+tt0302801	directors	Jørgen Roos; Carl Weismann
+tt0302801	writers	Jørgen Roos; Carl Weismann
+tt0304901	title	A Village Tale
+tt0304901	directors	Joy Perino
+tt0304981	title	Ölümün ücreti
+tt0304981	directors	Cevat Sahiner; Feyzi Tuna
+tt0306079	title	Små ulykker
+tt0306079	directors	Annette K. Olesen
+tt0306079	writers	Kim Fupz Aakeson
+tt0307297	title	Otte hundrede akkorder
+tt0308503	title	La ley del monte
+tt0308503	directors	Alberto Mariscal
+tt0308503	writers	Pedro Antonio de Alarcón; Rafael García Travesi
+tt0311360	title	Wet Grass and Leaves
+tt0311360	directors	Jeong-su Lim
+tt0311790	title	Wedding Day
+tt0311790	directors	Eung-cheon Kim
+tt0311790	writers	Yeong-jin Oh
+tt0312957	title	Med prins Wilhelm på afrikanska jaktstigar
+tt0313962	title	Derzost
+tt0313962	directors	Georgi Yungvald-Khilkevich
+tt0313962	writers	Vasil Zemlyak
+tt0314513	title	La pistolera
+tt0314513	directors	Mario Hernández
+tt0314513	writers	Rafael Buendía; Jorge Patiño
+tt0316158	title	Lasset die Kleinen zu mir kommen
+tt0316158	directors	Max Neufeld
+tt0316158	writers	Fritz Löhner-Beda
+tt0318792	title	Unser Mann aus Cernowitz
+tt0318792	directors	Peter Leippe
+tt0318792	writers	Peter Leippe
+tt0322098	title	Du yeobu
+tt0322098	directors	Hyun-mok Yoo
+tt0322098	writers	Bong-seung Shin
+tt0322922	title	The Bloody Money
+tt0322922	directors	Orhon M. Ariburnu
+tt0322922	writers	Orhon M. Ariburnu; Safa Önal (story)
+tt0323153	title	Makchalo on sannimdeul
+tt0323153	directors	Yu Hyun-mok
+tt0323153	writers	Seong-won Hong
+tt0323998	title	Slim Susie
+tt0323998	directors	Ulf Malmros
+tt0323998	writers	Ulf Malmros; Petteri Nuottimäki
+tt0325852	title	La mujer y el jockey (Hipódromo)
+tt0325852	directors	José Suárez
+tt0325852	writers	Antonio Botta
+tt0330028	title	Balgan aengdu 2
+tt0330028	directors	Ho-tae Park
+tt0330028	writers	Seong-su Heo
+tt0333827	title	Les louves
+tt0333827	directors	Robert Boudrioz
+tt0333827	writers	Robert Boudrioz
+tt0338312	title	Orient - Die Tochter der Wüste
+tt0338312	directors	Gennaro Righelli
+tt0338312	writers	Nunzio Malasomma; Gennaro Righelli
+tt0345495	title	Kara atmaca'nin intikami
+tt0345495	directors	Nisan Hançer
+tt0345495	writers	Suavi Sualp
+tt0345527	title	Kongresi i unifikimit të rinisë
+tt0347083	title	Un giudice di rispetto
+tt0347083	directors	Walter Toschi
+tt0347083	writers	Bruno Mattei
+tt0348476	title	Yuen ban yau take 2
+tt0348476	directors	Marco Mak
+tt0348476	writers	Sharon Hui
+tt0349890	title	Një jetë më shumë
+tt0349890	directors	Gëzim Erebara; Gavrosh Haxhihyseni
+tt0349890	writers	Gëzim Erebara; Luan Rama
+tt0350671	title	Byeolnan janggungwa paldobuha
+tt0350671	directors	Shin-myeong Lee
+tt0350671	writers	Bong-seung Shin
+tt0351155	title	Kaderim böyle imis
+tt0351155	directors	Nejat Saydam
+tt0351155	writers	Hüseyin Peyda
+tt0353010	title	Witness
+tt0353010	directors	Viji Thampi
+tt0353010	writers	Jagathy Sreekumar; Ranjith; Viji Thampi
+tt0353837	title	His Cavalryman
+tt0353837	directors	Nusret Eraslan
+tt0353837	writers	Nusret Eraslan
+tt0353922	title	Puthran
+tt0353922	directors	Jude Attippatti
+tt0353922	writers	P.F. Mathews
+tt0354950	title	Sweets
+tt0354950	directors	Marq Morrison; Ren Morrison
+tt0354950	writers	Ren Morrison
+tt0355586	title	Ismail Yassine lal baie
+tt0355586	directors	Houssam El-Din Mustafa
+tt0355586	writers	Kamal Hefnawi
+tt0358754	title	Why?
+tt0358754	directors	No-shik Park
+tt0358754	writers	Il-su Yu
+tt0365422	title	Laguna Beach: A Love Affair
+tt0365422	directors	Thor Stephens
+tt0365422	writers	Beau Wade (additional dialogue)
+tt0365663	title	Punla
+tt0365663	directors	Robert B. Abihay; Cesar Aquino
+tt0365663	writers	Dennis C. Evangelista; Karlo Montero
+tt0365907	title	A Walk Among the Tombstones
+tt0365907	directors	Scott Frank
+tt0365907	writers	Lawrence Block; Scott Frank
+tt0366295	title	Chatpati
+tt0366295	directors	V. Ravindra
+tt0367450	title	...Y pasa la comparsa
+tt0367450	directors	Albert Arliss
+tt0367794	title	Getting Out of Rhode Island
+tt0367794	directors	Christian de Rezendes
+tt0370469	title	Dobol trobol
+tt0370469	directors	Jose De Villa
+tt0371950	title	Den sidste dag
+tt0371950	directors	Michael Heimark
+tt0371950	writers	Michael Heimark; Jakob Mikkelsen
+tt0373996	title	Letter TV - ST
+tt0373996	directors	Jamie Cope; Frank Panucci
+tt0374890	title	Musmos
+tt0374890	directors	Jose Dagumboy
+tt0374890	writers	Bert Dueñas Jr. (story)
+tt0378993	title	Votre enfant m'intéresse
+tt0378993	directors	Jean-Michel Carré
+tt0378993	writers	Patricia Agostini; Jean-Michel Carré; Nicolas Sandret
+tt0379168	title	Amar Shaheed
+tt0379272	title	Ek Jaan Hain Hum
+tt0379272	directors	Rajiv Mehra
+tt0380697	title	Seine Beichte (Bekenntnisse eines Lebemannes)
+tt0380697	directors	Hubert Moest
+tt0380697	writers	Bobby E. Lüthge; Jolanthe Marés
+tt0384369	title	Before the Fall
+tt0384369	directors	Dennis Gansel
+tt0384369	writers	Dennis Gansel; Maggie Peren
+tt0385541	title	Bazilari dayak sever
+tt0385541	directors	Mehmet Dinler
+tt0385541	writers	Bülent Oran; Osman F. Seden
+tt0387666	title	Die verschwundene Stadt Dresden
+tt0387666	directors	C.A. Engel
+tt0387666	writers	C.A. Engel
+tt0389801	title	Bhogi mantalu
+tt0389801	directors	Vijaya Nirmala
+tt0391936	title	The Poisonous Butterfly
+tt0391936	directors	Muk Kim
+tt0391936	writers	Kang-yun Kim
+tt0392493	title	Naseeb Ni Nauka
+tt0392716	title	Rit Angtong
+tt0392716	directors	Prafulla Saikia
+tt0393360	title	Homenaje de la ciudad de México a la primavera
+tt0393360	directors	Germán Camus
+tt0393790	title	Sneh Samadhi
+tt0393790	directors	Ramakant Gharekhan
+tt0393790	writers	Surabhi Raiji
+tt0397526	title	Majimak gyeoul
+tt0397526	directors	So-yeong Jeong
+tt0397526	writers	Su-hyeon Kim
+tt0398721	title	L'aveuglette
+tt0398721	directors	Stéphane Aucante
+tt0398727	title	The March of Fools
+tt0398727	directors	Ha Gil-jong
+tt0398727	writers	In-ho Choi
+tt0402763	title	Americanese
+tt0402763	directors	Eric Byler
+tt0402763	writers	Shawn Wong; Eric Byler
+tt0407914	title	Kahit mabuhay kang muli
+tt0407914	directors	Efren C. Piñon
+tt0409505	title	The Beloved
+tt0409505	directors	Deddy M. Borhan
+tt0409505	writers	Deddy M. Borhan
+tt0410540	title	Sa piling ng iba
+tt0410540	directors	Johnny Cruz
+tt0410540	writers	Bong Ramos
+tt0412863	title	Der Irrgarten
+tt0412863	directors	Heinz Brinkmann
+tt0412863	writers	Heinz Brinkmann
+tt0414939	title	The Dark Side of Everest
+tt0414939	directors	Andrew Palmer
+tt0414939	writers	Zam Baring; Brian Dooley
+tt0418018	title	It's Not Me
+tt0418018	directors	Gabriele Iacovone
+tt0418018	writers	Alexandra Emelianova (idea); Gabriele Iacovone (idea); Gabriele Iacovone (screenplay); Gabriele Iacovone (story); Franco de Pena (idea)
+tt0418342	title	Yot sarits ayn koghm
+tt0418342	directors	Arnold Agababov
+tt0418342	writers	Arnold Agababov; Ye. Grigoryants
+tt0418686	title	Fino a farti male
+tt0418686	directors	Alessandro Colizzi
+tt0418686	writers	Alessandro Colizzi; Silvia Cossu
+tt0419221	title	Tuloy ang ligaya
+tt0419221	directors	Manuel Silos
+tt0420120	title	Reservation-Mike Goes Home
+tt0420120	directors	David Cherniack
+tt0422313	title	Geomeun ggotip childae
+tt0422313	directors	Beom-gu Kang
+tt0422313	writers	Kyeong-jae Lee
+tt0422396	title	Hanggang may buhay
+tt0422396	directors	Pepe Marcos
+tt0422396	writers	Humilde 'Meek' Roxas (story); Humilde 'Meek' Roxas (screenplay); Jun Lawas (screenplay); Jose Bartolome (screenplay)
+tt0424861	title	Bono
+tt0424861	directors	Adam Zayed
+tt0424861	writers	Adam Zayed
+tt0425583	title	Uhaw
+tt0425583	directors	Ruben Abalos
+tt0425583	writers	D.G. Dumaraos; Deo Villegas
+tt0427412	title	Juhong skirt
+tt0427412	directors	Bong-rae Lee
+tt0427412	writers	Yong-chan Lee
+tt0428304	title	C'est pas tout à fait la vie dont j'avais rêvé
+tt0428304	directors	Michel Piccoli
+tt0428304	writers	Ludivine Clerc; Michel Piccoli
+tt0431645	title	Downtown Girls
+tt0431645	directors	Mohamed Khan
+tt0431645	writers	Mohamed Khan; Wessam Soliman
+tt0432692	title	On Each Side
+tt0432692	directors	Hugo Grosso
+tt0432692	writers	Hugo Grosso
+tt0434164	title	Loving the Dead
+tt0434164	directors	Mira Hamermesh
+tt0434164	writers	Mira Hamermesh
+tt0434997	title	Hayat kavgasi
+tt0434997	directors	Mehmet Bozkus
+tt0434997	writers	Bülent Oran
+tt0436689	title	The Puffy Chair
+tt0436689	directors	Jay Duplass; Mark Duplass
+tt0436689	writers	Mark Duplass; Jay Duplass
+tt0437876	title	Les bobines d'or
+tt0437876	directors	Léonce Perret
+tt0443207	title	Rita
+tt0443207	directors	Édouard-Émile Violet
+tt0448826	title	Die Tänzerin Adina
+tt0448826	directors	Max Mack
+tt0451741	title	Der gelbe Tod, 1. Teil
+tt0451741	directors	Carl Wilhelm
+tt0451741	writers	Hans Gaus
+tt0452319	title	Manatsu no chikyu
+tt0452319	directors	Osamu Murakami
+tt0452319	writers	Yuhei Enoki; Osamu Murakami
+tt0453040	title	Dubai
+tt0453040	directors	Rory B. Quintos
+tt0453040	writers	Ricky Lee; Shaira Mella Salvador
+tt0455870	title	Xing dao fang zong
+tt0455870	directors	Rolf Bayer
+tt0456591	title	Pepot Artista
+tt0456591	directors	Clodualdo Del Mundo Jr.
+tt0456591	writers	Clodualdo Del Mundo Jr.
+tt0459880	title	Lady Chatterley
+tt0459880	directors	Pascale Ferran
+tt0459880	writers	D.H. Lawrence; Roger Bohbot; Pascale Ferran
+tt0471251	title	Mama Jack
+tt0471251	directors	Gray Hofmeyr
+tt0471251	writers	Steven Francis; Gray Hofmeyr; Geoff Newton
+tt0471357	title	Red Mercury
+tt0471357	directors	Steve Rogers
+tt0471357	writers	Jonathan Reason (screenplay); Steve Rogers (screenplay)
+tt0473647	title	Hedy Lamarr: Secrets of a Hollywood Star
+tt0473647	directors	Donatello Dubini; Fosco Dubini; Barbara Obermaier
+tt0473647	writers	Fosco Dubini; Barbara Obermaier
+tt0478370	title	Kerem ile Asli
+tt0478370	directors	Orhan Elmas
+tt0478370	writers	Orhan Elmas
+tt0480106	title	Besarabiya, My Love
+tt0480106	directors	Vasil Barkov
+tt0480106	writers	Vasil Barkov
+tt0480163	title	Komornik
+tt0480163	directors	Feliks Falk
+tt0480163	writers	Grzegorz Loszewski
+tt0482006	title	Macbeth 3000: This Time, It's Personal
+tt0482006	directors	Geoff Warren Meech
+tt0482006	writers	Logan Emmerson; William Shakespeare
+tt0483614	title	Estanislao Zuleta, biografía de un pensador
+tt0483614	directors	José Antonio Dorado
+tt0483614	writers	José Antonio Dorado
+tt0488186	title	Remedios de Cuba: Scuba Drive
+tt0488186	directors	Isaac-Pierre Racine
+tt0488186	writers	Isaac-Pierre Racine; Manuel Rodríguez
+tt0488762	title	Mr. Socrates
+tt0488762	directors	Jin-won Choi
+tt0491534	title	Cañitas. Presencia
+tt0491534	directors	Julio Cesar Estrada
+tt0491534	writers	Gabriel González Meléndez; Xavier Robles; Carlos Trejo
+tt0494726	title	Isang salop na bala
+tt0494726	directors	Alex Sevilla
+tt0494726	writers	Alex Sevilla
+tt0495031	title	Fundacja
+tt0495031	directors	Filip Bajon
+tt0495031	writers	Filip Bajon
+tt0762091	title	Domestic Import
+tt0762091	directors	Kevin Connor
+tt0762091	writers	Andrea Malamut
+tt0775434	title	Bling: A Planet Rock
+tt0775434	directors	Raquel Cepeda
+tt0775434	writers	Raquel Cepeda
+tt0779719	title	107 Street
+tt0779719	directors	Antonio De La Cruz
+tt0779719	writers	Antonio De La Cruz
+tt0779739	title	Maa Pallelo Gopaludu
+tt0779739	directors	Kodi Ramakrishna
+tt0780073	title	Los maistros albañiles
+tt0780073	directors	Víctor Manuel Castro
+tt0780073	writers	Víctor Manuel Castro
+tt0780130	title	Sa kabila ng bukas
+tt0780130	directors	Consuelo P. Osorio
+tt0787126	title	Prinsesa ng kumintang
+tt0787126	directors	Gerardo de Leon
+tt0788214	title	Siya'y aking anak
+tt0788214	directors	Carlos Padilla Sr.
+tt0791202	title	Victim & Victor
+tt0791202	directors	David C. Lewis
+tt0791202	writers	Daniel Cohen
+tt0823548	title	La tranca
+tt0823548	directors	Alexandra Henao
+tt0823548	writers	Alexandra Henao
+tt0824279	title	Absence
+tt0824279	directors	Kevin Kölsch; Dennis Widmyer
+tt0824279	writers	Kevin Kölsch; Dennis Widmyer
+tt0829421	title	The American Poop Movie
+tt0829421	directors	Joe Kingsley
+tt0829421	writers	Joe Kingsley
+tt0831341	title	Sinner
+tt0831341	directors	Marc Benardout
+tt0831341	writers	Steven Sills
+tt0842623	title	Rio Reiser - König von Deutschland
+tt0842623	directors	Stefan Paul
+tt0843592	title	Prinsipe Amante
+tt0843592	directors	Lamberto V. Avellana; W.H. Smith
+tt0843592	writers	Clodualdo Del Mundo Sr.
+tt0869112	title	New Girl
+tt0869112	directors	Charles Ison
+tt0869112	writers	Dick Callister
+tt0873600	title	Das Erbe der Bergler
+tt0873600	directors	Erich Langjahr
+tt0873600	writers	Erich Langjahr
+tt0891303	title	Ghesse-haye yek zendegi
+tt0891303	directors	Hassan Hedayat
+tt0891303	writers	Hassan Hedayat; Sadegh Hedayat
+tt0899255	title	Russia from My Window
+tt0899255	directors	Victor Kossakovsky
+tt0912592	title	My Kid Could Paint That
+tt0912592	directors	Amir Bar-Lev
+tt0923621	title	Boku no Tôkyô-chizu
+tt0923621	directors	Masanori Igayama
+tt0923621	writers	Hideo Oguni; Hachirô Satô (story); Kenta Yamazaki
+tt0925241	title	Il giogo
+tt0925241	directors	Gaston Ravel
+tt0934442	title	Wandering Ginza Butterfly
+tt0934442	directors	Kazuhiko Yamaguchi
+tt0934442	writers	Isao Matsumoto; Kazuhiko Yamaguchi
+tt0943475	title	Il principe avventuriero
+tt0958092	title	Die Heiratsfalle
+tt0958092	directors	Franz Eckstein; Rosa Porten
+tt0958092	writers	Rosa Porten
+tt0959556	title	The Calling
+tt0959556	directors	David Ranghelli
+tt0961109	title	Bloody Mondays & Strawberry Pies
+tt0961109	directors	Coco Schrijber
+tt0961109	writers	Coco Schrijber
+tt0962579	title	Luce nell'ombra
+tt0962579	directors	Giorgio Ricci
+tt0989833	title	Kahit ang mundo'y magunaw
+tt0989833	directors	Manuel 'Fyke' Cinco
+tt0989833	writers	Rico Bello Omagap; Manuel G. Asuncion
+tt10064134	title	The Reunion
+tt10064134	directors	Phil Donlon
+tt10064134	writers	Dave Rosenberg
+tt10160304	title	Ghost of the Nile
+tt10160304	directors	Yasir Al-Yasiri
+tt10160304	writers	Mohamed Nayer
+tt1016156	title	Ausgerechnet Bulgarien
+tt1016156	directors	Hristo Bakalski
+tt1016156	writers	Hristo Bakalski
+tt1019940	title	Nodir Naam Modhumoti
+tt1019940	directors	Tanvir Mokammel
+tt1019940	writers	Tanvir Mokammel
+tt1020028	title	Große Lügen!
+tt1020028	directors	Jany Tempel
+tt1020028	writers	Jany Tempel
+tt1020529	title	Drakmar: A Vassal's Journey
+tt1020529	directors	Destin Daniel Cretton; Lowell Frank
+tt10232096	title	Buran
+tt10232096	directors	Ainur Askarov
+tt10232096	writers	Ainur Askarov
+tt10264340	title	Light from the Tower
+tt10264340	directors	Alex R. Wagner
+tt10264340	writers	Julia St. Pierre
+tt10269680	title	Active Shooter
+tt10269680	directors	Robert Bryce Milburn
+tt10269680	writers	Toby Osborne
+tt10337580	title	In Bright Axiom
+tt10337580	directors	Spencer McCall
+tt10337580	writers	Geordie Aitken; Farouz Gipson; Wylie Herman
+tt10356580	title	Rusi
+tt10359378	title	The Land of William Tell
+tt10359378	directors	Georges Nicolas Hayek
+tt10359378	writers	Georges Nicolas Hayek; Carlo Mandelli; Hans-Peter Spörri
+tt10368934	title	Hello Love
+tt10368934	directors	Changxin Li
+tt10368934	writers	Changxin Li
+tt1042552	title	Silip
+tt1042552	directors	Joel Lamangan
+tt1042552	writers	Raquel Villavicencio
+tt10486854	title	Prizrak svobody II
+tt10486854	directors	Karel Zalud
+tt10486854	writers	Karel Zalud
+tt1049413	title	Up
+tt1049413	directors	Pete Docter; Bob Peterson
+tt1049413	writers	Bob Peterson; Pete Docter; Tom McCarthy
+tt10515214	title	The Forest Monster
+tt10531134	title	Necropolis: Legion
+tt10531134	directors	Chris Alexander
+tt10531134	writers	Chris Alexander; Brockton McKinney
+tt1053226	title	Brownies
+tt1053226	directors	Hanung Bramantyo
+tt1053226	writers	Hanung Bramantyo
+tt10542462	title	Onye Ndu
+tt10542462	directors	Muoma Obinna
+tt10560338	title	Bhasadbaaz
+tt10560338	directors	Abhishek Prasad
+tt10560338	writers	Abhishek Prasad
+tt1062939	title	Ma mha 4 khaa khrap
+tt1062939	directors	Pantham Thongsangl; Somkait Vituranich
+tt1062939	writers	Somkait Vituranich
+tt10640730	title	Selva
+tt10640730	directors	Iñaki Echeberría
+tt10640730	writers	Luigi Serradori
+tt10676030	title	Caterpillars
+tt10676030	directors	Elvis Sabin Ngaibino
+tt10676030	writers	Elvis Sabin Ngaibino
+tt10719020	title	What Makes a Woman
+tt10719020	directors	Munroe Bergdorf; Karen McGann
+tt1072754	title	Messages Deleted
+tt1072754	directors	Rob Cowan
+tt1072754	writers	Larry Cohen
+tt10764416	title	Elvis Unleashed
+tt10772992	title	Intuition
+tt10772992	directors	Mckinson Souverain
+tt10772992	writers	Chrys Calixte
+tt10837952	title	East of Middle West
+tt10837952	directors	Brian Lucke Anderson
+tt10837952	writers	Mokotsi Rukundo
+tt10872590	title	Cenestesia
+tt10872590	directors	Joan Vall Karsunke
+tt10872590	writers	Joan Vall Karsunke
+tt10873470	title	Lee Priest vs. Bodybuilding
+tt10873470	directors	Vlad Yudin
+tt1087631	title	Osm srdcí v plamenech
+tt1087631	directors	Ferry Seidl
+tt1087631	writers	Beatrice Dovská
+tt10879516	title	Nelly
+tt10879516	directors	Marco Estrada
+tt10879516	writers	Marco Estrada
+tt1092601	title	Lost and Found in Mexico
+tt1092601	directors	Caren Cross
+tt1092601	writers	Caren Cross
+tt1093373	title	The Last Tomorrow
+tt1093373	directors	Drew Rist
+tt1093373	writers	Bryan Massey; Drew Rist
+tt11024462	title	Maboroshi no ôkami
+tt11024462	directors	Masao Yonezawa
+tt11027294	title	The Indignation
+tt11027294	directors	Malcolm Joor
+tt11027294	writers	Malcolm Joor
+tt11055048	title	Hellarious
+tt11055048	directors	Robert Boocheck; James Feeney; J.M. Logan
+tt11055048	writers	Robert Boocheck; James Feeney; Randall Greenland
+tt11059108	title	Entre Muros
+tt11059108	directors	José Filipe Costa; João Ribeiro
+tt11068940	title	The Looming
+tt11068940	directors	Sam Macon
+tt11068940	writers	Sam Macon
+tt11073954	title	Lee's gift
+tt11073954	writers	Edus H. Ojeda (Writer)
+tt1110636	title	Tödliche Verbindungen
+tt1110636	directors	Markus Kleinhans; Edgar Kraus
+tt1110636	writers	Markus Kleinhans; Edgar Kraus
+tt11136244	title	Rochelle
+tt11136244	directors	Andrew Essig
+tt1117380	title	Breathe
+tt1117380	directors	Nicholas Winter
+tt1117390	title	A Man Without a Country
+tt1117390	directors	J.J. Harting
+tt1117390	writers	J.J. Harting; Kurt Vonnegut Jr.
+tt11178402	title	Mickey: The Story of a Mouse
+tt11178402	directors	Jeff Malmberg
+tt1119196	title	Secrets of a Medicine Man
+tt1119196	directors	Nanette Fenton
+tt1119196	writers	Nanette Fenton
+tt11287096	title	Splinters
+tt11287096	directors	Natalia Garayalde
+tt11287096	writers	Natalia Garayalde
+tt1130727	title	Ge zi shu
+tt1130727	directors	Ziniu Wu
+tt1130727	writers	Nan Ye
+tt11394308	title	Saudi Runaway
+tt11394308	directors	Susanne Regina Meures
+tt11394308	writers	Susanne Regina Meures
+tt11394650	title	On the Record
+tt11394650	directors	Kirby Dick; Amy Ziering
+tt11394650	writers	Kirby Dick; Sara Newens; Amy Ziering
+tt11399972	title	Da fan dian
+tt11399972	directors	Weibang Ma-Xu
+tt11436282	title	The songs of soul
+tt11436282	directors	Anuar Raybaev
+tt11436282	writers	Anuar Raybaev
+tt11438326	title	Shadows of Freedom
+tt11438326	directors	Amos Carlen; Aline Robichaud
+tt11438326	writers	Amos Carlen; Aline Robichaud
+tt11496596	title	90 hou de tian tang
+tt11496596	directors	Xin Liu
+tt1152830	title	The Joneses
+tt1152830	directors	Chris Tyrrell
+tt1152830	writers	Stacey Cruwys; Chris Tyrrell
+tt1153700	title	Patang
+tt1153700	directors	Prashant Bhargava
+tt1153700	writers	Prashant Bhargava; Marina Budhos; Peter Chelkowski
+tt11547982	title	The 2:11 Home
+tt11547982	directors	Jim Huggins
+tt11547982	writers	Jim Huggins
+tt11575054	title	Power and Politics in Today's World
+tt11578464	title	Po tamburi
+tt11578464	directors	Stanislav Tomic
+tt11578464	writers	Mario Marko Krce; Dubravko Matakovic; Stanislav Tomic
+tt1160982	title	Anseî imon ôedo no daîjishin
+tt1160982	directors	Yaroku Kobayashi
+tt1161058	title	Senza freni
+tt1161058	directors	Felice Farina
+tt1161058	writers	Felice Farina; Eleonora Fiorini
+tt11633108	title	Getting Rich in Lagos
+tt11633108	directors	Darasen Richards
+tt11633108	writers	Conscian Morgan
+tt11638970	title	The Last City
+tt11638970	directors	Heinz Emigholz
+tt11638970	writers	Heinz Emigholz
+tt1165342	title	Shachô hisho: Kyonyû sekuhara gari
+tt11655972	title	Taman Lawang
+tt11655972	directors	Aditya Gumay
+tt11675386	title	Alone in the Combat Zone
+tt11675386	directors	Monjul Baruah
+tt11675386	writers	Arambam Debashish Singha
+tt11693666	title	Perfect Life
+tt11693666	directors	Véronique Goël
+tt11693666	writers	Véronique Goël
+tt11698818	title	Yoga for Health: Basics
+tt11698818	directors	Gaston Fernandez Volpe
+tt1172179	title	Katayamazu kouta
+tt1172179	directors	Yukio Betsumiya
+tt1172179	writers	Tatsuro Jinde; Kesshû Tsukuda
+tt1173752	title	Shôhin eiga-shû: Sankyô no yûsha
+tt1173752	directors	Genjirô Saegusa
+tt11766766	title	Homestead
+tt11766766	directors	Ehrland Hollingsworth
+tt11766766	writers	Ehrland Hollingsworth
+tt11779626	title	Zombie Fighter
+tt11779626	directors	Lim Jihwan
+tt11779626	writers	Lim Jihwan
+tt11807082	title	Begonia
+tt11807082	directors	Gavin Baird
+tt11807082	writers	Gavin Baird
+tt11839386	title	Love on the Rainbow
+tt11839386	directors	Masaharu Segawa
+tt11839386	writers	Osamu Kawase; Katsuya Susaki
+tt11845074	title	Here Be Dragons
+tt11845074	directors	Alastair Newton Brown
+tt11845074	writers	Alastair Newton Brown
+tt1185262	title	Pourudu
+tt1185262	directors	Raj Aditya
+tt1185262	writers	Marudhuri Raja
+tt1196585	title	Ai zai Xia Wei Yi
+tt1196585	directors	Yin Tse
+tt1196585	writers	John Yip
+tt12035696	title	Judith
+tt12035696	directors	Torgeir Wethal; Eugenio Barba
+tt12035696	writers	Eugenio Barba; Roberta Carreri
+tt12056434	title	Sannin somâ daisaku
+tt12056434	directors	Shichinosuke Oshimoto
+tt12063464	title	Our Dogs
+tt12063464	directors	Jim Peck
+tt12063464	writers	Jim Peck
+tt1206906	title	California Scrap Book
+tt12090302	title	Fin
+tt12090302	directors	Robin Lachenal
+tt12090302	writers	Robin Lachenal
+tt12109706	title	Za chornoye serdtse
+tt12109706	directors	Cheslav Sabinsky
+tt12109706	writers	Andrey Bykhovskiy; Grigori Gritscher-Tscherikower
+tt1211875	title	Karolos Koun
+tt1211875	directors	Pantelis Voulgaris
+tt1211875	writers	Pantelis Voulgaris (screenplay)
+tt12120720	title	On the Rocks
+tt12120720	directors	Damien Murray
+tt12120720	writers	Scott Bausemer (script)
+tt12122676	title	A Gamer's Tale: Get Pwned!
+tt12122676	directors	Jake Woodbridge
+tt1213037	title	Il delitto del commendatore
+tt1213037	directors	Amedeo Mustacchi
+tt1213037	writers	Carlo Dadone
+tt12166890	title	KingCobraJFS: Now it's a Party!
+tt12166890	writers	Dorian House
+tt12358176	title	Pup Tales: Chicken Diddle
+tt12358176	directors	Linda Gray
+tt12358176	writers	Audrey Collins
+tt1239321	title	A Football Star Called Divine: Life and Work of Ademir da Guia
+tt1239321	directors	Penna Filho
+tt1239321	writers	Penna Filho; Cláudio Schuster
+tt12408930	title	The Two Mischievous Boys
+tt12408930	directors	Owen Fink
+tt12408930	writers	Landon Hofer (creator); Sam Robocker
+tt12414296	title	Philippe Garrel à Digne (Premier voyage) (Carnet filmé: 2 mai 1975)
+tt12414296	directors	Gérard Courant
+tt12414296	writers	Gérard Courant (concept)
+tt1242527	title	At World's End
+tt1242527	directors	Tomas Villum Jensen
+tt1242527	writers	Anders Thomas Jensen
+tt1242544	title	Last Day of Summer
+tt1242544	directors	Vlad Yudin
+tt1242544	writers	Vlad Yudin
+tt1249368	title	Flores negras
+tt1249368	directors	David Carreras
+tt1249368	writers	David Carreras; Wolfgang Kirchner; Luis Marías
+tt12504036	title	Han Zi Gao: The Male Queen
+tt12504036	directors	Jinlun Li
+tt1250841	title	Das stärkste ist die Liebe
+tt1250841	directors	Kurt Matull
+tt1250841	writers	Kurt Matull
+tt1258152	title	Pakten
+tt1258152	directors	Jarmo Larsen
+tt1258152	writers	Ruben André Evju; Jarmo Larsen
+tt12660650	title	The Road to Elsinore
+tt12660650	directors	Wesley Rickert
+tt12660650	writers	Wesley Rickert
+tt12666384	title	Skulls of my People
+tt12666384	directors	Vincent Moloi
+tt12666384	writers	Makgano Mamabolo; Lodi Matsetela; Vincent Moloi
+tt1267152	title	23 Tage - Das YouTube Fan-Tagebuch
+tt1267152	directors	Tobias Greber; Detlev Buck
+tt1267152	writers	Detlev Buck
+tt12672230	title	Yi jian ding jiang shan
+tt12724444	title	Chun Qiu Fengshen
+tt12724444	directors	Hailiang Liu
+tt1275585	title	Dai e qun ci
+tt1275585	directors	Chi Lu
+tt1275585	writers	Chi Lu
+tt12775252	title	1996 Division One Play Off Final
+tt12783454	title	The Kissing Booth 3
+tt12783454	directors	Vince Marcello
+tt12783454	writers	Beth Reekles; Vince Marcello; Jay S Arnold
+tt12802672	title	1521: The Quest for Love and Freedom
+tt12802672	directors	Michael Barder
+tt12802672	writers	Francis B. Lara Ho; Mary Krell-Oishi
+tt12833062	title	Apoorva - The Rare School Days
+tt12833062	directors	Nithin Ramakrishnan
+tt12833062	writers	Nithin Ramakrishnan
+tt12845932	title	Aka no namida
+tt12868184	title	Benyamin the Troublemaker 2
+tt12868184	directors	Hanung Bramantyo
+tt12868184	writers	Bagus Bramanti; Senoaji Julius; Hilman Mutasi
+tt1288406	title	Life at the Resort
+tt1288406	directors	Jeff Sable; Zander Villayne
+tt1288406	writers	David Higlen; Deon van Rooyen
+tt12886344	title	True Colors
+tt13015408	title	Alien Country
+tt13015408	directors	Boston McConnaughey
+tt13015408	writers	Renny Grames; Boston McConnaughey
+tt1303824	title	Yolki Palki
+tt1303824	directors	Alexander Gentelev
+tt1303824	writers	Alexander Gentelev
+tt13056788	title	Mooncat
+tt13056788	directors	Joshua Yuzon
+tt13056788	writers	Joshua Yuzon
+tt13070836	title	Enn Nenjai Thottaye
+tt13070836	directors	R.K. Anbuselvan
+tt13070836	writers	R.K. Anbuselvan
+tt1308729	title	Bullet to the Head
+tt1308729	directors	Walter Hill
+tt1308729	writers	Alessandro Camon; Alexis Nolent; Colin Wilson
+tt1313088	title	40 sai mondai
+tt1313088	directors	Yuji Nakae
+tt13154856	title	Aldous Huxley and the Brave New World
+tt13154856	directors	Jeff Levry
+tt13154856	writers	Jeff Levry
+tt13162190	title	Métamorphoses d'une ville
+tt13162190	directors	Philippe Chapuis
+tt13162190	writers	Philippe Chapuis; Chapuis Laura
+tt13219586	title	Festival Verdi. Tradizione e innovazione
+tt13219586	directors	Stefano Consiglio
+tt1322916	title	Fighting Politics
+tt1322916	directors	Emily Vahey
+tt13333998	title	Dente por Dente
+tt13333998	directors	Pedro Arantes; Júlio Taubkin
+tt13333998	writers	Michel Laub; Arthur Warren
+tt13368980	title	Placid Park
+tt13368980	directors	Roman Jossart
+tt13368980	writers	Roman Jossart; Tom Komisar
+tt13376436	title	Netaji Palkar
+tt13376436	directors	Kamalakar Torne
+tt1340727	title	The Opportunity
+tt1340727	directors	Lucas Paredi
+tt13435818	title	Thigattadha Kadhal
+tt13435818	directors	Manoj K. Jayan
+tt1344031	title	Willard-Johnson, World's Championship Fight
+tt13455606	title	Para Onde Voam as Feiticeiras
+tt13455606	directors	Beto Amaral; Carla Caffé; Eliane Caffé
+tt13455606	writers	Beto Amaral; Carla Caffé; Eliane Caffé
+tt13491872	title	Forty Seven
+tt13491872	directors	Alireza Ataallahetabrizi; Ahmad Otraghchi
+tt13491872	writers	Alireza Ataallahetabrizi; Ahmad Otraghchi
+tt13519428	title	A Mãe de Todas as Lutas
+tt13519428	directors	Susanna Lira
+tt13519428	writers	Gretha Viana
+tt13552934	title	Wakazuma nama haishin: Misetagari
+tt13552934	directors	Amane Satô
+tt13552934	writers	Amane Satô
+tt1356791	title	Idonikes diastrofes
+tt1356791	directors	Apostolos Tegopoulos
+tt1356791	writers	Apostolos Tegopoulos
+tt1359029	title	Skiing Everest
+tt1359029	directors	Les Guthman; Mike Marolt
+tt1359029	writers	Les Guthman
+tt1360117	title	L'amazzone nera
+tt1360117	directors	Attilio De Virgiliis
+tt1364288	title	Sakdalista
+tt1364288	directors	Armando De Guzman
+tt1364288	writers	Dominador Ad. Castillo; Johnny Pangilinan
+tt13648700	title	Breaking Barriers - the Casteless Collective
+tt13648700	directors	Maja Meiners
+tt13648700	writers	Maja Meiners
+tt13765104	title	The Confession
+tt13765104	directors	Basil Al-Khatib
+tt13765104	writers	Basil Al-Khatib; Majid Alkhatib
+tt13826304	title	Ciudad a la Espalda
+tt13826304	directors	Paola Rodas
+tt13848412	title	Land II
+tt13848412	directors	Kim Søgaard
+tt1385948	title	Nilave Malare
+tt1385948	directors	S.A. Chandrashekhar
+tt1391084	title	Killing Schrödinger's Cats
+tt1391084	directors	King-Pin Lei
+tt1391084	writers	King-Pin Lei
+tt13939198	title	Gemenc - Árterek világa
+tt13939198	directors	Frigyes Olma
+tt13939198	writers	Frigyes Olma
+tt13966434	title	Frozen Styph
+tt13966434	directors	Ronald Jay Cohen
+tt13966434	writers	Ronald Jay Cohen
+tt1398949	title	Blank City
+tt1398949	directors	Celine Danhier
+tt14041918	title	Le prix de la trahison
+tt14041918	directors	Melchy Obiang
+tt14063960	title	Mick Fleetwood & Friends Celebrate the Music of Peter Green
+tt14063960	directors	Martyn Atkins
+tt14088496	title	Ulta Palta
+tt14088496	directors	N.S. Shankar
+tt14088496	writers	N.S. Shankar
+tt14097180	title	Somewhere in Queens
+tt14097180	directors	Ray Romano
+tt14097180	writers	Ray Romano; Mark Stegemann
+tt1411965	title	Tekton
+tt1411965	directors	Mariano Donoso
+tt1411965	writers	Mariano Donoso
+tt14336310	title	Kane Van Gate's Hockey Journey
+tt14338600	title	Bharathi
+tt14338600	directors	Krishne Gowda
+tt14338682	title	Zabardast
+tt14338682	directors	Ram Bharath Devan
+tt14350812	title	No Fare
+tt14350812	directors	Matt Holt
+tt1435572	title	Qi ye liu mang
+tt1435572	directors	Chih-Chao Chang
+tt1435572	writers	Ji-Shang Lu
+tt1442568	title	Blind Maze
+tt1442568	directors	Heather Parisi
+tt1442568	writers	Heather Parisi; Cinzia Masotina
+tt14462284	title	Nosferatu
+tt1447499	title	Matching Jack
+tt1447499	directors	Nadia Tass
+tt1447499	writers	Lynne Renew; David Parker
+tt1451635	title	Stitches
+tt1451635	directors	Steve Ashworth
+tt1451635	writers	Steve Ashworth (screenplay)
+tt1454520	title	One Village Same Ocean
+tt1454520	directors	Josh Hansbrough
+tt1454520	writers	Justin Anderson (narration script); Josh Hansbrough (story)
+tt14558662	title	Umpetha [Sportsman)
+tt14591312	title	Guillotine
+tt14591312	directors	Ray Izad-Mehr
+tt14591312	writers	Nabor Cabanillas; Ray Izad-Mehr; Lisa Molenda
+tt1459234	title	Senza amore
+tt1459234	directors	Renato Giordano
+tt14598734	title	Hero
+tt14598734	directors	Anand Annamalai
+tt1460643	title	Pimp
+tt1460643	directors	Robert Cavanah
+tt1460643	writers	Jon Kirby; Robert Cavanah
+tt1467326	title	Forward/Backward
+tt1467326	directors	Kendall Lynch; Elizabeth Spear
+tt1467326	writers	Elizabeth Spear; Kendall Lynch
+tt14687306	title	María Luisa Bemberg: The Echo of My Voice
+tt14687306	directors	Alejandro Maci
+tt14687306	writers	Alejandro Maci
+tt1471248	title	Road to the Altar
+tt1471248	directors	Annie Lukowski
+tt1471248	writers	Annie Lukowski; Leyna Weber
+tt1473001	title	Anupama
+tt1473001	directors	Bijay Ketan Mishra
+tt14730898	title	Thavarina Theru
+tt14730898	directors	G.K. Mudduraj
+tt14730898	writers	B.A. Madhu; G.K. Mudduraj
+tt14776720	title	Agyaatvaas
+tt14776720	directors	Manoj Kumar Ricky
+tt14776720	writers	Rishi Gala; Manoj Kumar Ricky
+tt14803538	title	The Extortion
+tt14803538	directors	Martino Zaidelis
+tt14803538	writers	Emanuel Diez
+tt14922354	title	Who Am I?
+tt14922354	writers	Jasper Kennedy
+tt1504382	title	El burro jorobado
+tt1504382	directors	Raúl Quintanilla Alvarado
+tt1504382	writers	Raúl Quintanilla Alvarado
+tt15048024	title	Land Shark
+tt15048024	directors	Siyu Cheng
+tt15048024	writers	Siyu Cheng; Siwei Tao
+tt15058340	title	Messing Around
+tt15058340	directors	Harbance Kumar
+tt15058340	writers	Harbance Kumar
+tt1506965	title	Smoorverliefd
+tt1506965	directors	Hilde Van Mieghem
+tt1506965	writers	Bert Scholiers; Hilde Van Mieghem
+tt15114108	title	Room 105
+tt15114108	directors	Brad Romeo Hodge
+tt15114108	writers	Brad Romeo Hodge; Emily Kraudel
+tt15121860	title	Forensic
+tt15121860	directors	Vishal Furia
+tt15121860	writers	Mansi Bagla; Adhir Bhat; Ajit Jagtap
+tt15131266	title	As Good as Dead
+tt15131266	directors	R. Ellis Frazier
+tt15131266	writers	Michael Jai White
+tt15140266	title	Brain Power
+tt1514048	title	Loving the Bad Man
+tt1514048	directors	Péter Engert
+tt1514048	writers	Giovanni Igneri; Wes Halula; Péter Engert
+tt15185988	title	Raiders of the Lost Clam to the Future
+tt15185988	directors	Dana Graham Phelps
+tt15185988	writers	Dana Graham Phelps
+tt1522309	title	Still a Teen Movie
+tt1522309	directors	Melvin James
+tt1522309	writers	Cris Cartier; Melvin James
+tt1530545	title	Szinglik éjszakája
+tt1530545	directors	Tamás Sas
+tt1530545	writers	András Kovács M.; Péter Szajki; Nóra Zsigmond
+tt15328122	title	Sour Lemon
+tt15328122	directors	Javad Razavian
+tt1547919	title	Nothing to Declare
+tt1547919	directors	Julie Glass
+tt1547919	writers	Julie Glass
+tt1552750	title	Tian tang ao
+tt1552750	directors	Zhanjun An
+tt1552750	writers	Jian-xun Guo; Chen Wang
+tt1561457	title	Double Down
+tt1561457	directors	Neil Breen
+tt1561457	writers	Neil Breen
+tt15622856	title	Mitabime no, shojiki
+tt15622856	directors	Tadashi Nohara
+tt15622856	writers	Tadashi Nohara
+tt15685582	title	Red Hour
+tt15716328	title	DeMon
+tt15716328	directors	David Daze
+tt15716328	writers	David Daze
+tt15723074	title	10th Class Diaries
+tt15723074	directors	Anji
+tt15723074	writers	Achut Ramarao
+tt15723990	title	Access All Areas
+tt15723990	directors	Charlotte Fantelli
+tt15723990	writers	Charlotte Fantelli; Emma Page
+tt15743130	title	May You Stay Forever Young
+tt15743130	directors	Sum Lam; Xia Ren
+tt15761332	title	Hádkovi
+tt15761332	directors	Vojtech Moravec
+tt15761332	writers	Vojtech Moravec; Sandra Nováková
+tt15777864	title	Hilda and the Mountain King
+tt15777864	directors	Andy Coyle
+tt15777864	writers	Luke Pearson; Stephanie Simpson; Kurt Mueller
+tt15779058	title	Love Triangle
+tt15779058	directors	Dele Ogundipe
+tt15779976	title	Reptchild
+tt15779976	directors	Brockton McKinney
+tt15779976	writers	Brockton McKinney
+tt15847552	title	The Pill
+tt15847552	directors	Franco Clarke
+tt15847552	writers	Franco Clarke
+tt15891062	title	U-Turn
+tt15891062	directors	Peter Baloff
+tt15891062	writers	Austin Salavarrieta; Cleavandor Wright
+tt1590297	title	Bush League
+tt1590297	directors	Cy Kuckenbaker
+tt1595655	title	Untitled Keith Richards Documentary
+tt1595655	directors	Johnny Depp
+tt1601453	title	Bolo Na Tumi Amar
+tt1601453	directors	Sujit Mondal
+tt1601453	writers	N.K. Salil
+tt16058374	title	Bigfoot in search of the truth
+tt16058374	directors	Geovanni Molina
+tt16058374	writers	Geovanni Molina
+tt1606761	title	Sword of Desperation
+tt1606761	directors	Hideyuki Hirayama
+tt1606761	writers	Shûhei Fujisawa; Hidehiro Itô; Itaru Era
+tt16077276	title	The Misanthropic Cow
+tt16077276	directors	Nathan C. Lalonde
+tt16077276	writers	Nathan C. Lalonde
+tt16124478	title	Memory Lane
+tt16124478	directors	Desmond Elliot
+tt16124478	writers	Francisca Eleyele; Seleye Fubara
+tt16149794	title	Black Dove
+tt16149794	directors	John Njamah
+tt16149794	writers	Frances Okeke
+tt16162032	title	Desperate Shareholders
+tt16162032	directors	Ilya Farfell
+tt16162032	writers	Anatoliy Molchanov; Vyacheslav Zub
+tt1623777	title	Honest Man: The Life of R. Budd Dwyer
+tt1623777	directors	James Dirschberger
+tt1623777	writers	Adam Wroblewski; James Dirschberger
+tt16245176	title	Det som inte kommer
+tt16245176	directors	Josué Fiallo
+tt16245176	writers	Josué Fiallo
+tt1625155	title	Blood of My Blood
+tt1625155	directors	João Canijo
+tt1625155	writers	João Canijo
+tt16256834	title	Ed ecco a voi
+tt16256834	directors	Ferruccio Castronuovo
+tt16256834	writers	Ferruccio Castronuovo
+tt16280912	title	Humane
+tt16280912	directors	Caitlin Cronenberg
+tt16280912	writers	Michael Sparaga
+tt16305606	title	JFK: How to Kill A President
+tt16305606	directors	Mark Howitt
+tt16305606	writers	Mark Howitt
+tt1632544	title	From Me to You
+tt1632544	directors	Naoto Kumazawa
+tt1632544	writers	Karuho Shiina; Rika Nezu; Naoto Kumazawa
+tt1637688	title	In Time
+tt1637688	directors	Andrew Niccol
+tt1637688	writers	Andrew Niccol
+tt1639883	title	Shivering Inside
+tt1639883	directors	Rodrigo Cipriano
+tt1639883	writers	Rodrigo Cipriano
+tt16418448	title	Si ai vaccini
+tt16418448	directors	Micol Pallucca
+tt16418448	writers	Micol Pallucca
+tt16612280	title	¿Vienes o Voy?
+tt16612280	directors	Jaime Botella
+tt16612280	writers	Davi Vega
+tt1672166	title	Acid Head: The Buzzard Nuts County Slaughter
+tt1672166	directors	Tony Watt
+tt1672166	writers	Tony Watt; Luke van Belkom; Vivita
+tt16787020	title	Last Man Standing: The Chronicles of Myron Sugerman
+tt16787020	directors	Jonny Caplan
+tt16787020	writers	Jonny Caplan
+tt1690433	title	Amagoduka
+tt17077058	title	Homestay
+tt17077058	directors	Natsuki Seta
+tt17077058	writers	Abhichoke Chandrasen; Eto Mori; Eakasit Thairaat
+tt17081166	title	Tumnii neg
+tt17081166	directors	Dejidiin Jigjid
+tt17081166	writers	Lamjav Vangan
+tt1710551	title	Dante Ferretti: Scenografo italiano
+tt1710551	directors	Gianfranco Giagni
+tt1710551	writers	Gianfranco Giagni
+tt1713561	title	Upside Down
+tt1713561	directors	John Shepphird
+tt1713561	writers	John Shepphird
+tt1737256	title	The Island
+tt1737256	directors	Kamen Kalev
+tt1737256	writers	Kamen Kalev
+tt1754166	title	Mahpeyker - Kösem Sultan
+tt1754166	directors	Tarkan Özel
+tt1754166	writers	Avni Özgürel
+tt1760936	title	Bikyaku kyôshi: Hiraite monzetsu
+tt1760936	directors	Naoyuki Tomomatsu
+tt1760936	writers	Naoyuki Tomomatsu
+tt1767353	title	Commie Camp
+tt1767353	directors	Katie Halper; Nora Eisenberg
+tt1796657	title	How Not to Rescue a Princess
+tt1796657	directors	Sergei Glezin
+tt1796657	writers	Alexander Boyarskiy; Vitaly Kozlov; Olga Nikiforova
+tt1810711	title	National Geographic: Inside North Korea
+tt1810711	writers	Peter Yost
+tt1815673	title	The Fatherless
+tt1815673	directors	Marie Kreutzer
+tt1815673	writers	Marie Kreutzer
+tt18184498	title	Perfect Strangers
+tt18225644	title	Ouija: A New Beginning
+tt18225644	directors	Jason Hawkins
+tt18225644	writers	Jason Hawkins
+tt18239308	title	Lacrime Di Natale
+tt18239308	directors	Donovan Pontoriero
+tt18239308	writers	Niccolò Di Mauro; Davide Giacomelli
+tt18289422	title	De Vuelta a Casa (The Way Home)
+tt18289422	directors	Darius Stevens Wilhere
+tt18289422	writers	Darius Stevens Wilhere
+tt1838442	title	Zhertva dlya imperatora
+tt1838442	directors	Roza Orynbasarova
+tt1838442	writers	Vitaliy Moskalenko
+tt18570468	title	Celeb Five: Behind the Curtain
+tt18570468	directors	Min-Seok Go; Kim Joo-Hyung
+tt1866285	title	Um homem de moral
+tt1866285	directors	Ricardo Dias
+tt1866285	writers	Ricardo Dias
+tt1880984	title	Jez Jerzy
+tt1880984	directors	Tomasz Lesniak; Jakub Tarkowski; Wojtek Wawszczyk
+tt1880984	writers	Rafal Skarzycki
+tt18937694	title	Folon
+tt18937694	directors	Gaetan Saint-Rémy
+tt18937694	writers	Gaetan Saint-Rémy
+tt18954468	title	Raja Bhartrahari
+tt18954468	directors	Shree Nath Patankar
+tt18954468	writers	G. Mohanial Dave
+tt18955624	title	Vihdoinkin
+tt18955624	writers	Tomi Lindblom
+tt19371446	title	GradVision
+tt19371446	directors	Andrei Sylvan Horia
+tt19371446	writers	Andrei Sylvan Horia; Sebastian Medrea
+tt1941680	title	Englewood: The Growing Pains in Chicago
+tt1941680	directors	William L. Cochran
+tt1941680	writers	William L. Cochran
+tt1954835	title	Smith Hill
+tt1954835	directors	Craig Looney
+tt1954835	writers	Craig Looney
+tt1974252	title	Fala Sério!
+tt1974252	directors	Augusto Sevá
+tt1974252	writers	Augusto Sevá
+tt1976549	title	Grace & Mercy
+tt1976549	directors	Luis Pena
+tt19784124	title	Maduve Oota
+tt19784124	directors	Mahesh Loni
+tt19812364	title	El corazón de Europa
+tt19812364	directors	Juan Pinzás
+tt19812364	writers	Juan Pinzás
+tt1981703	title	The Harvest/La Cosecha
+tt1981703	directors	U. Roberto Romano
+tt1982838	title	Slam, ce qui nous brûle
+tt1982838	directors	Pascal Tessaud
+tt1982838	writers	Pascal Tessaud
+tt1984241	title	Schellebelle 1919
+tt1984241	directors	Johan Heldenbergh; Kenneth Taylor
+tt1984241	writers	Johan Heldenbergh
+tt19849852	title	Simona
+tt19849852	directors	Natalia Koryncka-Gruz
+tt19849852	writers	Natalia Koryncka-Gruz
+tt19856548	title	Austin Cars: Liam Dale's Classic Cars & Motorcycles
+tt19856548	directors	Liam Dale
+tt19856548	writers	Sue Hosler
+tt1985981	title	Desi Boyz
+tt1985981	directors	Rohit Dhawan
+tt1985981	writers	Rohit Dhawan; Renuka Kunzru; Milap Zaveri
+tt19874736	title	Gospel of Ted
+tt19874736	directors	Alex Wroten
+tt19874736	writers	Joe Worthen; Alex Wroten
+tt1988601	title	Dom
+tt1988601	directors	Olga Maurina
+tt1998253	title	J-What's Cinema: Pet Box
+tt1998399	title	Sun Kissed
+tt1998399	directors	Adi Lavy; Maya Stark
+tt2005419	title	Poco a Poco
+tt2005419	directors	Doris Musikar
+tt2008498	title	Do Numbri
+tt2008498	directors	T.L.V. Prasad
+tt2008498	writers	Sayed Sultan
+tt20112746	title	Sting
+tt20112746	directors	Kiah Roache-Turner
+tt20112746	writers	Kiah Roache-Turner
+tt2035660	title	The Ninth Orphan
+tt2035660	writers	James Morcan (novel); James Morcan (screenplay); Lance Morcan (novel); Lance Morcan (screenplay)
+tt20423134	title	Removendo a terra
+tt20423134	directors	Antonio Caeiro; Margarita Teijeiro
+tt20423134	writers	Antonio Caeiro
+tt2042608	title	Nee
+tt2042608	directors	Ramanna; Kanaga Shanmugam
+tt2042608	writers	Sakthi T.K. Krishnasamy
+tt2042712	title	Where Is Robert Fisher?
+tt2042712	directors	Charlie Minn
+tt20453900	title	All Things Fair
+tt20453900	directors	Austin Nwaolie
+tt20453900	writers	Francis Uzoma Disney
+tt20504968	title	50 signatures
+tt20504968	directors	Ahmed Shalaby Boteen
+tt20504968	writers	Ahmed Shalaby Boteen
+tt20724406	title	Morrison
+tt20724406	directors	Phuttiphong Aroonpheng
+tt20724406	writers	Phuttiphong Aroonpheng
+tt2078524	title	A Force of Nature
+tt2078524	directors	Barbara Kopple
+tt2080352	title	No Medals for Heroes
+tt2080352	directors	Jose T. Santos
+tt2080352	writers	Kilina Ogawa (story)
+tt2082518	title	[S]comparse
+tt2082518	directors	Antonio Tibaldi
+tt2097877	title	La sombra de Evita: Volveré y seré millones
+tt2097877	directors	Xavier Gassió
+tt2097877	writers	Xavier Gassió; Alfred Pérez Fargas
+tt2103153	title	Barbieri
+tt2103153	directors	Corrado De Luca; Roberto Verì
+tt2103153	writers	Corrado De Luca; Roberto Verì
+tt2106583	title	On the Inside: State Department Protectors
+tt2106583	directors	Kathryn A. Scott
+tt2106583	writers	Kathryn A. Scott
+tt21071746	title	Hands of Gold
+tt21071746	directors	Isabelle Mergault
+tt21071746	writers	Isabelle Mergault; Jean-Pierre Hasson
+tt21080816	title	Fauji ago Yodha
+tt21080816	directors	Shivam Tiwari
+tt21080816	writers	Shivam Tiwari
+tt2109220	title	The Double Hour
+tt2109220	directors	Joshua Marston
+tt2109220	writers	Joshua Marston (screenplay)
+tt21153380	title	Alice-Miranda A Royal Christmas Ball
+tt21153380	directors	Jo Boag
+tt21153380	writers	Melanie Alexander; Alexa Moses
+tt2120157	title	The Suckers
+tt2120157	directors	Stu Segall
+tt2120157	writers	Harold Lime; Richard Connell
+tt21231266	title	Landscape Hunter
+tt21231266	directors	Hsiu-Hui Liao
+tt21231266	writers	Hsiu-Hui Liao
+tt21299754	title	Long Walk to Truth
+tt21299754	directors	Okey Ifeanyi
+tt21299754	writers	Ovi Odiete
+tt21304894	title	Maa Koini Marsho Nahi
+tt21375374	title	Namba
+tt21375374	directors	Emily Hanako Momohara
+tt2144099	title	Nettorizuma onedarizuma 2: Furinzuma mirarenagara
+tt2144099	directors	Sachi Hamano
+tt2144099	writers	Kuninori Yamazaki
+tt21446590	title	Blazen in het vuur
+tt21446590	directors	Chris Frieswijk
+tt2165256	title	Cold Blood
+tt2166422	title	Civanim
+tt2169316	title	Once Around the Sun
+tt2169316	directors	David Huggett
+tt2169316	writers	David Huggett; Gordon Mutch
+tt21816244	title	Soy niño
+tt21816244	directors	Lorena Zilleruelo
+tt21816244	writers	Lorena Zilleruelo
+tt21825708	title	Exitus - Il passaggio
+tt21825708	directors	Alessandro Bencivenga
+tt21825708	writers	Alessandro Bencivenga; Anna Pavignano; Marzia Polla
+tt2184335	title	Urban Hymn
+tt2184335	directors	Michael Caton-Jones
+tt2184335	writers	Nick Moorcroft
+tt21857366	title	Kisah Dikir Kita (SG)
+tt21857366	directors	Hidayat Nordin
+tt21857366	writers	Noor Haqmal; Hidayat Nordin
+tt21907368	title	2 Avril
+tt21907368	directors	Noëlle Kenmoe; Michel Pouamo
+tt21907368	writers	Noëlle Kenmoe
+tt21916590	title	Pardeshi Saiyya
+tt21916590	directors	Nandlal Jaswantlal
+tt21916590	writers	G. Mohanial Dave
+tt2194542	title	Titus
+tt2194542	directors	Charlie Cattrall
+tt2194542	writers	Nico Mensinga
+tt2198121	title	Pretty Boy Segovia
+tt2198121	directors	Danny L. Zialcita
+tt2199299	title	Bunshichi mottoi
+tt22374876	title	Everest uden ilt: det ultimative egotrip
+tt22374876	directors	Jesper Ærø
+tt2241674	title	Nu gui sheng si lian
+tt2241674	directors	Chi-Lien Yu
+tt2241674	writers	Chi-Lien Yu
+tt2243338	title	Paranoid Patient
+tt2243338	directors	Diluckshan Jeyaratnam; Prathaap Ravichandran; Geethendra Sugendra
+tt2244696	title	Cautionary Tale
+tt2244696	directors	Christopher Zawadzki
+tt2244696	writers	Ted Limpert; Christopher Zawadzki
+tt22456942	title	Spite
+tt22456942	directors	Muyiwa Aluko
+tt22456942	writers	Folasakin Iwajomo
+tt2254068	title	Bangkit dari Kubur
+tt2254068	directors	Nayato Fio Nuala
+tt2261261	title	Arbo
+tt2261261	directors	Jo Danieli
+tt2261261	writers	Jo Danieli
+tt2265577	title	The Believers
+tt2265577	directors	Clayton Brown; Monica Long Ross
+tt22697096	title	Bienvenidos al paraíso
+tt22697096	directors	Ani Alva Helfer
+tt2282390	title	Anna and Modern Day Slavery
+tt2282390	directors	Magda M. Olchawska
+tt2282390	writers	Magda M. Olchawska
+tt2292607	title	Bint wa Ismaha Mahmood
+tt2292607	directors	Neyazi Mustafa
+tt2292607	writers	Ahmad Abdulwahhab; Bahgat Kamar
+tt2299433	title	From This Day
+tt2299433	directors	Rick Roberts
+tt2299433	writers	Dominic Coddington; Rick Roberts
+tt2312084	title	Fear the Day
+tt2312084	writers	A. Troy Hunter; Geof Miller
+tt23214780	title	Stay Online
+tt23214780	directors	Eva Strelnikova
+tt23214780	writers	Anton Skrypets; Eva Strelnikova
+tt2326668	title	The Space Tour
+tt2326668	directors	Liam White; Julia Albain
+tt2345561	title	Grandmaster
+tt2345561	directors	B. Unnikrishnan
+tt2345561	writers	B. Unnikrishnan
+tt2347154	title	The Inside Outside Man
+tt2347154	directors	Anand Tucker
+tt2347154	writers	Timothy W. Haas (screenplay written by); Ian Bowater
+tt2349865	title	We Are Here
+tt2349865	directors	Brandon Shain
+tt2349865	writers	Chris Cherin; Kevin Christian
+tt2353897	title	El Rocío es compartir
+tt2353897	directors	Francisco Campos Barba
+tt2353897	writers	Francisco Campos Barba
+tt2375540	title	Gitme Baba
+tt2375540	directors	Ahmet Sönmez
+tt2375540	writers	Cigdem Suyolcu
+tt2378830	title	Summer of '92
+tt2378830	directors	Kasper Barfoed
+tt2378830	writers	Anders Frithiof August; Kasper Barfoed
+tt2379772	title	Afacan
+tt2379772	directors	Yilmaz Atadeniz
+tt23842212	title	Hoshi 35
+tt23842212	directors	Daisuke Sato; Hiroto Yokokawa; Kazuma Yoneyama
+tt23842212	writers	Hiroto Yokokawa
+tt23863964	title	Capturando el Tiempo
+tt23863964	directors	Itzel Sarmientos
+tt23863964	writers	Itzel Sarmientos
+tt23919810	title	To Basie with Love
+tt23919810	directors	Count Basie
+tt2398340	title	Tadakha
+tt2398340	directors	Kishore Kumar Pardasani
+tt2398340	writers	N. Linguswamy; A. Deepakraj; Kishore Kumar Pardasani
+tt2402163	title	Paris Countdown
+tt2402163	directors	Edgar Marie
+tt2402163	writers	Edgar Marie
+tt2404473	title	Veien til Nidaros
+tt2404473	directors	Torkil Færø; Sofus Krogvik
+tt24067390	title	London Killer
+tt24067390	directors	Vijay Saxena
+tt24067390	writers	Vijay Saxena
+tt2409762	title	2 Hell and Back
+tt2409762	directors	Rudolf Buitendach
+tt2409762	writers	Jim Towns
+tt24134016	title	O Pioneer
+tt24134016	directors	Jonathan Lacocque; Clara Lehmann
+tt24134016	writers	Clara Lehmann
+tt2447822	title	Momok Jangan Cari Pasal!
+tt2447822	directors	M. Jamil
+tt24554982	title	¿Qué puede un cuerpo?
+tt24554982	directors	César González
+tt24554982	writers	César González
+tt2474932	title	Despite the Falling Snow
+tt2474932	directors	Shamim Sarif
+tt2474932	writers	Shamim Sarif
+tt2480376	title	The French Love Secret
+tt24855240	title	Nos utopies communautaires
+tt24855240	directors	Pierre-Yves Borgeaud
+tt24855240	writers	Pierre-Yves Borgeaud
+tt2511728	title	Utsukushiki Inori
+tt2511728	directors	Yoshinobu Ikeda
+tt2511728	writers	Hirotaka Furuta (original story); Hirotaka Furuta (script)
+tt2517764	title	Toma de Razón
+tt2517764	directors	Andrés Aros
+tt2522054	title	Te ji qing yuan
+tt2522054	directors	Shu-Wai Yuen
+tt2522054	writers	Sau-Yan Chan; Shu-Wai Yuen
+tt2531084	title	The Holy Sound
+tt2531084	directors	Nicholas Wagner
+tt2531084	writers	Nicholas Wagner
+tt25407180	title	Rasti Rostelli, the Show Must Go On
+tt25407180	directors	Manon Hoornstra
+tt25435238	title	Ya, Che Gevara. Istoriya, rasskazannaya ot pervogo litsa
+tt25435238	directors	Vyacheslav Krasko
+tt25435238	writers	Vyacheslav Krasko
+tt25504248	title	On the Trail of the Lake Michigan Mothman
+tt25504248	directors	Seth Breedlove
+tt25504248	writers	Seth Breedlove; Heather Moser
+tt2577862	title	Déjà Vu
+tt2577862	directors	Dan Chisu
+tt2577862	writers	Dan Chisu
+tt2579454	title	Orson's Last Dance
+tt2579454	directors	J.D. Mata
+tt2579454	writers	J.D. Mata
+tt2581390	title	Surrender
+tt2581390	directors	Danny Rogers
+tt2581390	writers	Danny Rogers
+tt2590162	title	Gayak
+tt2590162	directors	Ronaldo Bertubin
+tt2590162	writers	Ronaldo Bertubin; Jerry Apolonio
+tt25965930	title	Romina, VTM
+tt25965930	directors	Paul-Razvan Macovei
+tt25965930	writers	Radu Alexandru
+tt25967832	title	Zelenskyy: Spirit of Ukraine
+tt25967832	directors	Molly Mason
+tt25967832	writers	Molly Mason
+tt26367475	title	The runner South Africa
+tt26367475	directors	Patricia Almeida Alvis
+tt2639336	title	Greta
+tt2639336	directors	Neil Jordan
+tt2639336	writers	Ray Wright; Neil Jordan
+tt26397842	title	Laxmi chauhan the power of woman
+tt26397842	directors	Lakhan Choudhary
+tt26421126	title	Amityville Turkey Day
+tt26421126	directors	Will Collazo Jr.; Julie Anne Prescott
+tt26421126	writers	Will Collazo Jr.; Julie Anne Prescott; David Rodriguez
+tt26467978	title	Celestial Fire
+tt26467978	writers	David Adam; Dave Bainbridge; David Lyon
+tt2650182	title	Estranged
+tt2650182	directors	Daniel Jenkins
+tt2650182	writers	Daniel Jenkins; Sean Erik Riley
+tt26625455	title	Re-Resonator: Looking Back at from Beyond
+tt26687372	title	Agwah
+tt26687372	directors	Guru Bhardwaj; Ravi Pandit
+tt26687372	writers	Guru Bhardwaj
+tt26689494	title	Crown
+tt26689494	directors	Tamecca S. Rogers
+tt26745680	title	Motherland
+tt26745680	directors	Hanna Badziaka; Alexander Mihalkovich
+tt2678350	title	That Thing with the Cat
+tt2678350	directors	Neil Turitz; Dante Pizzinnini
+tt2678350	writers	Dante Pizzinnini; Neil Turitz
+tt2700916	title	Star Trek I: Specter of the Past
+tt2700916	directors	Brandon M. Bridges
+tt2700916	writers	Brandon M. Bridges; John Leo Ivor
+tt27047221	title	Samakatuwid
+tt27047221	directors	Jeremiah Palma
+tt27047221	writers	Rodolfo Misajon Manuel
+tt27053104	title	Tell Me Why You're Going to Hell
+tt27053104	directors	Jeff Stacy
+tt27053104	writers	Jeff Stacy
+tt27169915	title	A Wakefulness of Indocility: Vol. 1
+tt27169915	directors	Laura Maria Isabel Ruiz Ocadiz
+tt27169915	writers	Laura Maria Isabel Ruiz Ocadiz
+tt27170131	title	Miji-wang
+tt27170131	directors	Yong-tae Kim
+tt27170131	writers	Yong-tae Kim
+tt27205497	title	1983 Movie
+tt27205497	directors	Brandon Smith
+tt27205497	writers	Jesse Kidd; Brandon Smith
+tt27205884	title	Risate all'italiana
+tt27205884	directors	Camillo Mastrocinque
+tt27205884	writers	Suso Cecchi D'Amico
+tt2723240	title	Age of Cannibals
+tt2723240	directors	Johannes Naber
+tt2723240	writers	Stefan Weigl
+tt2734860	title	Silence
+tt2734860	directors	Ahanj MohammadReza
+tt2739792	title	Watch Phoenix Rise
+tt2739792	directors	Ramasses Head
+tt2739792	writers	Damon A. Hart
+tt27436539	title	Má Sài Gòn (Mother Saigon)
+tt27436539	directors	Khoa Lê
+tt27436539	writers	Jonathan Bernier; Khoa Lê
+tt27494630	title	Kotee
+tt27494630	directors	Param
+tt27494630	writers	Param
+tt2751110	title	Undefeated: The Chucky Mullins Story
+tt2751110	directors	Micah Ginn
+tt2751110	writers	Micah Ginn; Matthew Nothelfer
+tt27525181	title	Stsenariy dlya Gollivuda
+tt27525181	directors	Ibragim Ursanov
+tt27530746	title	The Aegean
+tt27530746	directors	Jacob Richardson
+tt27530746	writers	Jacob Richardson
+tt27532999	title	Verso da Fala
+tt27532999	directors	Carlos T. Lopes; Maria Adriana Ventura
+tt27534354	title	Location
+tt2759068	title	Sacked
+tt2759068	directors	Dave Sangwan
+tt2759068	writers	Dave Sangwan
+tt27819521	title	Camp Break 2
+tt27819521	directors	Hamed Kolahdari
+tt27823808	title	The Cape
+tt27823808	directors	Justine A. Rosenthal; Michael Ware
+tt27823808	writers	Justine A. Rosenthal; Michael Ware
+tt27847950	title	Riding on Faith
+tt27847950	directors	Jason Weary
+tt27847950	writers	Camara Davis
+tt27859071	title	Whispers of a Storm
+tt27859071	directors	Amartya Bhattacharyya
+tt27859071	writers	Amartya Bhattacharyya
+tt27867585	title	Silahlar Susacak
+tt27867585	directors	Feridun Kete
+tt27867585	writers	Feridun Kete
+tt27996535	title	To Speak Her Mind
+tt27996535	directors	Raz BDV; Atefeh Kheirabadi; Sophie King
+tt27996535	writers	Raz BDV; Atefeh Kheirabadi; Carla Villa Lobos
+tt2802108	title	Red Santa Down
+tt2802108	directors	Flo Lackner
+tt2802108	writers	Flo Lackner; Jennifer Rezny
+tt28025623	title	La odisea de los Andes
+tt28025623	directors	Álvaro J. Covacevich
+tt28025623	writers	Mario Vargas Llosa
+tt2802610	title	Zombie Horror Fright Fest!
+tt2802610	directors	O.H. Krill
+tt28144594	title	Titanic Secrets
+tt28144594	directors	Rachel Tesler
+tt28144594	writers	Rachel Tesler
+tt28234820	title	Trojans
+tt28234820	writers	Natasha Cloud; Angel McCoughtry; Titeänyä Rodríguez
+tt28252889	title	Procès Mbako, Anioto Homme Léopard Mythe et Réalité
+tt28252889	directors	Kibushi Ndjate Wooto
+tt28252889	writers	Kibushi Ndjate Wooto
+tt28258332	title	Article 20
+tt28258332	directors	Yimou Zhang
+tt28258332	writers	Meng Li; Tianyi Wang
+tt28275773	title	MnogoDeDnyj
+tt28275773	directors	Zheniskhan Momyshev
+tt28445113	title	The Joexian Mercado Movie: Back to Roblox
+tt28445113	directors	Joexian Mercado
+tt28445113	writers	Joexian Mercado
+tt2846890	title	Glauser
+tt2846890	directors	Christoph Kühn
+tt2846890	writers	Christoph Kühn
+tt2848900	title	The Last American Roadhouse
+tt2848900	directors	Spencer Adams
+tt2848900	writers	Spencer Adams
+tt2857720	title	A Bulldog for Christmas
+tt2857720	directors	Henrique Couto
+tt2857720	writers	Henrique Couto
+tt28624448	title	V strane vechnyh l'dov
+tt28624448	directors	V. Eshurin
+tt28624448	writers	Boris Agapov
+tt28642082	title	Peter Kennedy and Mike Parr: Video Tapes
+tt28642082	directors	Peter Kennedy; Mike Parr
+tt28642082	writers	Mike Parr
+tt28665035	title	Bite Sized Theater
+tt28665035	directors	Marcus Wallace
+tt28665035	writers	Marcus Wallace
+tt28678342	title	Night Walk
+tt28678342	directors	Sohn Koo-Yong
+tt28688160	title	Untitled: The Noah Lyles Project
+tt28688160	directors	Scott Boggins
+tt28695995	title	Parole Money 2: Federal
+tt28695995	directors	Michael Baker
+tt28695995	writers	Michael Baker
+tt28750562	title	Ziddi Mama
+tt28750562	directors	Shahadat Hossain Liton
+tt28750562	writers	Abdullah Zahir Babu; Shahadat Hossain Liton
+tt28775000	title	Jake and Joyce
+tt28775000	directors	Kingsley Iweru
+tt28775000	writers	Nonso Akaenyi
+tt28775647	title	Tsuma koitôge
+tt28775647	directors	Kiyohito Seki
+tt28775647	writers	Takeo Matsuura
+tt28941401	title	Aliens and the Ancient World
+tt28941401	directors	Brien Foerster
+tt2908928	title	Honban maruhi fûfu seikatsu
+tt2908928	directors	Yutaka Ikejima
+tt2908928	writers	Kyôko Godai
+tt29119792	title	Macken Fest - The Documentary
+tt29119792	directors	Johan Bååth; Andrés Furukawa
+tt29268579	title	Car Show
+tt29268579	directors	Demaris Harvey
+tt29268579	writers	Jillian Holt; Dani Renee
+tt29418745	title	The New Guard: Mikey Musumeci
+tt29427069	title	Berkeye Khamoosh
+tt29427069	directors	Bahador Zamani
+tt29428272	title	Majoone Jadooyi
+tt29428272	directors	Ali Halavi
+tt29548985	title	Abduction Chronicles
+tt29548985	directors	Jacquelynn Wolfheart
+tt29548985	writers	Brian Dijols; Nik Macik; Eric Newcombe
+tt2960600	title	Like a Country Song
+tt2960600	directors	Johnny Remo
+tt2960600	writers	Daniel Backman; Alexis Ebert; Tammy Hyler
+tt29668971	title	Ithiri Neram
+tt29728906	title	Diabolisch
+tt29728906	directors	Tristan van Doorn
+tt29728906	writers	Tristan van Doorn
+tt2982066	title	Gangster Celop
+tt2982066	directors	Ahmad Idham
+tt2982066	writers	Ahmad Idham
+tt29954344	title	Back Up
+tt29954344	directors	Faruk Sokolovic
+tt3012508	title	Funeral Director: Making a Living Dealing with the Dead
+tt3012508	directors	Johnny Boston
+tt30150297	title	Vanity Upon Vanity
+tt30185741	title	Seeking Vision
+tt30185741	directors	Tarek McCarthy
+tt30228878	title	Infidèle
+tt30228878	directors	Jean Alix Holmand
+tt30228878	writers	Jean Alix Holmand
+tt30235974	title	Still Fabulous
+tt30235974	directors	Michela Andreozzi
+tt30235974	writers	Michela Andreozzi; Daniela Delle Foglie
+tt30261269	title	The Coldest Winter in New York City
+tt30261269	directors	Christopher Hall
+tt30261269	writers	Christopher Hall
+tt30331804	title	Liberate il Duce
+tt30331804	directors	Fabio Toncelli
+tt30460040	title	Vestindo Histórias
+tt30460040	directors	Icles Rodrigues
+tt30460040	writers	Icles Rodrigues
+tt30476206	title	Memoria
+tt30476206	directors	Günther Brandl
+tt30476206	writers	Günther Brandl
+tt3076696	title	Montreal Underground
+tt3076696	directors	Giuliano Bossa
+tt3076696	writers	Giuliano Bossa; Melanie Parent
+tt30781217	title	I Call Them Souls
+tt30781217	directors	Libia Stella Gómez
+tt30781217	writers	Julián Camilo Sánchez
+tt30811257	title	Attenborough's Journey
+tt30811257	directors	Oliver Twinch
+tt30869594	title	Slashercise
+tt30869594	directors	Ama Lea
+tt30869594	writers	Ama Lea
+tt30970776	title	Twisted Hearts
+tt30970776	directors	Michael A. Pinckney
+tt30970776	writers	Taylor Love
+tt3101360	title	Expatriate
+tt3101360	directors	Renato Lucas
+tt3101360	writers	Renato Lucas
+tt3118628	title	Bastardo
+tt3118628	directors	Néjib Belkadhi
+tt3118628	writers	Néjib Belkadhi; Nicolas Simonin
+tt31227538	title	Fast Break
+tt31227538	directors	Mike McLeod; Don Zavin
+tt31227538	writers	Don Zavin
+tt31250833	title	Lafran
+tt31250833	directors	Faozan Rizal
+tt31250833	writers	Oka Aurora; Jujur Prananto
+tt31315981	title	GrimTrax
+tt31315981	directors	Michael J. Nelson
+tt31315981	writers	Bill Corbett; Conor Lastowka; Kevin Murphy
+tt3137432	title	Tokyo Yamimushi Part I
+tt3137432	directors	Sakichi Sato
+tt3137432	writers	Yûki Honda; Sakichi Sato
+tt31461677	title	The Zoom Pandemic
+tt31461677	directors	Peter Coffin
+tt31461677	writers	Peter Coffin
+tt3146264	title	Agent 2000: Die Laksman
+tt3146264	directors	Stefan Nieuwoudt
+tt3146264	writers	Hydie Loots
+tt31530596	title	Snow White and the Seven Samurai
+tt31530596	directors	Michael Su
+tt31530596	writers	Marc Gottlieb; Jacob David Smith
+tt3159590	title	Yes, I Do!
+tt3159590	directors	Tony Cayado
+tt3159590	writers	Emmanuel H. Borlaza
+tt3165210	title	Darcy
+tt3165210	directors	Heidi Philipsen; Jon Russell Cring
+tt3165210	writers	Jon Russell Cring; Tracy Nichole Cring
+tt31795947	title	Zombie Zone 82
+tt31795947	directors	Sterling Johnston
+tt31795947	writers	Sterling Johnston
+tt31797357	title	Dope Boyz
+tt31797357	directors	Doonworth
+tt31797357	writers	Doonworth
+tt3181098	title	Sama'an Ashrawi's All-Star Tribute to U.G.K.
+tt3181098	directors	Sama'an Ashrawi
+tt3181098	writers	Sama'an Ashrawi
+tt31840715	title	Little Pet
+tt31840715	directors	Alex Gruenenfelder
+tt32055882	title	Burner
+tt32055882	directors	Robert Orr
+tt32055882	writers	Robert Orr
+tt32056002	title	Sabhuku Vharazipi 2
+tt32056002	directors	David Dzatsunga
+tt32056002	writers	David Dzatsunga
+tt3214416	title	Informed Annihilation
+tt3214416	directors	John Clements
+tt3214416	writers	John Clements
+tt32230042	title	Bitter Pill
+tt32230042	directors	Ben Mahaka
+tt32230042	writers	Joe Njagu
+tt32253253	title	Unglorified
+tt32253253	directors	Raheem Roher
+tt32253253	writers	Raheem Roher
+tt3228096	title	A Woman Is a Woman
+tt3228096	directors	Henry Barakat
+tt32306046	title	La Femme cachée
+tt32306046	directors	Bachir Bensaddek
+tt32306046	writers	Maria Camila Arias; Bachir Bensaddek
+tt32351535	title	Pink Floyd: The Dark Side of the Moon
+tt32351535	directors	Graham McTavish
+tt32386450	title	De Cara
+tt32386450	directors	Elena De Urda; Rafa Teruel
+tt32386450	writers	Rafa Teruel; Aitor Martínez; Óscar Cabrera
+tt32439503	title	Zindgi Tere Naa
+tt32439503	directors	Mr. Pretty
+tt32439503	writers	Simipreet Kaur
+tt3245986	title	Neighborhood Man's Widow
+tt3245986	directors	Henry Barakat
+tt3249810	title	Cesar Millan: The Real Story
+tt3249810	directors	Doug Shultz
+tt3249810	writers	Erica Sashin; Doug Shultz
+tt32525026	title	Naale Rajaa Koli Majaa
+tt32525026	directors	Abhilash Shetty
+tt32525026	writers	Abhilash Shetty
+tt32534879	title	Weekend in familie
+tt32534879	directors	Mihnea Toma
+tt32534879	writers	Mihnea Toma
+tt32552126	title	Alf Bosah wa Bosah
+tt32552126	directors	Mohamed Abdelaziz
+tt32552126	writers	Ali El Zorkani; Mohamed Mostafa Sami
+tt3257072	title	Fish & Cat
+tt3257072	directors	Shahram Mokri
+tt3257072	writers	Nasim Ahmadpour; Shahram Mokri
+tt32619284	title	Edoardo
+tt32619284	directors	Siavash Sarmadi
+tt32619284	writers	Siavash Sarmadi
+tt32638930	title	Rapacity
+tt32638930	directors	Lanre Afod; Samson Bamidele
+tt32657611	title	Anaïs, 2 chapitres
+tt32657611	directors	Marion Gervais
+tt32857098	title	Karki
+tt32857098	directors	Pavithran
+tt32897959	title	Wuthering Heights
+tt32897959	directors	Emerald Fennell
+tt32897959	writers	Emily Brontë; Emerald Fennell
+tt32912054	title	The Love Script
+tt33089694	title	Nazo Kowa 22
+tt33089694	directors	Yu Mishima
+tt33130645	title	The Streak
+tt33130645	directors	Kelyn Ikegami
+tt33268513	title	La Falla
+tt33268513	directors	Alana Simoes
+tt33268513	writers	Alana Simoes
+tt33307005	title	Unknown Caller
+tt33307005	directors	Thomas Sahagun
+tt33307005	writers	Thomas Sahagun
+tt3332968	title	Ninjutsu sekigahara: Sarutobi Sasuke
+tt3332968	directors	Kazuo Mori
+tt3332968	writers	Yoshikata Yoda
+tt33384837	title	Therku Theru Machan
+tt33384837	directors	Manivannan
+tt33396612	title	Sous écrous
+tt33396612	directors	Hakim Bougheraba
+tt33396612	writers	Ali Bougheraba; Hakim Bougheraba; Ichem Bougheraba
+tt33397286	title	Fata
+tt33397286	directors	Maxmore Adebayo Bakare
+tt33397286	writers	Chimdinma Ebere
+tt33484595	title	Alberta Number One
+tt33484595	directors	Alexander Carson
+tt3348972	title	Championship Sambo
+tt33501737	title	El Baúl de Mario
+tt33501737	directors	Felipe Arellano
+tt33558791	title	Settlement
+tt33558791	directors	Dinesh Shahdeo
+tt33558791	writers	Dinesh Shahdeo
+tt33624148	title	Lady Wisdom
+tt33624148	directors	Charles Todman
+tt33624148	writers	Marilyn Todman
+tt33886437	title	Amandla
+tt3396080	title	Diary Of an Overly Reactive Middle Aged Teenager
+tt3396080	directors	Prashant Sehgal
+tt3396080	writers	Sakshi Oberoi Bahadur
+tt3410834	title	The Divergent Series: Allegiant
+tt3410834	directors	Robert Schwentke
+tt3410834	writers	Noah Oppenheim; Adam Cooper; Bill Collage
+tt3416664	title	Poe
+tt3416664	writers	C.C. Long
+tt3419394	title	Dead Souls
+tt3419394	directors	Shane O'Connor(co-director); Patrick Peloquin(co-director)
+tt3419394	writers	Katie Kaniewski; Shane O'Connor; Patrick Peloquin
+tt3426066	title	Veettukoru Pillai
+tt3426066	directors	Kanagashanmugam
+tt3432888	title	Death Sentence in Indonesia
+tt3432888	directors	Fender Dickinson
+tt3432888	writers	Fender Dickinson
+tt34383795	title	Wallace Peebles Paranormal Inspectre
+tt34388850	title	Vanchana
+tt34388850	directors	Umamahesh Marpu
+tt34388850	writers	Umamahesh Marpu
+tt34490115	title	Hidden Face
+tt34490115	directors	Kim Dae-woo
+tt34490115	writers	Andrés Baiz; Hong Eun-mi; Arturo Infante
+tt34515348	title	I captain
+tt34515348	writers	Mehrdad Naeimi
+tt3451578	title	Rashichakra: Vrushchick
+tt3451578	directors	Sharad Upadhye
+tt3451578	writers	Sharad Upadhye
+tt3453580	title	Tape_13
+tt3453580	directors	Axel Stein
+tt3453580	writers	Jan-Oliver Lampe; Axel Stein; Thomas Landenberger
+tt34606028	title	Tukar Takdir
+tt34606028	directors	Mouly Surya
+tt34606028	writers	Valiant Budi; Mouly Surya
+tt3465276	title	Voyeur
+tt3465276	directors	Marc Recuenco
+tt3465276	writers	Marc Recuenco
+tt34773049	title	Shehanshah
+tt34773049	directors	Altaf Hussain
+tt34773049	writers	Faisal Bashir; Bashir Niaz
+tt34861354	title	Milkshake Treats
+tt3490492	title	Yidai Minghua Hua Yinghen
+tt3490492	directors	Nam Hoi Sap-Sam Long; Toi Wong
+tt34908194	title	Aliw Awards
+tt3494492	title	Berlin
+tt3494492	writers	Osman Ali
+tt34956223	title	Kiken na love letter
+tt34956223	directors	Kunio Matoi
+tt34956223	writers	Sakae Motomochi; Shigeo Yasuda
+tt35050083	title	Operation White Elephant
+tt35050083	directors	Matthew Evans
+tt35050083	writers	Matthew Evans; Seriah Getty-Evans
+tt35077049	title	Dream Hunter
+tt35077049	directors	Ting Guan; Lin Li
+tt35077049	writers	Li Da; Ting Guan; Geda Zhangdan
+tt35081046	title	Delhi Ke Lounde
+tt35081046	directors	Gourav Barot
+tt35125868	title	Aldiyae
+tt35125868	directors	Mohamed Salman
+tt35125868	writers	Mohamed Salman; Fares Youwakim
+tt35227408	title	The Clashing Elements: Saviors of the Multiverse
+tt35227408	directors	Willem De Vos
+tt35227408	writers	Willem De Vos
+tt3524638	title	Focus on Infinity
+tt3524638	directors	Joerg Burger
+tt3524638	writers	Joerg Burger
+tt3526162	title	UnMosqued
+tt3526162	directors	Ahmed Eid
+tt3526162	writers	Ahmed Eid (story); Ahmed Eid
+tt3527502	title	She's the Best Thing in It
+tt3527502	directors	Ron Nyswaner
+tt35299232	title	El Mundo Al Revés
+tt35299232	directors	Agostina Di Luciano; Leon Schwitter
+tt35299232	writers	Agostina Di Luciano; Leon Schwitter
+tt35376430	title	The Bloodsummer Diary
+tt35376430	directors	Mark Howitt
+tt35376430	writers	Mark Howitt
+tt3546930	title	Teacher's Kid
+tt3546930	directors	James Kicklighter
+tt3546930	writers	James Kicklighter
+tt3549216	title	The Patchwork Film II: Four Silent Films
+tt3549216	directors	Jason Day-Boisvert
+tt3549216	writers	Jason Day-Boisvert
+tt35518410	title	Dridam
+tt35518410	directors	Martin Joseph
+tt35518410	writers	Linto Devasia; Jomon John
+tt3552184	title	In 24Hours
+tt3552184	directors	Lando Jackson
+tt3552184	writers	Lando Jackson
+tt35522895	title	Eponymous
+tt35522895	directors	Caroline Rumley
+tt35522895	writers	Caroline Rumley
+tt35635316	title	The Hanging Judge
+tt35635316	directors	Gary Whitson
+tt35705588	title	Machine de rêve
+tt35705588	directors	Bruno Boulianne
+tt3580178	title	La silhouette del tempo vista da Piero Tosi
+tt3580178	directors	Milena Canonero; Francesco Zippel
+tt3580178	writers	Milena Canonero; Francesco Zippel
+tt35855067	title	Facing the Sun
+tt35855067	directors	Claude Whatham
+tt35872445	title	Sex in the Soviet Union
+tt35872445	directors	Chad Gracia
+tt35890119	title	The Stones Are Speaking
+tt35890119	directors	Olive Talley
+tt35890119	writers	Olive Talley
+tt3589352	title	Cassanova Was a Woman
+tt3589352	directors	Kevin Arbouet
+tt3589352	writers	Jezabel Montero
+tt35933226	title	Point of Theft
+tt35933226	directors	I.C. Ukah
+tt35933226	writers	Sunny Okonkwo
+tt3595596	title	Carpe Diem
+tt3595596	directors	Jude Gerard Prest
+tt3595596	writers	Robert Amico
+tt3596302	title	300 Souls
+tt3596302	directors	Aline Dalbis; Emmanuel Gras
+tt3596302	writers	Aline Dalbis; Emmanuel Gras
+tt3601480	title	Abandoned
+tt3601480	directors	Christian McKenna
+tt3601480	writers	Christian McKenna
+tt36056679	title	Pou einai?
+tt36056679	directors	Nikos Aslanidis
+tt36056679	writers	Nikos Aslanidis
+tt3607036	title	Salsa Giants
+tt3607036	directors	Pablo Croce
+tt3607036	writers	Ari M. Cruz; Gregory Elias
+tt3607360	title	The Competition
+tt3607360	directors	Simon Weaving
+tt3607360	writers	Simon Weaving
+tt3633160	title	Forest Brothers
+tt3633160	directors	Peter Grimm
+tt3633160	writers	Peter Grimm
+tt3633168	title	Ashwa: The Black Horse
+tt3633168	directors	Shyam Ranjankar
+tt36364921	title	American Leviathan
+tt36364921	directors	Jason Rink
+tt3638772	title	Halloween One Good Scare
+tt3638772	directors	David Hastings
+tt3638772	writers	David Hastings (adaptation)
+tt36434880	title	Sve Simine tambure
+tt36434880	directors	Kruno Tomasevic
+tt36434880	writers	Kruno Tomasevic
+tt36470284	title	Walking on Ice
+tt36470284	directors	Dru Solberg
+tt36542428	title	Neela Mudi (Blue Hair)
+tt36542428	directors	Sarath Kumar
+tt36542428	writers	Sarath Kumar; Sreenath T V
+tt36591568	title	It's Dorothy!
+tt36591568	directors	Jeffrey McHale
+tt36591568	writers	Jeffrey McHale
+tt36695572	title	Wild
+tt36695572	directors	Omar Deroca
+tt3670708	title	Born in the U.S.A.
+tt3670708	directors	Marcia Jarmel; Ken Schneider
+tt3670708	writers	Marcia Jarmel
+tt3671736	title	La nature d'Antoine
+tt3671736	directors	Frederika Sonza
+tt3671736	writers	Frederika Sonza
+tt36842138	title	An Earl E. Christmas
+tt36842138	directors	Durden Godfrey
+tt36857113	title	Yves le Blevec, le Reve Ultim
+tt36916983	title	Situationship
+tt36916983	directors	Jade Winters
+tt36916983	writers	Jade Winters
+tt36954159	title	World Enforcement Team
+tt36954159	directors	Nicholas Sturghill
+tt36954159	writers	Nicholas Sturghill
+tt36997435	title	Andhi Mohabbat
+tt36997435	directors	Sibtain Fazli
+tt36997435	writers	Sibtain Fazli
+tt3717196	title	Rio Grande
+tt3717196	directors	Samantha Candice
+tt3717196	writers	Samantha Candice
+tt3739558	title	The Price
+tt3739558	directors	Kim Hughes
+tt3739558	writers	Kim Hughes
+tt37433954	title	¿Cuánto vale tu cuerpo 2?
+tt37433954	directors	Antonio Herrera
+tt3743974	title	Dot 2 Dot
+tt3743974	directors	Amos Why
+tt3743974	writers	Amos Why
+tt3744098	title	Naku Penta Naku Taka
+tt3744098	directors	Vayalar Madhavan
+tt3744098	writers	Jayamohan
+tt37455950	title	Phoenix Fire
+tt37455950	directors	Kevin Salfen
+tt37455950	writers	Kevin Salfen
+tt3747084	title	31 Dream Street
+tt3747084	writers	Michael John Bell (earlier script); Jessica O'Toole; Amy Rardin; Kirsten Smith
+tt37517061	title	Yo Bro the Movie
+tt3755324	title	Niku no Eiko
+tt3755324	directors	Osamu Wakayama
+tt37616735	title	Your Love Is Like the Sea: Per una generazione di americani
+tt37616735	directors	Gianni Amico
+tt37644997	title	Shaqa w Million Moftah
+tt3772414	title	Unlimited Tamaashaa
+tt3772414	directors	Sridhar Kallidai
+tt3772414	writers	Sridhar Kallidai; Ashfaaq Khan; Ayub Sheikh Khan
+tt3775840	title	Billy Morgan's Revolution in Cuba
+tt3775840	directors	Andrew Watson
+tt3775840	writers	Andrew Watson
+tt3776216	title	Buenas Noches
+tt3776216	directors	Michael Lee-Chin
+tt3776216	writers	Michael Lee-Chin
+tt3784568	title	The Saharan Teacher
+tt3784568	directors	Nicolás Muñoz Avia
+tt37876227	title	Le sang et la rose
+tt37876227	directors	Cardy Cardelin Babakila
+tt37876227	writers	Cardy Cardelin Babakila
+tt3793788	title	The Escort
+tt3793788	directors	Will Slocombe
+tt3793788	writers	Michael Doneger; Brandon Cohen
+tt37962136	title	The People Upstairs
+tt37962136	directors	Ha Jung-woo
+tt37962136	writers	Seung-yeon Seon
+tt37986584	title	Awiigbo
+tt37986584	directors	Saheed Bolaji
+tt3815424	title	3000 Nights
+tt3815424	directors	Mai Masri
+tt3815424	writers	Mai Masri
+tt3815704	title	Ograblenie po-kazakh$ki
+tt3815704	directors	Kairzhan Orynbekov
+tt3815704	writers	Fuad Ibragimbekov
+tt38518474	title	When will you get divorced?
+tt38518474	directors	Oleksii Komarovskyi
+tt3856092	title	No Greater Love
+tt3856092	directors	Don Ross
+tt3856092	writers	Valente Hernandez; Bill Myers
+tt3856142	title	Clippings
+tt3856142	directors	Mihalis Ginos; Spyros Papathomopoulos
+tt3856142	writers	Mihalis Ginos; Spyros Papathomopoulos
+tt38593367	title	A Fighting Legacy
+tt38593367	directors	Adam Wagner
+tt38716253	title	E Re'ah Fahu
+tt38716253	directors	Ahmed Nimal
+tt38716253	writers	Mohamed Aboobakuru
+tt38774805	title	David Delfín. Muestra tu herida
+tt38774805	writers	Ángela Gallardo; Rafael Muñoz; César Vallejo
+tt38787149	title	Girl in a Towel
+tt38787149	directors	Evan Snyder
+tt38907227	title	Keluarga Suami Adalah Hama
+tt38907227	directors	Anggy Umbara
+tt38907227	writers	Ardianto Agung; Dewi Fita; Aditya Santana
+tt3892880	title	Police in Pollywood
+tt3892880	directors	Sunita Dhir
+tt3892880	writers	Parveen Kumar
+tt3894558	title	Joker's Poltergeist
+tt3894558	directors	Christopher S. Lind
+tt3894558	writers	Ken Del Vecchio; Dylan Bank
+tt39092575	title	Muhurtha Naal
+tt39092575	directors	P. Madhavan
+tt39112666	title	The Gaze
+tt39112666	directors	Mobarez Javanmard
+tt39130951	title	Yaarra Antha Paiyan Naanthan Antha Paiyan
+tt39130951	directors	Paul Raj
+tt3915054	title	Gekijouban Yuuto kun ga iku
+tt3918184	title	Blackout
+tt3918184	directors	Tim Munson
+tt3918184	writers	Hilliard Guess; Tim Munson
+tt39242750	title	Iran 100m
+tt39242750	directors	Arsalan Asif
+tt39300469	title	Não Quero Te Perder
+tt39300469	directors	Marcelo Zambelli
+tt39302002	title	World Champion Masters Volume 1
+tt39302002	directors	Rock Parsons
+tt39302478	title	Les fantômes de la guerre de Corée
+tt39302478	directors	Serge Tignères
+tt39310285	title	Les 100 Pas
+tt39310285	directors	Nora Wagner
+tt39377454	title	Jidenna
+tt39377454	directors	Ikechi Chima Obasi
+tt39389870	title	New Home
+tt39389870	directors	Mike Macera
+tt39510102	title	Mad Dance Office
+tt3952246	title	ST: Aka to Shiro no Sôsa File the Movie
+tt3952246	directors	Tôya Satô
+tt3961904	title	Olga Lounová: Optický klam DVD
+tt3961904	directors	Martin Linhart; Olga Lounová
+tt39655938	title	The Dads
+tt39655938	directors	Luchina Fisher
+tt3975174	title	The Weight of Salt
+tt3975174	directors	Margaret Bong
+tt39762573	title	El cóndor y la niebla
+tt39762573	directors	Maximiliano González
+tt3982854	title	Song of My Mother
+tt3982854	directors	Erol Mintas
+tt3982854	writers	Erol Mintas
+tt39830442	title	Al Mohtarefon
+tt39830442	directors	Youssef Charafeddine
+tt3985328	title	Allan, a Man at the Age of Christ
+tt3985328	directors	Arko Okk
+tt3985328	writers	Arko Okk
+tt40018110	title	Koiyamahiko
+tt40018110	directors	Masahiro Makino
+tt40018110	writers	Yoshitake Hisa; Eiji Yoshikawa
+tt4028220	title	l'Odissea
+tt4028220	directors	Xavier Puigmarti
+tt4028220	writers	Manuel Forcano; Xavier Puigmarti
+tt4029780	title	Albert Karvonen: Philosophies on Life, Nature and Wildlife Filmmaking
+tt4029780	directors	Ava Karvonen
+tt4029780	writers	Ava Karvonen
+tt4034236	title	The Century Club
+tt4034236	directors	Joshua Rivera
+tt4034236	writers	Joshua Rivera
+tt4046392	title	Last Stop
+tt4046392	directors	Julie Shles
+tt4046392	writers	Sharon Elovic; Julie Shles
+tt40647489	title	Backwoods Blood Feud
+tt40647489	directors	J. Horton
+tt40647489	writers	J. Horton
+tt4077386	title	Sultan Sulayman
+tt4077386	directors	Kubanych Kurmanbekov
+tt4077386	writers	Emil Esenaliev; Kubanych Kurmanbekov; Ermek Talaibekov
+tt4086046	title	Kuzu to busu to gesu
+tt4086046	directors	Yôsuke Okuda
+tt4086046	writers	Yôsuke Okuda
+tt4092288	title	Hunt
+tt4092288	directors	Alex Roberts; Luke Hanson
+tt4092288	writers	Luke Hanson; Alex Roberts
+tt4104022	title	People Places Things
+tt4104022	directors	Jim Strouse
+tt4104022	writers	Jim Strouse
+tt4118740	title	9 KK Road
+tt4118740	directors	Simon Kuruvilla
+tt4118740	writers	Kaloor Dennis; C.K. Sasi
+tt4207014	title	Amante de lo ajeno
+tt4207014	directors	Luis Koellar
+tt4207014	writers	Sabina Berman; Luis Koellar; Alejandra Toussaint
+tt42421202	title	Kundan Satti
+tt42421202	directors	P.K. Aghasthi
+tt42705316	title	Rab to vaddi maa
+tt42705316	writers	MikaMajitha
+tt4289812	title	Kabbani
+tt4289812	directors	Bashar Shbib
+tt4289812	writers	Bashar Shbib
+tt4292420	title	Ville-Marie
+tt4292420	directors	Guy Édoin
+tt4292420	writers	Jean-Simon DesRochers; Guy Édoin
+tt4299302	title	The House
+tt4326814	title	Il ragazzo della Folgore
+tt4326814	directors	Claudio Costa
+tt4326814	writers	Lorenzo Ruffini (idea)
+tt4331290	title	La sonate des spectres
+tt4331290	directors	Ivan Heidsieck
+tt4331290	writers	Ivan Heidsieck
+tt4366200	title	Surrendered
+tt4366200	directors	Brett Divine
+tt4368388	title	The Vandals
+tt4368388	directors	Harry Knapp
+tt4368388	writers	Andrew Wallace Chamings
+tt4369136	title	Hide in the Light
+tt4369136	directors	Mikey McGregor
+tt4369136	writers	Mikey McGregor
+tt4381280	title	Broken Hearts for Sale
+tt4381280	directors	Shinji Aoyama; Hajime Hashimoto; Yukiko Mishima
+tt4381280	writers	Shinpei Yamazaki; Yukiko Mishima; Yûya Yamaguchi
+tt4419472	title	Trophy Husband
+tt4419472	directors	Nat Bennett; Sam Rosen
+tt4419472	writers	Nat Bennett; Sam Rosen
+tt4424560	title	The International Space Orchestra
+tt4424560	directors	Nelly Ben Hayoun
+tt4457716	title	Todo Incluido
+tt4457716	directors	Roberto Angel Salcedo
+tt4457716	writers	Roberto Angel Salcedo
+tt4457798	title	The Mongers
+tt4457798	directors	David K. Montoya
+tt4457798	writers	Eron S. Ilich (story); Rebecca C. Lofgren-Ilich (story); David K. Montoya (Sceenplay/Story)
+tt4466494	title	Everyday Heroes
+tt4466494	directors	Anne-Dauphine Julliand
+tt4468308	title	Furîda Kâro no ihin
+tt4468308	directors	Tadasuke Kotani
+tt4468308	writers	Tadasuke Kotani
+tt4474924	title	Pinches Actores
+tt4474924	directors	Guillaume Dufour; Jerome Dufour
+tt4474924	writers	Guillaume Dufour; Jerome Dufour
+tt4477428	title	Chemical Influence
+tt4477428	directors	Adrian Paul
+tt4477428	writers	Nathaniel Nose; Diana M. Pysher (story); Diana M. Pysher
+tt4529180	title	Don't Open the Box
+tt4529180	directors	Andy Dodd
+tt4529180	writers	Andy Dodd
+tt4541900	title	Friends of Rome
+tt4541900	directors	Gaba Michael Igereh Ado; Gaba Michael Igereh Ado
+tt4541900	writers	Gaba Michael Igereh Ado; Gaba Michael Igereh Ado
+tt4570910	title	Onna no ichinen
+tt4587834	title	City of Vultures
+tt4587834	directors	Marcus Carothers
+tt4587834	writers	Marcus Carothers
+tt4588982	title	Small Town Man
+tt4588982	directors	Andrew Napier
+tt4607708	title	A magyar bulletin
+tt4607708	directors	Gábor Ferenczi
+tt4610604	title	Passing Through
+tt4635920	title	Jacoozzi Jones: The Reindeer Whisperer
+tt4635920	writers	Robert Fleischmann (story); John Kraski (story); Robert Steinman (screenplay)
+tt4641882	title	Todd McFarlane's Spawn 3: The Ultimate Battle
+tt4641882	directors	Chuck Patton; Brad Rader; Mike Vosburg
+tt4662730	title	Every Good Boy Does Fine
+tt4662730	directors	Antti-Jussi Annila
+tt4662730	writers	Jonathan Dees
+tt4665926	title	Cut Out the Eyes
+tt4665926	directors	Tong Xu
+tt4683448	title	Kaale Gore
+tt4737564	title	Chihuly Fire and Light
+tt4737564	directors	Peter West
+tt4745762	title	American Bystander
+tt4745762	directors	Gabriel Dohrn
+tt4745762	writers	Gabriel Dohrn
+tt4761870	title	Ghostumentary
+tt4761870	directors	Bill Doty
+tt4761870	writers	Angela DeRisio; Bill Doty; Sean Small
+tt4777534	title	Cheeseheads: The Documentary
+tt4777534	directors	John Mitchell
+tt4777534	writers	John Mitchell
+tt4788320	title	Original Copy
+tt4788320	directors	Georg Heinzen; Florian Heinzen-Ziob
+tt4788320	writers	Georg Heinzen; Florian Heinzen-Ziob
+tt4791252	title	Sino Ka, Madame X?
+tt4791252	directors	Ding M. De Jesus
+tt4791252	writers	Ding M. De Jesus
+tt4816366	title	Marty in Transit
+tt4816366	directors	Montetré
+tt4816366	writers	Montetré
+tt4830834	title	The Duchess of Doubt
+tt4830834	directors	George D. Baker
+tt4830834	writers	George D. Baker; John B. Clymer; Charles Logue
+tt4837126	title	Love Everlasting
+tt4837126	directors	Rob Diamond
+tt4837126	writers	Robert Conder; Rob Diamond; Landon Henneman
+tt4847546	title	Blood Feast
+tt4847546	directors	Marcel Walz
+tt4847546	writers	Philip Lilienschwarz; Marcel Walz
+tt4850638	title	The David Essex Story
+tt4850638	directors	Alan G. Parker
+tt4862468	title	A Chinese Odyssey: Part Three
+tt4862468	directors	Jeffrey Lau
+tt4862468	writers	Jeffrey Lau
+tt4866392	title	Bigfoot
+tt4866392	directors	Matt Sommerfield
+tt4866392	writers	Jerad Beckler; Matt Sommerfield
+tt4873338	title	Newist
+tt4873338	directors	Genco Gulan
+tt4873338	writers	Genco Gulan
+tt4884046	title	Little Private Henry
+tt4884046	writers	Brian Hillman; Marco Shalma
+tt4958742	title	Behind the Curtain of Night
+tt4958742	directors	Dalibor Stach
+tt4958742	writers	Dalibor Stach
+tt4965254	title	Descent Into Darkness
+tt4965254	directors	Rafaël Cherkaski
+tt4965254	writers	Quentin Boeton; Simon-Pierre Boireau; Rafaël Cherkaski
+tt4981904	title	Soyuq: Coldness
+tt4981904	directors	Bahman Ark; Bahram Ark
+tt4981904	writers	Bahman Ark; Bahram Ark; Ali Moslemi
+tt4981940	title	Sengoku jidai: Dai nihen
+tt4981940	directors	Kôroku Numata
+tt5029776	title	Rabbit School: Guardians of the Golden Egg
+tt5029776	directors	Ute von Münchow-Pohl
+tt5029776	writers	Katja Grübel; Dagmar Rehbinder; Fritz Koch-Gotha
+tt5069058	title	Candyflip
+tt5069058	directors	Shanawaz Nellikunnil
+tt5069058	writers	Ananyabrata Chakravorty; Shanawaz Nellikunnil; Valeriya Polyanychko
+tt5072466	title	Naked Beauty
+tt5072466	directors	Mario Schneider
+tt5072466	writers	Mario Schneider
+tt5097638	title	American Nightmare/American Dream
+tt5097638	directors	Diana M Devlin; Grace Zinnel
+tt5120944	title	Jesus Calderon: Maton
+tt5120944	directors	Leonardo L. Garcia
+tt5146068	title	All These Sleepless Nights
+tt5146068	directors	Michal Marczak
+tt5146068	writers	Michal Marczak; Katarzyna Szczerba
+tt5166224	title	The Pleasure Is Mine
+tt5166224	directors	Elisa Miller
+tt5166224	writers	Elisa Miller; Gabriela Vidal; Gabriela Vidal
+tt5175822	title	Umi suzume
+tt5175822	directors	Ken'ichi Ohmori
+tt5175822	writers	Ken'ichi Ohmori
+tt5219622	title	Robin Muir
+tt5223126	title	Nobody Home
+tt5223126	directors	Michal Bentovim
+tt5224814	title	Cartas de Amor são Ridículas
+tt5224814	writers	Alvarina Souza e Silva
+tt5270732	title	Submission
+tt5270732	directors	Jason Kilroe
+tt5270732	writers	Eric Bruce
+tt5287920	title	Elephant in the Dark
+tt5287920	directors	Nemat Haghighi; Abbas Rafei
+tt5287920	writers	Nemat Haghighi; Ghassem Hasheminejad (novel); Abbas Rafei
+tt5352034	title	Çagrilan
+tt5352034	directors	Hüseyin Eleman
+tt5352034	writers	Hüseyin Eleman; Yerkan Kahraman
+tt5455498	title	Nika
+tt5455498	directors	Slobodan Maksimovic
+tt5455498	writers	Slobodan Maksimovic; Matjaz Pikalo
+tt5464144	title	Tertium non datur
+tt5464144	directors	Serhiy Sotnychenko
+tt5497236	title	The Jonathan Fleming Project
+tt5527536	title	Dangerous Intersection
+tt5527536	directors	Virgil E. Hammond III
+tt5527536	writers	Virgil E. Hammond III
+tt5547576	title	Av
+tt5547576	directors	Melih Gülgen
+tt5547576	writers	Safa Önal
+tt5586480	title	Hababam Git Hababam Gel
+tt5586480	directors	Aram Gülyüz
+tt5586480	writers	Suavi Sualp
+tt5597246	title	The Cause and the Shadow
+tt5597246	directors	Tiago Afonso
+tt5609524	title	Signs of Humanity
+tt5609524	directors	Willie Baronet; Tim Chumley
+tt5611320	title	Shadow Unit
+tt5611320	writers	Robert Hickman; Steven Swadling
+tt5619968	title	Armenian Echoes Part Two
+tt5619968	directors	Hagop Goudsouzian
+tt5645172	title	CSNY: Fifty by Four
+tt5645172	directors	Elio Espana
+tt5645172	writers	Elio Espana
+tt5666450	title	Cast Party
+tt5666450	directors	Jon Pretnar
+tt5701120	title	Falling In/Out of Love
+tt5701120	directors	Dominic Bachy
+tt5701120	writers	Matthieu Chevallier
+tt5729538	title	Palanteeroo
+tt5729538	directors	Simon Stimberg
+tt5776398	title	Historias románticas (un poco) cabronas
+tt5776398	directors	Alejandro González Ygoa
+tt5776398	writers	Alejandro González Ygoa
+tt5783112	title	The Hunt
+tt5783112	directors	Lee Woo-cheol
+tt5783112	writers	Cheon Jin-woo
+tt5799362	title	Chouquette
+tt5799362	directors	Patrick Godeau
+tt5799362	writers	Natalie Carter; Emilie Frèche; Patrick Godeau
+tt5812528	title	Hidden Admiration
+tt5812528	directors	Rod Putnam; Brian Wellman
+tt5812528	writers	Rod Putnam; Brian Wellman
+tt5861520	title	Narcissus: An Ancient Roman Pantomime
+tt5861520	directors	Austin Tooley
+tt5861520	writers	Santino DeAngelo
+tt5886526	title	Hadaka no kifujin
+tt5886526	directors	Kaoru Umezawa
+tt5903082	title	Urban Rez
+tt5903082	directors	Larry T. Pourier
+tt5903082	writers	Lisa D. Olken
+tt5907820	title	The Wolf's Skin
+tt5907820	writers	Claire Rose Bernard
+tt5910248	title	Mistaken
+tt5910248	directors	Alfred Robbins
+tt5910248	writers	Alfred Robbins
+tt5955162	title	Secret from the Past
+tt5955162	directors	Rasit Görgülü
+tt5955162	writers	Rasit Görgülü
+tt5970588	title	I Swam Enguri
+tt5970588	directors	Anuna Bukia
+tt5975082	title	The Greed
+tt5975082	directors	Simon Rumley
+tt5975082	writers	Jeff Hoffman
+tt5985902	title	Il branco 3 - 12 ragazzi per me
+tt5985902	directors	Andy Casanova
+tt5985902	writers	Axel Ramirez
+tt6006666	title	My Suburban Stories
+tt6006666	directors	Yunus Ozan Korkut
+tt6018536	title	Michael Faust
+tt6018536	directors	G.P. Galle Jr.
+tt6018536	writers	G.P. Galle Jr.
+tt6044908	title	Seika sôdan: Kanzen naru hinin
+tt6044908	directors	Shinya Yamamoto
+tt6044908	writers	Ryôsuke Hara
+tt6055754	title	The Sun, the Sun Blinded Me
+tt6055754	directors	Anna Sasnal; Wilhelm Sasnal
+tt6055754	writers	Anna Sasnal; Wilhelm Sasnal
+tt6082562	title	Mikôka: No Jôji
+tt6082562	directors	Shinya Yamamoto
+tt6089642	title	Jongo Fever
+tt6089642	directors	Katia Lund; Lili Fialho; Kátia Lund
+tt6089642	writers	Lili Fialho; Eduardo Gripa; Kátia Lund
+tt6097252	title	Following Jimi
+tt6097252	directors	Areeb Hashmi
+tt6110470	title	Expérience Intègre
+tt6110470	directors	Gurwann Tran Van Gie
+tt6146716	title	Shehar Di Kudi
+tt6146716	directors	Jagdev Bhambri
+tt6146716	writers	Aziz Kashmiri
+tt6222646	title	Hetket
+tt6222646	directors	Sami Pöyry
+tt6222646	writers	Sami Pöyry; Jari Manninen; Saara Elina
+tt6259946	title	2 Cool 2 Be 4gotten
+tt6259946	directors	Petersen Vargas
+tt6259946	writers	Jason Paul Laxamana
+tt6269308	title	The Bellwether
+tt6269308	directors	Christopher Morrison
+tt6269308	writers	Christopher Morrison
+tt6281004	title	Office for Monument Construction
+tt6281004	directors	Karolina Bregula
+tt6281004	writers	Karolina Bregula
+tt6284474	title	Chowka
+tt6284474	directors	Tarun Sudhir
+tt6284474	writers	Udhay Pottipadu; Tarun Sudhir
+tt6374254	title	The Meme Machine: What Happens When the Internet Chooses You
+tt6374254	directors	Mat Hames
+tt6387506	title	Viulisti
+tt6387506	directors	Paavo Westerberg
+tt6387506	writers	Emmi Pesonen; Paavo Westerberg
+tt6430360	title	The Table
+tt6430360	directors	Jong-kwan Kim
+tt6430360	writers	Jong-kwan Kim
+tt6448598	title	My Friends
+tt6449604	title	Promachan Sao-Phansayong
+tt6449830	title	Historias De Vino, Singani Y Alcoba
+tt6449830	directors	Rodrigo Ayala Bluske
+tt6513042	title	Tina
+tt6513042	directors	Jan Mohammed
+tt6533312	title	Surfar é Coisa de Rico
+tt6533312	directors	Guga Sander
+tt6551244	title	Suryavamsam
+tt6551244	directors	Vikraman
+tt6551244	writers	Vikraman
+tt6567380	title	Pagadi Aattam
+tt6567380	directors	Ram K. Chandran
+tt6567380	writers	Ram K. Chandran
+tt6593532	title	Anina provizija
+tt6593532	directors	Igor Smid
+tt6593532	writers	Marcel Buh
+tt6602928	title	Únos
+tt6602928	directors	Mariana Cengel-Solcanská
+tt6602928	writers	Mariana Cengel-Solcanská
+tt6748958	title	Voyangkor Saat Din
+tt6748958	directors	Nur Hossain Bolai
+tt6748958	writers	Nur Hossain Bolai (story); Imrul Shahed (dialogue); Nur Hossain Bolai (screenplay)
+tt6750446	title	Pullakuttikaran
+tt6750446	directors	Parthiban Radhakrishnan
+tt6750446	writers	Parthiban Radhakrishnan
+tt6769964	title	If Only
+tt6769964	directors	Zilan Wang
+tt6769964	writers	Wen Yi
+tt6779742	title	The Battle for Gold
+tt6790422	title	The Genius and the Opera Singer
+tt6790422	directors	Vanessa Stockley
+tt6857956	title	Killing for the Prosecution
+tt6857956	directors	Masato Harada
+tt6857956	writers	Shusuke Shizukui; Masato Harada
+tt6885296	title	Chastnoe pionerskoe 3
+tt6885296	directors	Aleksandr Karpilovskiy
+tt6885296	writers	Aleksandr Karpilovskiy; Alla Maksimenko; Oleg Sirotkin
+tt6913400	title	Thicker Than Blood
+tt6913400	directors	Anthony Williams
+tt6913400	writers	Jess Carson; Anthony Williams
+tt6915088	title	Vennela 11/2
+tt6915088	directors	Vennela Kishore
+tt6953792	title	So Long
+tt6953792	directors	Caitlin Farrugia; Michael Jones
+tt6953792	writers	Caitlin Farrugia; Michael Jones
+tt6967702	title	Sabahoo Kidb
+tt6967702	directors	Muhammad al-Najjar
+tt6967702	writers	Ahmed Abdalla; Noha El Amroussi
+tt6974426	title	Be with Me
+tt6974426	directors	Bhrugesh Amin
+tt6974426	writers	Bhrugesh Amin; Misri Tahera
+tt7027678	title	Dhokebaj
+tt7027678	directors	R. Shivraj
+tt7038700	title	The First Four
+tt7038700	directors	César Gamiño
+tt7038700	writers	César Gamiño; Susie Lohse
+tt7124242	title	Nan
+tt7128054	title	Yakuzamono
+tt7128054	directors	Reinosuke Aku
+tt7135000	title	Ah Nerede Vah Nerede
+tt7135000	directors	Sirri Gültekin
+tt7135000	writers	Sirri Gültekin
+tt7201518	title	Beatbox and Winds: Nicos Diminakis
+tt7201518	directors	Gina Georgiadou
+tt7218578	title	The Transfer
+tt7218578	directors	Austin Ha
+tt7218578	writers	Megan Brewer; Abby Christenson
+tt7240014	title	Kalippaattakkaaran: Toy Maker
+tt7240014	directors	Sajas Rahman; Shinos Rahman
+tt7240014	writers	Sajas Rahman
+tt7257954	title	Love Sticks
+tt7257954	directors	Daniel Kemsley
+tt7257954	writers	Daniel Kemsley; Tobias M. Harris
+tt7261280	title	Still Trying
+tt7261280	directors	Rose Ftz
+tt7261280	writers	Rose Ftz
+tt7410810	title	We Are Desert Bus
+tt7410810	directors	Russ Pitts
+tt7410810	writers	Russ Pitts
+tt7479170	title	Heart of Stone
+tt7479170	directors	Guy Hasson
+tt7479170	writers	Guy Hasson
+tt7491724	title	Black Is Black
+tt7491724	directors	Alejandro López Riesgo; Fran Parra
+tt7491724	writers	Alejandro López Riesgo; Fran Parra
+tt7504214	title	AA BB KK
+tt7504214	directors	Ramkumar Shedge
+tt7504214	writers	Aba Gaikwad; Aaba Gayakwad
+tt7510166	title	Entanglement
+tt7510166	directors	Damon Jamal
+tt7510166	writers	James Flournoy; George Mcdonald
+tt7575082	title	Valan
+tt7575082	directors	Shiva Kumar Tripathi
+tt7575082	writers	Sanjeev K Rajat; Manasi Umanita
+tt7596874	title	Compulsion
+tt7596874	directors	Batan Silva
+tt7596874	writers	Monica Lee
+tt7601594	title	Iblis
+tt7601594	directors	Rohith V.S.
+tt7601594	writers	Sameer Abdul; Rohith V.S.
+tt7641040	title	Kâho wa nete matê
+tt7641040	directors	Arata Nezu
+tt7643116	title	Navasache Por
+tt7643116	directors	Girish Ghanekar
+tt7643116	writers	Girish Ghanekar
+tt7665644	title	A Casa dos Violinos
+tt7665644	directors	Carlos Oliveira; Pedro Pinheiro
+tt7665644	writers	Diana Albuquerque
+tt7699376	title	12 dias de mierda
+tt7699376	directors	Juan Antonio Anguita
+tt7699376	writers	Juan Antonio Anguita
+tt7743448	title	Durga Rani Singh
+tt7743448	directors	Sujoy Ghosh
+tt7745984	title	The Edge of Success
+tt7745984	directors	Kathryn Basiji; Liza Meak
+tt7745984	writers	Liza Meak
+tt7759626	title	Agent Mr. Chan
+tt7759626	directors	Jeff Cheung
+tt7759626	writers	Yin-Yu Lau; Si-Cheun Lee; Shi-Ran Liang
+tt7770200	title	O Manasa
+tt7770200	directors	Sahaja Rao
+tt7802124	title	The Pitts Circus Family
+tt7802124	directors	Ken Fanning
+tt7802124	writers	Toni Caradonna; Ken Fanning
+tt7810328	title	Jin yuan yang
+tt7810328	directors	Ren Ren; Yiheng Zhang
+tt7810328	writers	Yihua Fang
+tt7826026	title	Das letzte Loch ist der Mund
+tt7826026	directors	Klaus Erich Dietl
+tt7826026	writers	Klaus Erich Dietl
+tt7844606	title	The Memory of the 25th Hour
+tt7844606	directors	Sungeun Kim
+tt7858228	title	Bir Xalanin Sirri
+tt7858228	directors	Emil Guliev; Rovshan Agayev
+tt7874330	title	Triple Divide [Redacted]
+tt7874330	directors	Melissa A. Troutman; Joshua B. Pribanic(co-director)
+tt7874330	writers	Joshua B. Pribanic; Melissa A. Troutman
+tt7967600	title	Classical Period
+tt7967600	directors	Ted Fendt
+tt7967600	writers	Ted Fendt
+tt8005682	title	Paniolo O Hawai'i Cowboys of the Far West
+tt8005682	directors	Edgy Lee
+tt8005682	writers	Paul Berry; Edgy Lee
+tt8067252	title	Tabibito kokuhaku
+tt8067252	directors	Kin'nosuke Ide
+tt8109282	title	Bad Circumstances
+tt8109282	directors	Max Kestner
+tt8109282	writers	Max Kestner; Henrik Veileborg
+tt8193790	title	Deerskin
+tt8193790	directors	Quentin Dupieux
+tt8193790	writers	Quentin Dupieux
+tt8216718	title	Oedo no yamî
+tt8216718	directors	Hinro Kido
+tt8228538	title	Papi Chulo
+tt8228538	directors	John Butler
+tt8228538	writers	John Butler
+tt8268466	title	Twincredibles
+tt8268466	directors	Amanda Blue
+tt8302626	title	Pyaar Kaa Fundaa
+tt8302626	directors	Monazir Hasan
+tt8302626	writers	Varshaa Jain
+tt8334558	title	Nepal Quake: Terror on Everest
+tt8334558	directors	Alex Crutcher; Adam Fenn; Rik Hall
+tt8389410	title	Hope & Mike's Open Mic
+tt8389410	directors	Jet Ainsworth
+tt8391432	title	Staats-Sicherheiten
+tt8391432	directors	Clemens Bechtel
+tt8391432	writers	Lea Rosh
+tt8408364	title	River
+tt8408364	directors	Laurenzo Vergeynst
+tt8408364	writers	Dave Seré; Laurenzo Vergeynst
+tt8447014	title	The Assassination
+tt8447014	directors	Avi Weissblei
+tt8447014	writers	Avi Weissblei
+tt8482096	title	Santh Wahate Krishna Mai
+tt8482096	directors	Madhukar Pathak
+tt8482096	writers	G.D. Madgulkar
+tt8487990	title	The great Pilar
+tt8487990	directors	Leonardo Armas
+tt8531794	title	Everyday Is Alzheimer's the Final: Death Becomes Us
+tt8531794	directors	Yuka Sekiguchi
+tt8531794	writers	Yuka Sekiguchi
+tt8635054	title	Krut: The Himmaphan Warriors
+tt8635054	directors	Chaiporn Panichrutiwong
+tt8635054	writers	Wisit Sasanatieng
+tt8665738	title	Baran dar Aftab
+tt8665738	directors	Farshad Fereshteh-Hekmat
+tt8665738	writers	Farshad Fereshteh-Hekmat
+tt8689450	title	Poison
+tt8689450	directors	Bayo Alawiye
+tt8689450	writers	Joseph Jaiyeoba
+tt8707138	title	SATIR DEHATYAG
+tt8707138	directors	Manu Sen
+tt8791586	title	Chasing Tornado
+tt8791586	directors	Josefine Heimburger
+tt8806770	title	Mystery of Burma: Beyond The Dotehtawady
+tt8806770	directors	Arkar
+tt8806770	writers	Ye Naung
+tt8815382	title	The Obituary of Tunde Johnson
+tt8815382	directors	Ali LeRoi
+tt8815382	writers	Stanley Kalu
+tt8890550	title	Agni sakshiga (pelladandi)
+tt8890550	directors	R.R. Jarugula; Gopi Kiran
+tt8897072	title	City of Lost Slaves
+tt8897072	directors	Andreas Gutzeit
+tt8918864	title	Skemerson
+tt8918864	directors	Phillip Rademeyer
+tt8918864	writers	Pietie Beyers
+tt8927772	title	Shin'ya no nokemono
+tt8927772	directors	Fumihiro Ito
+tt9028124	title	Kôshoku chijo
+tt9028124	directors	Akitaka Kimata
+tt9057096	title	Sudhu Tomaree Pratiksha
+tt9057096	directors	Subir Pal Chowdhury
+tt9057096	writers	Narayan Chandra Das
+tt9061604	title	Three Women
+tt9061604	directors	Anthony Rizzo
+tt9061604	writers	Linda Tate
+tt9097740	title	Life & Life
+tt9097740	directors	N.C. Heikin
+tt9115550	title	Bayangan Cinta
+tt9115550	directors	Abdi Wiyono
+tt9121950	title	Die Ostfront: Vorwärts Kameraden, wir müssen zurück
+tt9121950	directors	Martin Thoma
+tt9121950	writers	Martin Thoma
+tt9129686	title	Days of Daisy
+tt9129686	directors	Alexander Jeffery
+tt9129686	writers	Jency Griffin Hogan; Alexander Jeffery; Paul Petersen
+tt9154164	title	Renate Bergmann: Besser als Busfahren - Live aus dem Stadttheater Brandenburg
+tt9154164	directors	Steven Siebert
+tt9213874	title	Breeder
+tt9213874	directors	Alex Goyette
+tt9213874	writers	Alex Goyette
+tt9223212	title	Evrensel Döngü: Yasam Agacina Yolculuk
+tt9223212	directors	Furkan Kopuz
+tt9223212	writers	Furkan Kopuz
+tt9250530	title	Shinpaî gomuyô
+tt9250530	directors	Kensaku Suzuki
+tt9273694	title	Matenro sôtohen
+tt9273694	directors	Minoru Murata
+tt9319884	title	Lakshmi's NTR
+tt9319884	directors	Agasthya Manju; Ram Gopal Varma
+tt9319884	writers	Narendra Chary; Ram Gopal Varma
+tt9364624	title	Psychedelhi
+tt9364624	directors	Surya Dash
+tt9365800	title	Slayers
+tt9365800	directors	K. Asher Levin
+tt9365800	writers	Zack Imbrogno; K. Asher Levin
+tt9385434	title	Rice and Boobs
+tt9385434	directors	Shin'ichirô Ueda
+tt9385434	writers	Shin'ichirô Ueda
+tt9403508	title	5B
+tt9403508	directors	Paul Haggis; Dan Krauss
+tt9415848	title	Somaliland: The Documentary
+tt9415848	directors	Mo Ali
+tt9419948	title	A Perfect Housewife
+tt9419948	directors	Jane Bibi
+tt9419948	writers	Jane Bibi
+tt9429444	title	Il gioco è fatto?
+tt9429444	directors	Francesco Franky Russo
+tt9429444	writers	Francesco Franky Russo; Maria Russo
+tt9438194	title	Hoken
+tt9438194	directors	Shiroku Nagao
+tt9569006	title	Breaking Point
+tt9569006	directors	Brian McDuffie
+tt9569006	writers	Rob George (script)
+tt9626568	title	Seifuku no bijo: Sex arubaito
+tt9626568	directors	Ichirô Kitami
+tt9649770	title	The Past
+tt9649770	directors	Mehdi Ghazanfari
+tt9743020	title	Beauty Lives in Freedom
+tt9743020	directors	Wang Bing
+tt9766862	title	Subybaya
+tt9766862	directors	Leo Pyrata
+tt9766862	writers	Ewerton Belico; Leo Pyrata
+tt9799044	title	Baggage
+tt9799044	directors	Roopa Rao
+tt9799044	writers	Roopa Rao
+tt9813978	title	Exodus
+tt9813978	directors	Bahman Kiarostami
+tt9865470	title	Jokôsei ijô
+tt9865470	directors	Satoru Kobayashi
+tt9878242	title	Shubharathri
+tt9878242	directors	Vyasan Edavanakkad
+tt9878242	writers	Vyasan Edavanakkad
+tt9903802	title	Dosage Volume I
+tt9903802	directors	Josh Lowell
