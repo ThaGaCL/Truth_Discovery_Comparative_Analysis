@@ -9,7 +9,7 @@ Para datasets de filmes:
 - objectIdentifier: tconst (identificador do filme)
 - propertyName: title, directors, writers
 - propertyValue: valor do atributo
-- sourceId: omdb ou wikidata
+- sourceId: tmdb ou wikidata
 """
 
 import csv
@@ -17,9 +17,9 @@ import os
 from pathlib import Path
 
 # Configurações
-DATASET_PATH = "../Datasets/joined/dataset_full.csv"
+DATASET_PATH = "../Datasets/normalized/normalized_dataset_full.csv"
 OUTPUT_DIR = "DAFNAData/formatted/movies/claims"
-TIMESTAMP = "2026-07-28"
+TIMESTAMP = "2026-08-03"
 DELIMITER = "\t"
 
 # IDs de claims - começar após o último ID de outros datasets
@@ -32,11 +32,23 @@ class MovieDatasetConverter:
         self.claim_id = CLAIM_ID_START
         
         # Criar writers para cada fonte
-        self.omdb_file = open(os.path.join(output_dir, "omdb.txt"), "w", encoding="utf-8")
+        self.tmdb_file = open(os.path.join(output_dir, "tmdb.txt"), "w", encoding="utf-8")
         self.wikidata_file = open(os.path.join(output_dir, "wikidata.txt"), "w", encoding="utf-8")
         
-        self.omdb_claims = 0
+        self.tmdb_claims = 0
         self.wikidata_claims = 0
+
+    def split_atomic_values(self, property_value):
+        """Divide valores multi-valorados em claims atômicas."""
+        if not property_value or property_value.strip() == "" or property_value == "\\N":
+            return []
+
+        values = []
+        for part in property_value.split(";"):
+            atomic_value = part.strip()
+            if atomic_value and atomic_value != "\\N":
+                values.append(atomic_value)
+        return values
     
     def write_claim(self, source_file, object_id, property_name, property_value, source_id):
         """Escreve uma claim no arquivo de claims."""
@@ -75,17 +87,19 @@ class MovieDatasetConverter:
                     if not tconst:
                         continue
                     
-                    # Processar claims OMDB
-                    omdb_title = row.get('omdb_title', '')
-                    omdb_directors = row.get('omdb_directors', '')
-                    omdb_writers = row.get('omdb_writers', '')
+                    # Processar claims tmdb
+                    tmdb_title = row.get('tmdb_title', '')
+                    tmdb_directors = row.get('tmdb_directors', '')
+                    tmdb_writers = row.get('tmdb_writers', '')
                     
-                    if self.write_claim(self.omdb_file, tconst, "title", omdb_title, "omdb"):
-                        self.omdb_claims += 1
-                    if self.write_claim(self.omdb_file, tconst, "directors", omdb_directors, "omdb"):
-                        self.omdb_claims += 1
-                    if self.write_claim(self.omdb_file, tconst, "writers", omdb_writers, "omdb"):
-                        self.omdb_claims += 1
+                    if self.write_claim(self.tmdb_file, tconst, "title", tmdb_title, "tmdb"):
+                        self.tmdb_claims += 1
+                    for director in self.split_atomic_values(tmdb_directors):
+                        if self.write_claim(self.tmdb_file, tconst, "directors", director, "tmdb"):
+                            self.tmdb_claims += 1
+                    for writer in self.split_atomic_values(tmdb_writers):
+                        if self.write_claim(self.tmdb_file, tconst, "writers", writer, "tmdb"):
+                            self.tmdb_claims += 1
                     
                     # Processar claims Wikidata
                     wikidata_title = row.get('wikidata_title', '')
@@ -94,18 +108,20 @@ class MovieDatasetConverter:
                     
                     if self.write_claim(self.wikidata_file, tconst, "title", wikidata_title, "wikidata"):
                         self.wikidata_claims += 1
-                    if self.write_claim(self.wikidata_file, tconst, "directors", wikidata_directors, "wikidata"):
-                        self.wikidata_claims += 1
-                    if self.write_claim(self.wikidata_file, tconst, "writers", wikidata_writers, "wikidata"):
-                        self.wikidata_claims += 1
+                    for director in self.split_atomic_values(wikidata_directors):
+                        if self.write_claim(self.wikidata_file, tconst, "directors", director, "wikidata"):
+                            self.wikidata_claims += 1
+                    for writer in self.split_atomic_values(wikidata_writers):
+                        if self.write_claim(self.wikidata_file, tconst, "writers", writer, "wikidata"):
+                            self.wikidata_claims += 1
                     
                     if row_num % 1000 == 0:
                         print(f"  Processados {row_num} filmes...")
             
             print(f"Dataset processado com sucesso!")
-            print(f"  - Claims OMDB: {self.omdb_claims}")
+            print(f"  - Claims tmdb: {self.tmdb_claims}")
             print(f"  - Claims Wikidata: {self.wikidata_claims}")
-            print(f"  - Total de claims: {self.omdb_claims + self.wikidata_claims}")
+            print(f"  - Total de claims: {self.tmdb_claims + self.wikidata_claims}")
             print(f"  - Próximo ID de claim disponível: {self.claim_id}")
             
             return True
@@ -116,7 +132,7 @@ class MovieDatasetConverter:
     
     def close(self):
         """Fecha os arquivos."""
-        self.omdb_file.close()
+        self.tmdb_file.close()
         self.wikidata_file.close()
 
 
@@ -133,7 +149,7 @@ def main():
         converter.close()
         print("\nConversão concluída com sucesso!")
         print(f"Arquivos gerados em: {OUTPUT_DIR}")
-        print(f"  - omdb.txt")
+        print(f"  - tmdb.txt")
         print(f"  - wikidata.txt")
     else:
         converter.close()

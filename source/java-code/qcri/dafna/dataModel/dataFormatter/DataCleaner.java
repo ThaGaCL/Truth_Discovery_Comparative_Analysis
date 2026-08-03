@@ -10,10 +10,6 @@ import java.util.regex.Pattern;
 import qcri.dafna.dataModel.data.Globals;
 import qcri.dafna.dataModel.dataFormatter.DataTypeMatcher.ValueType;
 
-import com.att.research.solomon.format.ISBNCleaner;
-import com.att.research.solomon.format.PersonListCleaner;
-import com.att.research.solomon.format.TextCleaner;
-
 public class DataCleaner {
 
 	/**
@@ -23,6 +19,10 @@ public class DataCleaner {
 	 * @return
 	 */
 	public static Object clean(String value, ValueType dataType) {
+		if (value == null) {
+			return "";
+		}
+
 		if (dataType.equals(ValueType.DATE)) {
 			return cleanDate(value);
 		}
@@ -33,25 +33,13 @@ public class DataCleaner {
 			return cleanListOfNames(value);
 		}
 		if (dataType.equals(ValueType.Name)) {
-			try {
-				return PersonListCleaner.INSTANCE.clean(value.replaceAll(",", " "));
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
+			return normalizeText(value.replaceAll(",", " "));
 		}
 		if (dataType.equals(ValueType.STRING)) {
-			try {
-				return ((String)TextCleaner.INSTANCE.clean(value)).trim();
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
+			return normalizeText(value);
 		}
 		if (dataType.equals(ValueType.ISBN)) {
-			try {
-				return ((String)ISBNCleaner.INSTANCE.clean(value)).trim();
-			} catch (Exception e) {
-				e.printStackTrace();
-			} 
+			return normalizeISBN(value);
 		}
 		if (dataType.equals(ValueType.BOOLEAN)) {
 			if (value.equalsIgnoreCase("true")) {
@@ -69,33 +57,33 @@ public class DataCleaner {
 			Float f = Float.valueOf(value);
 			return f;
 			} catch (NumberFormatException e) {
-				return (Object)value;
+				return (Object)normalizeText(value);
 			}
 		}
 		
 
-		return (Object)value;
+		return (Object)normalizeText(value);
 	}
 
 	private static Object cleanListOfNames(String value) {
-		String cleanedNames;
-		try {
-			cleanedNames = PersonListCleaner.INSTANCE.clean(value);
-			cleanedNames = cleanedNames.trim();
-			cleanedNames = cleanedNames.replaceAll("_", "-");
-			cleanedNames = cleanedNames.replaceAll("editor-", "");
-			if (cleanedNames.endsWith(";")) {
-				cleanedNames = cleanedNames.substring(0,cleanedNames.length()-1);
+		String cleanedNames = normalizeText(value);
+		cleanedNames = cleanedNames.replace("_", "-");
+		cleanedNames = cleanedNames.replace("editor-", "");
+		if (cleanedNames.endsWith(";")) {
+			cleanedNames = cleanedNames.substring(0,cleanedNames.length()-1);
+		}
+		String[] names = cleanedNames.split(Globals.cleanedListDelimiter);
+		StringBuilder sb = new StringBuilder();
+		for (String s : names) {
+			String part = normalizeText(s);
+			if (!part.isEmpty()) {
+				if (sb.length() > 0) {
+					sb.append(Globals.cleanedListDelimiter);
+				}
+				sb.append(part);
 			}
-			String[] names = cleanedNames.split(Globals.cleanedListDelimiter);
-			cleanedNames = "";
-			for (String s : names) {
-				cleanedNames = cleanedNames + Globals.cleanedListDelimiter + s.trim();
-			}
-			cleanedNames = cleanedNames.substring(Globals.cleanedListDelimiter.length());
-			return cleanedNames;
-		} catch (Exception e) {}
-		return value;
+		}
+		return sb.length() == 0 ? value : sb.toString();
 	}
 	/**
 	 * The time is extracted from the string value. if cannot extract it. the value is cleaned as a string and returned.
@@ -155,9 +143,18 @@ public class DataCleaner {
 			Date date = f.parse(stringValue);
 			return date;
 		} catch (ParseException e) {
-			e.printStackTrace();
+			return normalizeText(stringValue);
 		}
-		return stringValue;
+	}
+
+	private static String normalizeText(String value) {
+		return value.trim().replaceAll("\\s+", " ");
+	}
+
+	private static String normalizeISBN(String value) {
+		String cleaned = value == null ? "" : value.toUpperCase();
+		cleaned = cleaned.replaceAll("[^0-9X]", "");
+		return cleaned;
 	}
 	//	private static Object cleanDate(String stringValue) {
 	////		try {

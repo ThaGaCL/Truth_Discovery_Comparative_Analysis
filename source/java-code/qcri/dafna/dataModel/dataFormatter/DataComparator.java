@@ -4,8 +4,6 @@ import java.util.Date;
 
 import qcri.dafna.dataModel.data.ValueBucket;
 import qcri.dafna.dataModel.dataFormatter.DataTypeMatcher.ValueType;
-import uk.ac.shef.wit.simmetrics.similaritymetrics.AbstractStringMetric;
-import uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler;
 
 public class DataComparator {
 
@@ -101,13 +99,16 @@ public class DataComparator {
 		if (valueType.equals(ValueType.ListNames)) {
 			return PersonsNameComparator.computePersonsNamesListSimilarity(bucket1.getCleanedString(), bucket2.getCleanedString());
 		}
-		AbstractStringMetric similarityMetric = new JaroWinkler();
 		if (DataTypeMatcher.savedAsString(valueType)) {
 			/** 
 			 * the similarity is divided by the length of value2, in order to normalize
 			 * and compute the implication of value2 on value1. imp(v2->v1) != imp(v1->v2) 
 			 */
-			return similarityMetric.getSimilarity(bucket1.getCleanedString(), bucket2.getCleanedString())/(double)bucket2.getCleanedString().length();
+			double sim = computeSimilarity(bucket1.getCleanedString(), bucket2.getCleanedString());
+			if (bucket2.getCleanedString().length() == 0) {
+				return 0.0;
+			}
+			return sim/(double)bucket2.getCleanedString().length();
 		} 
 //		if (valueType.equals(ValueType.DATE) || valueType.equals(ValueType.TIME)) {
 //			// for unclean values, they will never have the same value (every bucket contains exactly the same values for String)
@@ -136,8 +137,40 @@ public class DataComparator {
 	 * @return
 	 */
 	public static double computeSimilarity(String s1, String s2) {
-		AbstractStringMetric similarityMetric = new JaroWinkler();
-		return similarityMetric.getSimilarity(s1, s2);
+		if (s1 == null || s2 == null) {
+			return 0.0;
+		}
+		s1 = s1.trim().toLowerCase();
+		s2 = s2.trim().toLowerCase();
+		if (s1.equals(s2)) {
+			return 1.0;
+		}
+		int maxLen = Math.max(s1.length(), s2.length());
+		if (maxLen == 0) {
+			return 1.0;
+		}
+		int dist = levenshteinDistance(s1, s2);
+		return Math.max(0.0, 1.0 - ((double)dist / (double)maxLen));
+	}
+
+	private static int levenshteinDistance(String a, String b) {
+		int[][] dp = new int[a.length() + 1][b.length() + 1];
+		for (int i = 0; i <= a.length(); i++) {
+			dp[i][0] = i;
+		}
+		for (int j = 0; j <= b.length(); j++) {
+			dp[0][j] = j;
+		}
+		for (int i = 1; i <= a.length(); i++) {
+			for (int j = 1; j <= b.length(); j++) {
+				int cost = a.charAt(i - 1) == b.charAt(j - 1) ? 0 : 1;
+				dp[i][j] = Math.min(
+					Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1),
+					dp[i - 1][j - 1] + cost
+				);
+			}
+		}
+		return dp[a.length()][b.length()];
 	}
 	
 }

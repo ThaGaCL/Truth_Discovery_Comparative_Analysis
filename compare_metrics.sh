@@ -102,6 +102,29 @@ build_bio_truth() {
   awk -F'\t' '{print $1"|"$2"|"$3}' "$ROOT_DIR/DAFNAData/formatted/Biographies/truth/biography-truth.txt" | sort -u
 }
 
+build_movies_claims() {
+  {
+    awk -F'\t' '{
+      oid=$2; prop=$3; val=$4;
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", oid);
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", prop);
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", val);
+      print oid"|"prop"|"val;
+    }' "$ROOT_DIR/DAFNAData/formatted/movies/claims/omdb.txt"
+    awk -F'\t' '{
+      oid=$2; prop=$3; val=$4;
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", oid);
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", prop);
+      gsub(/^[[:space:]]+|[[:space:]]+$/, "", val);
+      print oid"|"prop"|"val;
+    }' "$ROOT_DIR/DAFNAData/formatted/movies/claims/wikidata.txt"
+  } | sort -u
+}
+
+build_movies_truth() {
+  awk -F'\t' '{print $1"|"$2"|"$3}' "$ROOT_DIR/DAFNAData/formatted/movies/truth/movies-truth.txt" | sort -u
+}
+
 compute_metrics() {
   local label="$1"
   local claims_file="$2"
@@ -143,8 +166,11 @@ build_population_claims > "$TMP_DIR/pop.claims"
 build_population_truth > "$TMP_DIR/pop.truth"
 build_bio_claims > "$TMP_DIR/bio.claims"
 build_bio_truth > "$TMP_DIR/bio.truth"
+build_movies_claims > "$TMP_DIR/movies.claims"
+build_movies_truth > "$TMP_DIR/movies.truth"
 
 compute_metrics "weather" "$TMP_DIR/weather.claims" "$TMP_DIR/weather.truth"
 compute_metrics "flight" "$TMP_DIR/flight.claims" "$TMP_DIR/flight.truth"
 compute_metrics "population" "$TMP_DIR/pop.claims" "$TMP_DIR/pop.truth"
 compute_metrics "biography" "$TMP_DIR/bio.claims" "$TMP_DIR/bio.truth"
+compute_metrics "movies" "$TMP_DIR/movies.claims" "$TMP_DIR/movies.truth"

@@ -73,10 +73,11 @@ java -cp build/classes main.MainClass movies
 Para executar os algoritmos de Truth Discovery no dataset de filmes:
 
 ```bash
-# Modificar scripts/MainExperiment.java para incluir "movies"
-# Então executar:
+# O runner de métricas agora inclui o dataset movies.
 ./compare_metrics.sh
 ```
+
+Observação: `compare_metrics.sh` compara os datasets legados e também o novo dataset `movies`, usando as claims OMDB + Wikidata unificadas contra o arquivo de truth gerado a partir de OMDB.
 
 ### 3. Análise de Resultados
 

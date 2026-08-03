@@ -1,16 +1,12 @@
 package qcri.dafna.dataModel.dataSet.dataSetFormatter;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.HashMap;
-import java.util.Map;
 
 import qcri.dafna.dataModel.data.Globals;
-import qcri.dafna.dataModel.dataSet.ClaimWriter;
 
 /**
  * Reader for movies dataset claims and truth files.
@@ -54,8 +50,9 @@ public class MovieDataSetReadOldWriteNew {
 			while ((line = reader.readLine()) != null) {
 				lineCount++;
 				
-				// Parse line: claimId | objectId | property | value | sourceId | timestamp |
-				String[] parts = line.split("\\|\\t");
+				// Parse line: claimId\tobjectId\tproperty\tvalue\tsourceId\ttimestamp\t
+				// The generated files use TAB as the real field separator.
+				String[] parts = line.split("\t");
 				if (parts.length < 5) {
 					continue;
 				}

@@ -86,6 +86,39 @@ java -cp build/classes main.MainClass biography
 java -cp build/classes main.MainClass flight
 ```
 
+## Run truth discovery algorithms on movies dataset
+
+The dataset formatting step is:
+
+```bash
+java -cp build/classes main.MainClass movies
+```
+
+To run the available voters for movies in one command:
+
+```bash
+# Compile local compatibility classes plus the movies runner
+javac --release 25 -cp source/bin -d build/classes \
+	source/java-code/qcri/dafna/dataModel/dataFormatter/DataCleaner.java \
+	source/java-code/qcri/dafna/dataModel/dataFormatter/DataComparator.java \
+	source/java-code/main/MoviesAllAlgorithmsRunner.java
+
+# Execute all voters for movies
+java -cp build/classes:source/bin main.MoviesAllAlgorithmsRunner
+```
+
+Or use the single automation script:
+
+```bash
+chmod +x run_movies_all.sh
+./run_movies_all.sh
+```
+
+Notes:
+- `run_movies_all.sh` automatically downloads Apache Commons Math3 into `.lib/commons-math3-3.6.1.jar` if needed.
+- If network is unavailable and Math3 is missing, algorithms that require it may be skipped.
+- The runner prints CSV lines with metrics per algorithm: TP, FP, FN, TN, precision, recall, accuracy, specificity, F1, iterations, and duration.
+
 ## Compare claims with truth
 
 Run from the repository root.

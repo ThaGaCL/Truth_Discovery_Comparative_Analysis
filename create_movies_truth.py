@@ -29,6 +29,14 @@ def create_truth_file():
             
             reader = csv.DictReader(csvfile)
             count = 0
+
+            def atomic_values(raw_value):
+                if not raw_value:
+                    return []
+                raw_value = raw_value.strip()
+                if not raw_value or raw_value == "\\N":
+                    return []
+                return [part.strip() for part in raw_value.split(';') if part.strip() and part.strip() != "\\N"]
             
             for row in reader:
                 tconst = row.get('tconst', '').strip()
@@ -44,12 +52,12 @@ def create_truth_file():
                     truthfile.write(f"{tconst}\ttitle\t{omdb_title}\n")
                     count += 1
                 
-                if omdb_directors and omdb_directors != "\\N":
-                    truthfile.write(f"{tconst}\tdirectors\t{omdb_directors}\n")
+                for director in atomic_values(omdb_directors):
+                    truthfile.write(f"{tconst}\tdirectors\t{director}\n")
                     count += 1
                 
-                if omdb_writers and omdb_writers != "\\N":
-                    truthfile.write(f"{tconst}\twriters\t{omdb_writers}\n")
+                for writer in atomic_values(omdb_writers):
+                    truthfile.write(f"{tconst}\twriters\t{writer}\n")
                     count += 1
         
         print(f"Arquivo de verdade criado com sucesso!")
