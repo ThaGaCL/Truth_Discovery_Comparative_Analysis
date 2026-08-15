@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -euo pipefail # Faz o script parar se 
+                    # (e) algum comando falhar
+                    # (u) uma variavel declarada nao for usada
+                    # (pipefail) um erro ocorrer no meio de um encadeamento de comandos
 
 ROOT_DIR="$(cd "$(dirname "$0")" && pwd)"
 LIB_DIR="$ROOT_DIR/.lib"
@@ -7,9 +10,11 @@ MATH3_JAR="$LIB_DIR/commons-math3-3.6.1.jar"
 MATH3_URL="https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar"
 OUT_CSV="$ROOT_DIR/DAFNAData/experiments/voterLog/movies_all_algorithms.csv"
 
+# Cria os diretórios para garantir que existem
 mkdir -p "$LIB_DIR"
 mkdir -p "$(dirname "$OUT_CSV")"
 
+# Confere se o math3 está instalado, se não tenta realizar o curl ou webget
 ensure_math3() {
   if [[ -f "$MATH3_JAR" ]]; then
     return 0
@@ -29,6 +34,7 @@ ensure_math3() {
   return 0
 }
 
+# Compilacao
 compile_runner() {
   echo "[INFO] Compilando classes necessárias..."
   javac --release 25 -cp "$ROOT_DIR/source/bin${EXTRA_CP:+:$EXTRA_CP}" -d "$ROOT_DIR/build/classes" \
@@ -37,10 +43,12 @@ compile_runner() {
     "$ROOT_DIR/source/java-code/main/MoviesAllAlgorithmsRunner.java"
 }
 
+# Pré processamento e roda os experimentos
 run_runner() {
   echo "[INFO] Processando dataset movies..."
   java -cp "$ROOT_DIR/build/classes" main.MainClass movies >/dev/null
 
+  # Depois colocar dentro de um loop para coletar a média dos resultados
   echo "[INFO] Executando todos os algoritmos para movies..."
   java -cp "$ROOT_DIR/build/classes:$ROOT_DIR/source/bin${EXTRA_CP:+:$EXTRA_CP}" main.MoviesAllAlgorithmsRunner | tee "$OUT_CSV"
 

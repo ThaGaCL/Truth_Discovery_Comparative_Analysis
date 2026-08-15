@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
 """
 Script para criar arquivo de verdade (truth file) para dataset de filmes.
-
 O arquivo de verdade contém as informações corretas dos filmes.
-Estratégia: usar os valores OMDB como verdade (por ser mais completo).
 """
 
 import csv
 import os
 
-DATASET_PATH = "../Datasets/joined/dataset_full.csv"
+# Caminho atualizado apontando para o seu novo arquivo unificado do OMDb
+DATASET_PATH = "/home/thilons/Documentos/tcc/multi_truth_discovery/Datasets/omdb/6komdb_data_full.csv"
 TRUTH_OUTPUT = "DAFNAData/formatted/movies/truth/movies-truth.txt"
 
 def create_truth_file():
-    """Cria arquivo de verdade baseado no dataset OMDB."""
+    """Cria arquivo de verdade baseado no dataset OMDB unificado."""
     print(f"Criando arquivo de verdade: {TRUTH_OUTPUT}")
     
     if not os.path.exists(DATASET_PATH):
@@ -40,6 +39,7 @@ def create_truth_file():
             
             for row in reader:
                 tconst = row.get('tconst', '').strip()
+                # Pega os dados usando as colunas geradas na sua raspagem do OMDb
                 omdb_title = row.get('omdb_title', '').strip()
                 omdb_directors = row.get('omdb_directors', '').strip()
                 omdb_writers = row.get('omdb_writers', '').strip()
@@ -47,21 +47,21 @@ def create_truth_file():
                 if not tconst:
                     continue
                 
-                # Usar valores OMDB como verdade, ignorar valores vazios
+                # Usar valores OMDB como verdade, adicionando o \tTrue exigido pelo DAFNA
                 if omdb_title and omdb_title != "\\N":
-                    truthfile.write(f"{tconst}\ttitle\t{omdb_title}\n")
+                    truthfile.write(f"{tconst}\ttitle\t{omdb_title}\tTrue\n")
                     count += 1
                 
                 for director in atomic_values(omdb_directors):
-                    truthfile.write(f"{tconst}\tdirectors\t{director}\n")
+                    truthfile.write(f"{tconst}\tdirectors\t{director}\tTrue\n")
                     count += 1
                 
                 for writer in atomic_values(omdb_writers):
-                    truthfile.write(f"{tconst}\twriters\t{writer}\n")
+                    truthfile.write(f"{tconst}\twriters\t{writer}\tTrue\n")
                     count += 1
         
         print(f"Arquivo de verdade criado com sucesso!")
-        print(f"  - Total de valores de verdade: {count}")
+        print(f"  - Total de valores de verdade atômicos: {count}")
         return True
     
     except Exception as e:

@@ -17,7 +17,7 @@ import os
 from pathlib import Path
 
 # Configurações
-DATASET_PATH = "../Datasets/normalized/normalized_dataset_full.csv"
+DATASET_PATH = "../Datasets/normalized/6k_normalized_dataset_full.csv"
 OUTPUT_DIR = "DAFNAData/formatted/movies/claims"
 TIMESTAMP = "2026-08-03"
 DELIMITER = "\t"
