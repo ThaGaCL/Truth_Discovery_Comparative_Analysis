@@ -1,7 +1,9 @@
 package main;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -74,36 +76,52 @@ public class MoviesAllAlgorithmsRunner {
 
         voters.add(new VoterSpec("LTM", ds -> new LatentTruthModel(10.0, 10.0, 0.9, 0.1, 0.1, 0.9, ds, 500, 100, 9)));
 
-        System.out.println("algorithm,tp,fp,fn,tn,precision,recall,accuracy,specificity,f1,iterations,duration_ms");
+        int totalRuns = 30;
+        
+        for (int run = 0; run < totalRuns; run++) {
+            String outputFileName = "movies_results_run_" + (run+1) + ".csv";
+            Path outputPath = Paths.get(outputFileName);
 
-        for (VoterSpec spec : voters) {
-            try {
-                DataSet dataSet = loadMoviesDataSetWithTruth();
-                Voter voter = spec.factory.create(dataSet);
-                VoterQualityMeasures m = voter.launchVoter(convergence100);
-                double precision = m.getPrecision();
-                double recall = m.getRecall();
-                double f1 = (precision + recall) == 0.0 ? 0.0 : (2.0 * precision * recall) / (precision + recall);
+            System.out.println("Iniciando a iteração " + (run+1) + " de " + totalRuns + "...");
+            
+            try (BufferedWriter bw = Files.newBufferedWriter(outputPath, StandardCharsets.UTF_8);
+                 PrintWriter out = new PrintWriter(bw)) {
 
-                System.out.println(spec.name
-                        + "," + m.getTruePositive()
-                        + "," + m.getFalsePositive()
-                        + "," + m.getFalseNegative()
-                        + "," + m.getTrueNegative()
-                        + "," + fmt(m.getPrecision())
-                        + "," + fmt(m.getRecall())
-                        + "," + fmt(m.getAccuracy())
-                        + "," + fmt(m.getSpecificity())
-                        + "," + fmt(f1)
-                        + "," + m.getNumberOfIterations()
-                        + "," + m.getTimings().getVoterDuration());
-            } catch (Throwable t) {
-                String reason = t.getClass().getSimpleName();
-                if (t.getMessage() != null && !t.getMessage().isEmpty()) {
-                    reason += ": " + t.getMessage().replace(',', ';');
+                System.out.println("algorithm,tp,fp,fn,tn,precision,recall,accuracy,specificity,f1,iterations,duration_ms");
+
+                for (VoterSpec spec : voters) {
+                    try {
+                        DataSet dataSet = loadMoviesDataSetWithTruth();
+                        Voter voter = spec.factory.create(dataSet);
+                        VoterQualityMeasures m = voter.launchVoter(convergence100);
+                        double precision = m.getPrecision();
+                        double recall = m.getRecall();
+                        double f1 = (precision + recall) == 0.0 ? 0.0 : (2.0 * precision * recall) / (precision + recall);
+                    
+                        System.out.println(spec.name
+                                + "," + m.getTruePositive()
+                                + "," + m.getFalsePositive()
+                                + "," + m.getFalseNegative()
+                                + "," + m.getTrueNegative()
+                                + "," + fmt(m.getPrecision())
+                                + "," + fmt(m.getRecall())
+                                + "," + fmt(m.getAccuracy())
+                                + "," + fmt(m.getSpecificity())
+                                + "," + fmt(f1)
+                                + "," + m.getNumberOfIterations()
+                                + "," + m.getTimings().getVoterDuration());
+                    } catch (Throwable t) {
+                        String reason = t.getClass().getSimpleName();
+                        if (t.getMessage() != null && !t.getMessage().isEmpty()) {
+                            reason += ": " + t.getMessage().replace(',', ';');
+                        }
+                        System.out.println(spec.name + ",SKIPPED," + reason);
+                    }
                 }
-                System.out.println(spec.name + ",SKIPPED," + reason);
+            }catch (IOException e) {
+                System.err.println("Erro ao salvar o arquivo " + outputFileName + ": " + e.getMessage());
             }
+            System.out.println("Resultados da iteração " + (run+1) + " salvos em: " + outputFileName);
         }
     }
 

@@ -42,7 +42,8 @@ run_runner() {
   java -cp "$ROOT_DIR/build/classes" main.MainClass movies >/dev/null
 
   echo "[INFO] Executando todos os algoritmos para movies..."
-  java -cp "$ROOT_DIR/build/classes:$ROOT_DIR/source/bin${EXTRA_CP:+:$EXTRA_CP}" main.MoviesAllAlgorithmsRunner | tee "$OUT_CSV"
+  
+    java -cp "$ROOT_DIR/build/classes:$ROOT_DIR/source/bin${EXTRA_CP:+:$EXTRA_CP}" main.MoviesAllAlgorithmsRunner | tee "$OUT_CSV"
 
   echo ""
   echo "[OK] Resultado salvo em: $OUT_CSV"
