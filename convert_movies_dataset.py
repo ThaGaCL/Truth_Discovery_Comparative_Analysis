@@ -9,7 +9,7 @@ Para datasets de filmes:
 - objectIdentifier: tconst (identificador do filme)
 - propertyName: title, directors, writers
 - propertyValue: valor do atributo
-- sourceId: tmdb ou wikidata
+- sourceId: tmdb, wikidata, cinemeta ou letterboxd
 """
 
 import csv
@@ -17,7 +17,7 @@ import os
 from pathlib import Path
 
 # Configurações
-DATASET_PATH = "../Datasets/normalized/normalized_dataset_full.csv"
+DATASET_PATH = "../Datasets/normalized/4s_normalized_dataset_full.csv"
 OUTPUT_DIR = "DAFNAData/formatted/movies/claims"
 TIMESTAMP = "2026-08-03"
 DELIMITER = "\t"
@@ -34,9 +34,13 @@ class MovieDatasetConverter:
         # Criar writers para cada fonte
         self.tmdb_file = open(os.path.join(output_dir, "tmdb.txt"), "w", encoding="utf-8")
         self.wikidata_file = open(os.path.join(output_dir, "wikidata.txt"), "w", encoding="utf-8")
+        self.cinemeta_file = open(os.path.join(output_dir, "cinemeta.txt"), "w", encoding="utf-8")
+        self.letterboxd_file = open(os.path.join(output_dir, "letterboxd.txt"), "w", encoding="utf-8")
         
         self.tmdb_claims = 0
         self.wikidata_claims = 0
+        self.cinemeta_claims = 0
+        self.letterboxd_claims = 0
 
     def split_atomic_values(self, property_value):
         """Divide valores multi-valorados em claims atômicas."""
@@ -87,7 +91,7 @@ class MovieDatasetConverter:
                     if not tconst:
                         continue
                     
-                    # Processar claims tmdb
+                    # --- Processar claims TMDB ---
                     tmdb_title = row.get('tmdb_title', '')
                     tmdb_directors = row.get('tmdb_directors', '')
                     tmdb_writers = row.get('tmdb_writers', '')
@@ -101,7 +105,7 @@ class MovieDatasetConverter:
                         if self.write_claim(self.tmdb_file, tconst, "writers", writer, "tmdb"):
                             self.tmdb_claims += 1
                     
-                    # Processar claims Wikidata
+                    # --- Processar claims Wikidata ---
                     wikidata_title = row.get('wikidata_title', '')
                     wikidata_directors = row.get('wikidata_directors', '')
                     wikidata_writers = row.get('wikidata_writers', '')
@@ -114,14 +118,46 @@ class MovieDatasetConverter:
                     for writer in self.split_atomic_values(wikidata_writers):
                         if self.write_claim(self.wikidata_file, tconst, "writers", writer, "wikidata"):
                             self.wikidata_claims += 1
+                            
+                    # --- Processar claims Cinemeta ---
+                    cinemeta_title = row.get('cinemeta_title', '')
+                    cinemeta_directors = row.get('cinemeta_directors', '')
+                    cinemeta_writers = row.get('cinemeta_writers', '')
+                    
+                    if self.write_claim(self.cinemeta_file, tconst, "title", cinemeta_title, "cinemeta"):
+                        self.cinemeta_claims += 1
+                    for director in self.split_atomic_values(cinemeta_directors):
+                        if self.write_claim(self.cinemeta_file, tconst, "directors", director, "cinemeta"):
+                            self.cinemeta_claims += 1
+                    for writer in self.split_atomic_values(cinemeta_writers):
+                        if self.write_claim(self.cinemeta_file, tconst, "writers", writer, "cinemeta"):
+                            self.cinemeta_claims += 1
+                            
+                    # --- Processar claims Letterboxd ---
+                    letterboxd_title = row.get('letterboxd_title', '')
+                    letterboxd_directors = row.get('letterboxd_directors', '')
+                    letterboxd_writers = row.get('letterboxd_writers', '')
+                    
+                    if self.write_claim(self.letterboxd_file, tconst, "title", letterboxd_title, "letterboxd"):
+                        self.letterboxd_claims += 1
+                    for director in self.split_atomic_values(letterboxd_directors):
+                        if self.write_claim(self.letterboxd_file, tconst, "directors", director, "letterboxd"):
+                            self.letterboxd_claims += 1
+                    for writer in self.split_atomic_values(letterboxd_writers):
+                        if self.write_claim(self.letterboxd_file, tconst, "writers", writer, "letterboxd"):
+                            self.letterboxd_claims += 1
                     
                     if row_num % 1000 == 0:
                         print(f"  Processados {row_num} filmes...")
             
+            total_claims = self.tmdb_claims + self.wikidata_claims + self.cinemeta_claims + self.letterboxd_claims
+            
             print(f"Dataset processado com sucesso!")
-            print(f"  - Claims tmdb: {self.tmdb_claims}")
+            print(f"  - Claims TMDB: {self.tmdb_claims}")
             print(f"  - Claims Wikidata: {self.wikidata_claims}")
-            print(f"  - Total de claims: {self.tmdb_claims + self.wikidata_claims}")
+            print(f"  - Claims Cinemeta: {self.cinemeta_claims}")
+            print(f"  - Claims Letterboxd: {self.letterboxd_claims}")
+            print(f"  - Total de claims: {total_claims}")
             print(f"  - Próximo ID de claim disponível: {self.claim_id}")
             
             return True
@@ -134,6 +170,8 @@ class MovieDatasetConverter:
         """Fecha os arquivos."""
         self.tmdb_file.close()
         self.wikidata_file.close()
+        self.cinemeta_file.close()
+        self.letterboxd_file.close()
 
 
 def main():
@@ -151,6 +189,8 @@ def main():
         print(f"Arquivos gerados em: {OUTPUT_DIR}")
         print(f"  - tmdb.txt")
         print(f"  - wikidata.txt")
+        print(f"  - cinemeta.txt")
+        print(f"  - letterboxd.txt")
     else:
         converter.close()
         print("Erro na conversão!")

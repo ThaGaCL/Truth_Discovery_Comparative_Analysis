@@ -30,24 +30,32 @@ import qcri.dafna.voter.accuModels.AccuModelBase;
 import qcri.dafna.voter.latentTruthModel.LatentTruthModel;
 
 /**
- * Executes all available truth discovery voters for the movies dataset.
+ * Executa todos os voters para o dataset movies
  *
- * Input files expected:
- * - DAFNAData/formatted/movies/claims/omdb.txt
+ * Arquivos de input esperados:
+ * Para testes com 2 sources
+ * - DAFNAData/formatted/movies/claims/tmdb.txt
  * - DAFNAData/formatted/movies/claims/wikidata.txt
+ * Para testes com 4 sources
+ * - DAFNAData/formatted/movies/claims/cinemeta.txt
+ * - DAFNAData/formatted/movies/claims/letterboxd.txt
  * - DAFNAData/formatted/movies/truth/movies-truth.txt
  */
 public class MoviesAllAlgorithmsRunner {
 
-    private static final Path CLAIMS_OMDB = Paths.get("DAFNAData/formatted/movies/claims/omdb.txt");
+    private static final Path CLAIMS_TMDB = Paths.get("DAFNAData/formatted/movies/claims/tmdb.txt");
     private static final Path CLAIMS_WIKIDATA = Paths.get("DAFNAData/formatted/movies/claims/wikidata.txt");
+    private static final Path CLAIMS_LETTERBOX = Paths.get("DAFNAData/formatted/movies/claims/letterboxd.txt");
+    private static final Path CLAIMS_CINEMETA = Paths.get("DAFNAData/formatted/movies/claims/cinemeta.txt");
+    
     private static final Path TRUTH_FILE = Paths.get("DAFNAData/formatted/movies/truth/movies-truth.txt");
+
 
     private interface VoterFactory {
         Voter create(DataSet dataSet);
     }
 
-    private static final class VoterSpec {
+    private static final class VoterSpec { 
         final String name;
         final VoterFactory factory;
 
@@ -130,9 +138,12 @@ public class MoviesAllAlgorithmsRunner {
         dataSet.setENCODING(StandardCharsets.UTF_8);
 
         int claims = 0;
-        claims += readClaimsFile(CLAIMS_OMDB, dataSet);
+        claims += readClaimsFile(CLAIMS_TMDB, dataSet);
         claims += readClaimsFile(CLAIMS_WIKIDATA, dataSet);
-
+        claims += readClaimsFile(CLAIMS_CINEMETA, dataSet);
+        claims += readClaimsFile(CLAIMS_LETTERBOX, dataSet);
+        
+    
         dataSet.computeValueBuckets(false);
 
         DataQualityMeasurments quality = new DataQualityMeasurments(dataSet);
