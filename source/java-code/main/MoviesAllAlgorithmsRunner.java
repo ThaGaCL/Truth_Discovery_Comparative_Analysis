@@ -39,7 +39,7 @@ import qcri.dafna.voter.latentTruthModel.LatentTruthModel;
  */
 public class MoviesAllAlgorithmsRunner {
 
-    private static final Path CLAIMS_OMDB = Paths.get("DAFNAData/formatted/movies/claims/omdb.txt");
+    private static final Path CLAIMS_TMDB = Paths.get("DAFNAData/formatted/movies/claims/tmdb.txt");
     private static final Path CLAIMS_WIKIDATA = Paths.get("DAFNAData/formatted/movies/claims/wikidata.txt");
     private static final Path TRUTH_FILE = Paths.get("DAFNAData/formatted/movies/truth/movies-truth.txt");
 
@@ -130,7 +130,7 @@ public class MoviesAllAlgorithmsRunner {
         dataSet.setENCODING(StandardCharsets.UTF_8);
 
         int claims = 0;
-        claims += readClaimsFile(CLAIMS_OMDB, dataSet);
+        claims += readClaimsFile(CLAIMS_TMDB, dataSet);
         claims += readClaimsFile(CLAIMS_WIKIDATA, dataSet);
 
         dataSet.computeValueBuckets(false);
